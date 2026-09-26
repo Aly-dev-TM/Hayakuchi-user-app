@@ -1,0 +1,35 @@
+{
+  "expo": {
+    "name": "Hayakuchi",
+    "slug": "hayakuchi-app",
+    "version": "1.1.2",
+    "orientation": "portrait",
+    "jsEngine": "hermes",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "dark",
+    "splash": {
+      "image": "./assets/splash-icon.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#0D0F12"
+    },
+    "android": {
+      "package": "com.alydev.hayakuchi",
+      "versionCode": 2,
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/icon.png",
+        "backgroundColor": "#0D0F12"
+      }
+    },
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.alydev.hayakuchi",
+      "buildNumber": "2"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "bc6f382d-c383-4b9e-ac72-76190225ebd9"
+      }
+    },
+    "owner": "aly-dev_tm"
+  }
+}

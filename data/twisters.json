@@ -1,0 +1,5006 @@
+[
+  {
+    "id": "twister_001",
+    "difficulty": "easy",
+    "level": "N5",
+    "japanese": "生麦生米生卵",
+    "hiragana": "なまむぎ なまごめ なまたまご",
+    "romaji": "Namamugi namagome namatamago",
+    "translation_tm": "Çyg arpa, çyg tüwi, çyg ýumurtga.",
+    "audio_text": "なまむぎなまごめなまたまご"
+  },
+  {
+    "id": "twister_002",
+    "difficulty": "easy",
+    "level": "N5",
+    "japanese": "庭には二羽鶏がいる",
+    "hiragana": "にわには にわ にわとりが いる",
+    "romaji": "Niwa ni wa niwa niwatori ga iru",
+    "translation_tm": "Howluda iki sany towuk bar.",
+    "audio_text": "にわにはにわにわとりがいる"
+  },
+  {
+    "id": "twister_003",
+    "difficulty": "easy",
+    "level": "N5",
+    "japanese": "すもももももももものうち",
+    "hiragana": "すもも も もも も もも の うち",
+    "romaji": "Sumomo mo momo mo momo no uchi",
+    "translation_tm": "Ýapon erigi hem, şetdaly hem şetdaly maşgalasyndandyr.",
+    "audio_text": "すもももももももものうち"
+  },
+  {
+    "id": "twister_004",
+    "difficulty": "easy",
+    "level": "N5",
+    "japanese": "隣の客はよく柿食う客だ",
+    "hiragana": "となりの きゃくは よく かき くう きゃくだ",
+    "romaji": "Tonari no kyaku wa yoku kaki kuu kyaku da",
+    "translation_tm": "Goňşy myhman köp hurma iýýän myhmandyr.",
+    "audio_text": "となりのきゃくはよくかきくうきゃくだ"
+  },
+  {
+    "id": "twister_005",
+    "difficulty": "easy",
+    "level": "N5",
+    "japanese": "赤巻紙青巻紙黄巻紙",
+    "hiragana": "あかまきがみ あおまきがみ きまきがみ",
+    "romaji": "Akamakigami aomakigami kimakigami",
+    "translation_tm": "Gyzyl kagyz roly, gök kagyz roly, sary kagyz roly.",
+    "audio_text": "あかまきがみあおまきがみきまきがみ"
+  },
+  {
+    "id": "twister_006",
+    "difficulty": "easy",
+    "level": "N5",
+    "japanese": "竹垣に竹立てかけた",
+    "hiragana": "たけがきに たけ たてかけた",
+    "romaji": "Takegaki ni take tatekakeda",
+    "translation_tm": "Bambuk haşala bambuk söýeýäler.",
+    "audio_text": "たけがきにたけたてかけた"
+  },
+  {
+    "id": "twister_007",
+    "difficulty": "easy",
+    "level": "N5",
+    "japanese": "バスガス爆発",
+    "hiragana": "ばす がす ばくはつ",
+    "romaji": "Basu gasu bakuhatsu",
+    "translation_tm": "Awtobus gaz partlamasy.",
+    "audio_text": "ばすがすばくはつ"
+  },
+  {
+    "id": "twister_008",
+    "difficulty": "easy",
+    "level": "N5",
+    "japanese": "青パプリカ黄パプリカ赤パプリカ",
+    "hiragana": "あおぱぷりか きぱぷりか あかぱぷりか",
+    "romaji": "Ao papurika kii papurika aka papurika",
+    "translation_tm": "Gök bulgar, sary bulgar, gyzyl bulgar.",
+    "audio_text": "あおぱぷりかきぱぷりかあかぱぷりか"
+  },
+  {
+    "id": "twister_009",
+    "difficulty": "easy",
+    "level": "N5",
+    "japanese": "バナナの謎はまだ謎なのだぞ",
+    "hiragana": "ばななの なぞは まだ なぞなのだぞ",
+    "romaji": "Banana no nazo wa mada nazo na no da zo",
+    "translation_tm": "Bananyň syry entek hem syrdyr.",
+    "audio_text": "ばななのなぞはまだなぞなのだぞ"
+  },
+  {
+    "id": "twister_010",
+    "difficulty": "easy",
+    "level": "N5",
+    "japanese": "黒猫と白猫と茶色猫",
+    "hiragana": "くろねこと しろねこと ちゃいろねこ",
+    "romaji": "Kuroneko to shironeko to chaironeko",
+    "translation_tm": "Gara pişik, ak pişik we goňur pişik.",
+    "audio_text": "くろねことしろねことちゃいろねこ"
+  },
+  {
+    "id": "twister_011",
+    "difficulty": "easy",
+    "level": "N5",
+    "japanese": "右目右耳右耳右目",
+    "hiragana": "みぎめ みぎみみ みぎみみ みぎめ",
+    "romaji": "Migime migimimi migimimi migime",
+    "translation_tm": "Sag göz, sag gulak, sag gulak, sag göz.",
+    "audio_text": "みぎめみぎみみみぎみみみぎめ"
+  },
+  {
+    "id": "twister_012",
+    "difficulty": "easy",
+    "level": "N5",
+    "japanese": "上パン下パン食パン",
+    "hiragana": "うえぱん したぱん しょくぱん",
+    "romaji": "Uepan shitapan shokupan",
+    "translation_tm": "Ýokarky çörek, aşaky çörek, ak dilimlenen çörek.",
+    "audio_text": "うえぱんしたぱんしょくぱん"
+  },
+  {
+    "id": "twister_013",
+    "difficulty": "easy",
+    "level": "N5",
+    "japanese": "赤パジャマ黄パパジャマ青パジャマ",
+    "hiragana": "あかぱじゃま きぱじゃま あおぱじゃま",
+    "romaji": "Akapajama kipajama aopajama",
+    "translation_tm": "Gyzyl pižama, sary pižama, gök pižama.",
+    "audio_text": "あかぱじゃまきぱじゃまあおぱじゃま"
+  },
+  {
+    "id": "twister_014",
+    "difficulty": "easy",
+    "level": "N5",
+    "japanese": "裏庭に三羽の鳥がいる",
+    "hiragana": "うらにわに さんばの とりが いる",
+    "romaji": "Uraniwa ni sanba no tori ga iru",
+    "translation_tm": "Arka howluda üç sany guş bar.",
+    "audio_text": "うらにわにさんばのとりがいる"
+  },
+  {
+    "id": "twister_015",
+    "difficulty": "easy",
+    "level": "N5",
+    "japanese": "高い山と低い山と青い山",
+    "hiragana": "たかい やまと ひくい やまと あおい やま",
+    "romaji": "Takai yama to hikui yama to aoi yama",
+    "translation_tm": "Beýik dag, pes dag we gök dag.",
+    "audio_text": "たかいやまとひくいやまとあおいやま"
+  },
+  {
+    "id": "twister_016",
+    "difficulty": "easy",
+    "level": "N5",
+    "japanese": "青い傘赤い傘黄色い傘",
+    "hiragana": "あおい かさ あかい かさ きいろい かさ",
+    "romaji": "Aoi kasa akai kasa kiiroi kasa",
+    "translation_tm": "Gök saýawan, gyzyl saýawan, sary saýawan.",
+    "audio_text": "あおいかさあかいかさきいろいかさ"
+  },
+  {
+    "id": "twister_017",
+    "difficulty": "easy",
+    "level": "N5",
+    "japanese": "金曜日金曜日銀曜日",
+    "hiragana": "きんようび きんようび ぎんようび",
+    "romaji": "Kinyōbi kinyōbi gin'yōbi",
+    "translation_tm": "Anna güni, anna güni, kümüş güni.",
+    "audio_text": "きんようびきんようびぎんようび"
+  },
+  {
+    "id": "twister_018",
+    "difficulty": "easy",
+    "level": "N5",
+    "japanese": "猫耳犬耳うさぎ耳",
+    "hiragana": "ねこみみ いぬみみ うさぎみみ",
+    "romaji": "Nekomimi inumimi usagimimi",
+    "translation_tm": "Pişik gulagy, it gulagy, towşan kulagy.",
+    "audio_text": "ねこみみいぬみみうさぎみみ"
+  },
+  {
+    "id": "twister_019",
+    "difficulty": "easy",
+    "level": "N5",
+    "japanese": "赤い花青い花白い花",
+    "hiragana": "あかい はな あおい はな しろい はな",
+    "romaji": "Akai hana aoi hana shiroi hana",
+    "translation_tm": "Gyzyl gül, gök gül, ak gül.",
+    "audio_text": "あかいはなあおいはなしろいはな"
+  },
+  {
+    "id": "twister_020",
+    "difficulty": "easy",
+    "level": "N5",
+    "japanese": "大きい犬小さい犬黒い犬",
+    "hiragana": "おおきい いぬ ちいさい いぬ くろい いぬ",
+    "romaji": "Ōkii inu chiisai inu kuroi inu",
+    "translation_tm": "Uly köpek, kiçi köpek, gara köpek.",
+    "audio_text": "おおきいいぬちいさいいぬくろいいぬ"
+  },
+  {
+    "id": "twister_021",
+    "difficulty": "easy",
+    "level": "N5",
+    "japanese": "車車三台の車",
+    "hiragana": "くるま くるま さんだいの くるま",
+    "romaji": "Kuruma kuruma sandai no kuruma",
+    "translation_tm": "Maşyn, maşyn, üç sany maşyn.",
+    "audio_text": "くるまくるまさんだいのくるま"
+  },
+  {
+    "id": "twister_022",
+    "difficulty": "easy",
+    "level": "N5",
+    "japanese": "甘い飴辛い飴苦い飴",
+    "hiragana": "あまい あめ からい あめ にがい あめ",
+    "romaji": "Amai ame karai ame nigai ame",
+    "translation_tm": "Süýji kemput, ajy kemput, ajymtyk kemput.",
+    "audio_text": "あまいあめからいあめにがいあめ"
+  },
+  {
+    "id": "twister_023",
+    "difficulty": "easy",
+    "level": "N5",
+    "japanese": "川の魚海の魚池の魚",
+    "hiragana": "かわの さかな うみの さかな いけの さかな",
+    "romaji": "Kawa no sakana umi no sakana ike no sakana",
+    "translation_tm": "Derýa balygy, deňiz balygy, hovuz balygy.",
+    "audio_text": "かわのさかなうみのさかないけのさかな"
+  },
+  {
+    "id": "twister_024",
+    "difficulty": "easy",
+    "level": "N5",
+    "japanese": "右の手左の手両方の手",
+    "hiragana": "みぎの て ひだりの て りょうほうの て",
+    "romaji": "Migi no te hidari no te ryōhō no te",
+    "translation_tm": "Sag el, sol el, ikisi hem el.",
+    "audio_text": "みぎのてひだりのてりょうほうのて"
+  },
+  {
+    "id": "twister_025",
+    "difficulty": "easy",
+    "level": "N5",
+    "japanese": "木の上に小鳥が六羽いる",
+    "hiragana": "きの うえに ことりが ろくわ いる",
+    "romaji": "Ki no ue ni kotori ga rokuwa iru",
+    "translation_tm": "Agajyň üstünde alty sany kiçi guş bar.",
+    "audio_text": "きのうえにことりがろくわいる"
+  },
+  {
+    "id": "twister_026",
+    "difficulty": "easy",
+    "level": "N5",
+    "japanese": "本棚の本ノートの本辞書の本",
+    "hiragana": "ほんだなの ほん のーとの ほん じしょの ほん",
+    "romaji": "Hondana no hon nōto no hon jisho no hon",
+    "translation_tm": "Kitiphananyň kitaby, depderiň kitaby, sözlügiň kitaby.",
+    "audio_text": "ほんだなのほんのーとのほんじしょのほん"
+  },
+  {
+    "id": "twister_027",
+    "difficulty": "easy",
+    "level": "N5",
+    "japanese": "白い米黒い米赤い米",
+    "hiragana": "しろい こめ くろい こめ あかい こめ",
+    "romaji": "Shiroi kome kuroi kome akai kome",
+    "translation_tm": "Ak tüwi, gara tüwi, gyzyl tüwi.",
+    "audio_text": "しろいこめくろいこめあかいこめ"
+  },
+  {
+    "id": "twister_028",
+    "difficulty": "easy",
+    "level": "N5",
+    "japanese": "朝のご飯昼のご飯夜のご飯",
+    "hiragana": "あさの ごはん ひるの ごはん よるの ごはん",
+    "romaji": "Asa no gohan hiru no gohan yoru no gohan",
+    "translation_tm": "Ertirlik nahar, günortanlyk nahar, agşamlyk nahar.",
+    "audio_text": "あさのごはんひるのごはんよるのごはん"
+  },
+  {
+    "id": "twister_029",
+    "difficulty": "easy",
+    "level": "N5",
+    "japanese": "冷たい水温かい水熱い水",
+    "hiragana": "つめたい みず あたたかい みず あつい みず",
+    "romaji": "Tsumetai mizu atatakai mizu atsui mizu",
+    "translation_tm": "Sowuk suw, maýyl suw, yssy suw.",
+    "audio_text": "つめたいみずあたたかいみずあついみず"
+  },
+  {
+    "id": "twister_030",
+    "difficulty": "easy",
+    "level": "N5",
+    "japanese": "一月二月三月四月",
+    "hiragana": "いちがつ にがつ さんがつ しがつ",
+    "romaji": "Ichigatsu nigatsu sangatsu shigatsu",
+    "translation_tm": "Ýanwar, fewral, mart, aprel.",
+    "audio_text": "いちがつにがつさんがつしがつ"
+  },
+  {
+    "id": "twister_031",
+    "difficulty": "easy",
+    "level": "N5",
+    "japanese": "学校の門病院の門公園の門",
+    "hiragana": "がっこうの もん びょういんの もん こうえんの もん",
+    "romaji": "Gakkō no mon byōin no mon kōen no mon",
+    "translation_tm": "Mekdebiň derwezesi, hassahananyň derwezesi, parkyň derwezesi.",
+    "audio_text": "がっこうのもんびょういんのもんこうえんのもん"
+  },
+  {
+    "id": "twister_032",
+    "difficulty": "easy",
+    "level": "N5",
+    "japanese": "高い時計安い時計古い時計",
+    "hiragana": "たかい とけい やすい とけい ふるい とけい",
+    "romaji": "Takai tokei yasui tokei furui tokei",
+    "translation_tm": "Gymmat sagat, arzan sagat, köne sagat.",
+    "audio_text": "たかいとけいやすいとけいふるいとけい"
+  },
+  {
+    "id": "twister_033",
+    "difficulty": "easy",
+    "level": "N5",
+    "japanese": "春の風夏の風秋の風冬の風",
+    "hiragana": "はるの かぜ なつの かぜ あきの かぜ ふゆの かぜ",
+    "romaji": "Haru no kaze natsu no kaze aki no kaze fuyu no kaze",
+    "translation_tm": "Bahar şemaly, tomus şemaly, güýz şemaly, gyş şemaly.",
+    "audio_text": "はるのかぜなつのかぜあきのかぜふゆのかぜ"
+  },
+  {
+    "id": "twister_034",
+    "difficulty": "easy",
+    "level": "N5",
+    "japanese": "青い海深い海広い海",
+    "hiragana": "あおい うみ ふかい うみ ひろい うみ",
+    "romaji": "Aoi umi fukai umi hiroi umi",
+    "translation_tm": "Gök deňiz, çuň deňiz, giň deňiz.",
+    "audio_text": "あおうみふかいうみひろいうみ"
+  },
+  {
+    "id": "twister_035",
+    "difficulty": "easy",
+    "level": "N5",
+    "japanese": "昨日今日明日明後日",
+    "hiragana": "きのう きょう あした あさって",
+    "romaji": "Kinō kyō ashita asatte",
+    "translation_tm": "Düýn, bugün, ertir, birigün.",
+    "audio_text": "きのうきょうあしたあさって"
+  },
+  {
+    "id": "twister_036",
+    "difficulty": "easy",
+    "level": "N5",
+    "japanese": "父の靴母の靴僕の靴",
+    "hiragana": "ちちの くつ ははの くつ ぼくの くつ",
+    "romaji": "Chichi no kutsu haha no kutsu boku no kutsu",
+    "translation_tm": "Kakamyn köwşi, ejemiň köwşi, meň köwşüm.",
+    "audio_text": "ちちのくつははのくつぼくのくつ"
+  },
+  {
+    "id": "twister_037",
+    "difficulty": "easy",
+    "level": "N5",
+    "japanese": "美味しい肉美味しい魚美味しい菜",
+    "hiragana": "おいしい にく おいしい さかな おいしい さい",
+    "romaji": "Oishii niku oishii sakana oishii sai",
+    "translation_tm": "Süýji et, süýji balyk, süýji gök önüm.",
+    "audio_text": "おいしいにくおいしいさかなおいしいさい"
+  },
+  {
+    "id": "twister_038",
+    "difficulty": "easy",
+    "level": "N5",
+    "japanese": "一分二分三分四分",
+    "hiragana": "いっぷん にふん さんぷん よんぷん",
+    "romaji": "Ippun nifun sanpun yonpun",
+    "translation_tm": "Bir minut, iki minut, üç minut, dört minut.",
+    "audio_text": "いっぷんにふんさんぷんよんぷん"
+  },
+  {
+    "id": "twister_039",
+    "difficulty": "easy",
+    "level": "N5",
+    "japanese": "一匹二匹三匹四匹",
+    "hiragana": "いっぴき にひき さんぴき よんひき",
+    "romaji": "Ippiki nihiki sanpiki yonhiki",
+    "translation_tm": "Bir haýwan, iki haýwan, üç haýwan, dört haýwan.",
+    "audio_text": "いっぴきにひきさんぴきよんひき"
+  },
+  {
+    "id": "twister_040",
+    "difficulty": "easy",
+    "level": "N5",
+    "japanese": "一本二本三本四本",
+    "hiragana": "いっぽん にほん さんぼん よんほん",
+    "romaji": "Ippon nihon sanbon yonhon",
+    "translation_tm": "Bir çöp, iki çöp, üç çöp, dört çöp.",
+    "audio_text": "いっぽんにほんさんぼんよんほん"
+  },
+  {
+    "id": "twister_041",
+    "difficulty": "easy",
+    "level": "N5",
+    "japanese": "一冊二冊三冊四冊",
+    "hiragana": "いっさつ にさつ さんさつ よんさつ",
+    "romaji": "Issatsu nisatsu sansatsu yonsatsu",
+    "translation_tm": "Bir kitap, iki kitap, üç kitap, dört kitap.",
+    "audio_text": "いっさつにさつさんさつよんさつ"
+  },
+  {
+    "id": "twister_042",
+    "difficulty": "easy",
+    "level": "N5",
+    "japanese": "一つ二つ三つ四つ五つ",
+    "hiragana": "ひとつ ふたつ みっつ よっつ いつつ",
+    "romaji": "Hitotsu futatsu mittsu yottsu itsutsu",
+    "translation_tm": "Bir, iki, üç, dört, bäş.",
+    "audio_text": "ひとつふたつみっつよっついつつ"
+  },
+  {
+    "id": "twister_043",
+    "difficulty": "easy",
+    "level": "N5",
+    "japanese": "月曜日火曜日水曜日木曜日",
+    "hiragana": "げつようび かようび すいようび もくようび",
+    "romaji": "Getsuyōbi kayōbi suiyōbi mokuyōbi",
+    "translation_tm": "Duşenbe, sişenbe, çarşenbe, penşenbe.",
+    "audio_text": "げつようびかようびすいようびもくようび"
+  },
+  {
+    "id": "twister_044",
+    "difficulty": "easy",
+    "level": "N5",
+    "japanese": "金曜日土曜日日曜日",
+    "hiragana": "きんようび どようび にちようび",
+    "romaji": "Kinyōbi doyōbi nichiyōbi",
+    "translation_tm": "Anna, şenbe, ýekşenbe.",
+    "audio_text": "きんようびどようびにちようび"
+  },
+  {
+    "id": "twister_045",
+    "difficulty": "easy",
+    "level": "N5",
+    "japanese": "東の空西の空南の空北の空",
+    "hiragana": "ひがしの そら にしの そら みなみの そら きたの そら",
+    "romaji": "Higashi no sora nishi no sora minami no sora kita no sora",
+    "translation_tm": "Gündogar asmany, günbatar asmany, günorta asmany, demirgazyk asmany.",
+    "audio_text": "ひがしのそらにしのそらみなみのそらきたのそら"
+  },
+  {
+    "id": "twister_046",
+    "difficulty": "easy",
+    "level": "N5",
+    "japanese": "甘いリンゴ酸っぱいリンゴ大きなリンゴ",
+    "hiragana": "あまい りんご すっぱい りんご おおきな りんご",
+    "romaji": "Amai ringo suppai ringo ōkina ringo",
+    "translation_tm": "Süýji alma, turşy alma, uly alma.",
+    "audio_text": "あまいりんごすっぱいりんごおおきなりんご"
+  },
+  {
+    "id": "twister_047",
+    "difficulty": "easy",
+    "level": "N5",
+    "japanese": "短い鉛筆長い鉛筆黒い鉛筆",
+    "hiragana": "みじかい えんぴつ ながい えんぴつ くろい えんぴつ",
+    "romaji": "Mijikai enpitsu nagai enpitsu kuroi enpitsu",
+    "translation_tm": "Gysga galam, uzyn galam, gara galam.",
+    "audio_text": "みじかいえんぴつながいえんぴつくろいえんぴつ"
+  },
+  {
+    "id": "twister_048",
+    "difficulty": "easy",
+    "level": "N5",
+    "japanese": "明るい部屋暗い部屋広い部屋",
+    "hiragana": "あかるい へや くらい へや ひろい へや",
+    "romaji": "Akarui heya kurai heya hiroi heya",
+    "translation_tm": "Ýagty otag, garaňky otag, giň otag.",
+    "audio_text": "あかるいへやくらいへやひろいへや"
+  },
+  {
+    "id": "twister_049",
+    "difficulty": "easy",
+    "level": "N5",
+    "japanese": "お兄さんのお茶お姉さんのお茶",
+    "hiragana": "おにいさんの おちゃ おねえさんの おちゃ",
+    "romaji": "Oniisan no ocha oneesan no ocha",
+    "translation_tm": "Ağamyň çaýy, uýamyň çaýy.",
+    "audio_text": "おにいさんのおちゃおねえさんのおちゃ"
+  },
+  {
+    "id": "twister_050",
+    "difficulty": "easy",
+    "level": "N5",
+    "japanese": "右の足左の足速い足",
+    "hiragana": "みぎの あし ひだりの あし はやい あし",
+    "romaji": "Migi no ashi hidari no ashi hayai ashi",
+    "translation_tm": "Sag aýak, sol aýak, çalt aýak.",
+    "audio_text": "みぎのあしひだりのあしはやいあし"
+  },
+  {
+    "id": "twister_051",
+    "difficulty": "easy",
+    "level": "N5",
+    "japanese": "青い海に白い船が浮かぶ",
+    "hiragana": "あおい うみに しろい ふねが うかぶ",
+    "romaji": "Aoi umi ni shiroi fune ga ukabu",
+    "translation_tm": "Gök deňizde ak gämi ýüzýär.",
+    "audio_text": "あおうみにしろいふねがうかぶ"
+  },
+  {
+    "id": "twister_052",
+    "difficulty": "easy",
+    "level": "N5",
+    "japanese": "静かな公園賑やかな公園",
+    "hiragana": "しずかな こうえん にぎやかな こうえん",
+    "romaji": "Shizuka na kōen nigiyaka na kōen",
+    "translation_tm": "Ýuwaş park, gohly uly park.",
+    "audio_text": "しずかなこうえんにぎやかなこうえん"
+  },
+  {
+    "id": "twister_053",
+    "difficulty": "easy",
+    "level": "N5",
+    "japanese": "古い町新しい町綺麗な町",
+    "hiragana": "ふるい まち あたらしい まち きれいな まち",
+    "romaji": "Furui machi atarashii machi kirei na machi",
+    "translation_tm": "Köne şäher, täze şäher, owadan şäher.",
+    "audio_text": "ふるいまちあたらしいまちきれいなまち"
+  },
+  {
+    "id": "twister_054",
+    "difficulty": "easy",
+    "level": "N5",
+    "japanese": "友達の犬と先生の犬",
+    "hiragana": "ともだちの いぬと せんせいの いぬ",
+    "romaji": "Tomodachi no inu to sensei no inu",
+    "translation_tm": "Dostumyň köpegi we mugallymyň köpegi.",
+    "audio_text": "ともだちのいぬとせんせいのいぬ"
+  },
+  {
+    "id": "twister_055",
+    "difficulty": "easy",
+    "level": "N5",
+    "japanese": "高い建物低い建物広い建物",
+    "hiragana": "たかい たてもの ひくい たてもの ひろい たてもの",
+    "romaji": "Takai tatemono hikui tatemono hiroi tatemono",
+    "translation_tm": "Beýik bina, pes bina, giň bina.",
+    "audio_text": "たかいたてものひくいたてものひろいたてもの"
+  },
+  {
+    "id": "twister_056",
+    "difficulty": "easy",
+    "level": "N5",
+    "japanese": "可愛いウサギ白いウサギ速いウサギ",
+    "hiragana": "かわいい うさぎ しろい うさぎ はやい うさぎ",
+    "romaji": "Kawaii usagi shiroi usagi hayai usagi",
+    "translation_tm": "Mähirli towşan, ak towşan, çalt towşan.",
+    "audio_text": "かわいいうさぎしろいうさぎはやいうさぎ"
+  },
+  {
+    "id": "twister_057",
+    "difficulty": "easy",
+    "level": "N5",
+    "japanese": "新しい服古い服赤い服",
+    "hiragana": "あたらしい ふく ふるい ふく あかい ふく",
+    "romaji": "Atarashii fuku furui fuku akai fuku",
+    "translation_tm": "Täze eşik, köne eşik, gyzyl eşik.",
+    "audio_text": "あたらしいふくふるいふくあかいふく"
+  },
+  {
+    "id": "twister_058",
+    "difficulty": "easy",
+    "level": "N5",
+    "japanese": "小さな虫大きな虫黒い虫",
+    "hiragana": "ちいさな むし おおきな むし くろい むし",
+    "romaji": "Chiisana mushi ōkina mushi kuroi mushi",
+    "translation_tm": "Kiçijik mör-mojek, uly mör-mojek, gara mör-mojek.",
+    "audio_text": "ちいさなむしおおきなむしくろいむし"
+  },
+  {
+    "id": "twister_059",
+    "difficulty": "easy",
+    "level": "N5",
+    "japanese": "面白い映画長い映画古い映画",
+    "hiragana": "おもしろい えいが ながい えいが ふるい えいが",
+    "romaji": "Omoshiroi eiga nagai eiga furui eiga",
+    "translation_tm": "Gyzykly kino, uzyn kino, köne kino.",
+    "audio_text": "おもしろいえいがながいえいがふるいえいが"
+  },
+  {
+    "id": "twister_060",
+    "difficulty": "easy",
+    "level": "N5",
+    "japanese": "日本語の本英語の本中国語の本",
+    "hiragana": "にほんごの ほん えいごの ほん ちゅうごくごの ほん",
+    "romaji": "Nihongo no hon Eigo no hon Chūgokugo no hon",
+    "translation_tm": "Ýapon dili kitaby, iňlis dili kitaby, hytaý dili kitaby.",
+    "audio_text": "にほんごのほんえいごのほんちゅうごくごのほん"
+  },
+  {
+    "id": "twister_061",
+    "difficulty": "easy",
+    "level": "N5",
+    "japanese": "一回二回三回四回",
+    "hiragana": "いっかい にかい さんかい よんかい",
+    "romaji": "Ikkai nikai sankai yonkai",
+    "translation_tm": "Bir gezek, iki gezek, üç gezek, dört gezek.",
+    "audio_text": "いっかいにかいさんかいよんかい"
+  },
+  {
+    "id": "twister_062",
+    "difficulty": "easy",
+    "level": "N5",
+    "japanese": "一人二人三人四人",
+    "hiragana": "ひとり ふたり さんにん よにん",
+    "romaji": "Hitori futari sannin yonin",
+    "translation_tm": "Bir adam, iki adam, üç adam, dört adam.",
+    "audio_text": "ひとりふたりさんにんよにん"
+  },
+  {
+    "id": "twister_063",
+    "difficulty": "easy",
+    "level": "N5",
+    "japanese": "一泊二泊三泊四泊",
+    "hiragana": "いっぱく にはく さんぱく よんぱく",
+    "romaji": "Ippaku nihaku sanpaku yonpaku",
+    "translation_tm": "Bir gije, iki gije, üç gije, dört gije.",
+    "audio_text": "いっぱくにはくさんぱくよんぱく"
+  },
+  {
+    "id": "twister_064",
+    "difficulty": "easy",
+    "level": "N5",
+    "japanese": "一台二台三台四台",
+    "hiragana": "いちだい にだい さんだい よんだい",
+    "romaji": "Ichidai nidai sandai yondai",
+    "translation_tm": "Bir maşyn, iki maşyn, üç maşyn, dört maşyn.",
+    "audio_text": "いちだいにだいさんだいよんだい"
+  },
+  {
+    "id": "twister_065",
+    "difficulty": "easy",
+    "level": "N5",
+    "japanese": "一枚二枚三枚四枚",
+    "hiragana": "いちまい にまい さんまい よんまい",
+    "romaji": "Ichimai nimai sanmai yonmai",
+    "translation_tm": "Bir sahypa, iki sahypa, üç sahypa, dört sahypa.",
+    "audio_text": "いちまいにまいさんまいよんまい"
+  },
+  {
+    "id": "twister_066",
+    "difficulty": "easy",
+    "level": "N5",
+    "japanese": "一年二年三年四年",
+    "hiragana": "いちねん にねん さんねん よねん",
+    "romaji": "Ichinen ninen sannen yonen",
+    "translation_tm": "Bir ýyl, iki ýyl, üç ýyl, dört ýyl.",
+    "audio_text": "いちねんにねんさんねんよねん"
+  },
+  {
+    "id": "twister_067",
+    "difficulty": "easy",
+    "level": "N5",
+    "japanese": "一歳二歳三歳四歳",
+    "hiragana": "いっさい にさい さんさい よんさい",
+    "romaji": "Issai nisai sansai yonsai",
+    "translation_tm": "Bir ýaş, iki ýaş, üç ýaş, dört ýaş.",
+    "audio_text": "いっさいにさいさんさいよんさい"
+  },
+  {
+    "id": "twister_068",
+    "difficulty": "easy",
+    "level": "N5",
+    "japanese": "一階二階三階四階",
+    "hiragana": "いっかい にかい さんがい よんかい",
+    "romaji": "Ikkai nikai sangai yonkai",
+    "translation_tm": "Birinji gat, ikinji gat, üçünji gat, dördünji gat.",
+    "audio_text": "いっかいにかいさんがいよんかい"
+  },
+  {
+    "id": "twister_069",
+    "difficulty": "easy",
+    "level": "N5",
+    "japanese": "一日二日三日四日五日",
+    "hiragana": "ついたち ふつか みっか よっか いつか",
+    "romaji": "Tsuitachi futsuka mikka yokka itsuka",
+    "translation_tm": "Birinji gün, ikinji gün, üçünji gün, dördünji gün, bäşinji gün.",
+    "audio_text": "ついたちふつかみっかよっかいつか"
+  },
+  {
+    "id": "twister_070",
+    "difficulty": "easy",
+    "level": "N5",
+    "japanese": "六日七日八日九日十日",
+    "hiragana": "むいか なのか ようか ここのか とおか",
+    "romaji": "Muika nanoka yōka kokonoka tōka",
+    "translation_tm": "Altynjy gün, ýedinji gün, sekizinji gün, dokuzynjy gün, onunjy gün.",
+    "audio_text": "むいかなのかようかここのかとおか"
+  },
+  {
+    "id": "twister_071",
+    "difficulty": "easy",
+    "level": "N5",
+    "japanese": "右を見て左を見て前を見る",
+    "hiragana": "みぎを みて ひだりを みて まえを みる",
+    "romaji": "Migi wo mite hidari wo mite mae wo miru",
+    "translation_tm": "Saga seret, sola seret, öňe seret.",
+    "audio_text": "みぎをみてひだりをみてまえをみる"
+  },
+  {
+    "id": "twister_072",
+    "difficulty": "easy",
+    "level": "N5",
+    "japanese": "歩いて行って走って帰る",
+    "hiragana": "あるいて いって はしって かえる",
+    "romaji": "Aruite itte hashitte kaeru",
+    "translation_tm": "Yöräp git, ylgap gaýt.",
+    "audio_text": "あるいていってはしってかえる"
+  },
+  {
+    "id": "twister_073",
+    "difficulty": "easy",
+    "level": "N5",
+    "japanese": "パンを食べて水を飲む",
+    "hiragana": "ぱんを たべて みずを のむ",
+    "romaji": "Pan wo tabete mizu wo nomu",
+    "translation_tm": "Çörek iý we suw iç.",
+    "audio_text": "ぱんをたべてみずをのむ"
+  },
+  {
+    "id": "twister_074",
+    "difficulty": "easy",
+    "level": "N5",
+    "japanese": "本を読んで歌を歌う",
+    "hiragana": "ほんを よんで うたを うたう",
+    "romaji": "Hon wo yonde uta wo utau",
+    "translation_tm": "Kitap oka we aýdym aýt.",
+    "audio_text": "ほんをよんでうたをうたう"
+  },
+  {
+    "id": "twister_075",
+    "difficulty": "easy",
+    "level": "N5",
+    "japanese": "テレビを見て音楽を聴く",
+    "hiragana": "てれびを みて おんがくを きく",
+    "romaji": "Terebi wo mite ongaku wo kiku",
+    "translation_tm": "Telewizor gör we saz diňle.",
+    "audio_text": "てれびをみておんがくをきく"
+  },
+  {
+    "id": "twister_076",
+    "difficulty": "easy",
+    "level": "N5",
+    "japanese": "手を洗って顔を洗う",
+    "hiragana": "てを あらって かおを あらう",
+    "romaji": "Te wo aratte kao wo arau",
+    "translation_tm": "Eliňi ýuw we ýüzüňi ýuw.",
+    "audio_text": "てをあらってかおをあらう"
+  },
+  {
+    "id": "twister_077",
+    "difficulty": "easy",
+    "level": "N5",
+    "japanese": "友達に会って話をする",
+    "hiragana": "ともだちに あって はなしを する",
+    "romaji": "Tomodachi ni atte hanashi wo suru",
+    "translation_tm": "Dostuň bilen duşuş we gürrüň et.",
+    "audio_text": "ともだちにあってはなしをする"
+  },
+  {
+    "id": "twister_078",
+    "difficulty": "easy",
+    "level": "N5",
+    "japanese": "ドアを開けて部屋に入る",
+    "hiragana": "どあを あけて へやに はいる",
+    "romaji": "Doa wo akete heya ni hairu",
+    "translation_tm": "Gapyny aç we otaga gir.",
+    "audio_text": "どあをあけてへやにはいる"
+  },
+  {
+    "id": "twister_079",
+    "difficulty": "easy",
+    "level": "N5",
+    "japanese": "電気をつけて写真を撮る",
+    "hiragana": "でんきを つけて しゃしんを とる",
+    "romaji": "Denki wo tsukete shashin wo toru",
+    "translation_tm": "Çyrany ýak we surat çek.",
+    "audio_text": "でんきをつけてしゃしんをとる"
+  },
+  {
+    "id": "twister_080",
+    "difficulty": "easy",
+    "level": "N5",
+    "japanese": "買物をして家に帰る",
+    "hiragana": "かいものを して うちに かえる",
+    "romaji": "Kaimono wo shite uchi ni kaeru",
+    "translation_tm": "Söwda et we öýe gaýt.",
+    "audio_text": "かいものをしてうちにかえる"
+  },
+  {
+    "id": "twister_081",
+    "difficulty": "easy",
+    "level": "N5",
+    "japanese": "赤い帽子青い帽子黄色い帽子",
+    "hiragana": "あかい ぼうし あおい ぼうし きいろい ぼうし",
+    "romaji": "Akai bōshi aoi bōshi kiiroi bōshi",
+    "translation_tm": "Gyzyl şlýapa, gök şlýapa, sary şlýapa.",
+    "audio_text": "あかいぼうしあおいぼうしきいろいぼうし"
+  },
+  {
+    "id": "twister_082",
+    "difficulty": "easy",
+    "level": "N5",
+    "japanese": "丸いボール四角い箱",
+    "hiragana": "まるい ぼーる しかくい はこ",
+    "romaji": "Marui bōru shikakui hako",
+    "translation_tm": "Togalak top, inedördül guty.",
+    "audio_text": "まるいぼーるしかくいはこ"
+  },
+  {
+    "id": "twister_083",
+    "difficulty": "easy",
+    "level": "N5",
+    "japanese": "甘いケーキ辛いカレー",
+    "hiragana": "あまい けーき からい かれー",
+    "romaji": "Amai kēki karai karē",
+    "translation_tm": "Süýji tort, ajy karri nahary.",
+    "audio_text": "あまいけーきからいかれー"
+  },
+  {
+    "id": "twister_084",
+    "difficulty": "easy",
+    "level": "N5",
+    "japanese": "あっちっちっち熱いお茶",
+    "hiragana": "あっちっちっち あつい おちゃ",
+    "romaji": "Acchicchicchi atsui ocha",
+    "translation_tm": "Yssy-yssy-yssy, gaty yssy çaý.",
+    "audio_text": "あっちっちっちあついおちゃ"
+  },
+  {
+    "id": "twister_085",
+    "difficulty": "easy",
+    "level": "N5",
+    "japanese": "ねここねこねこまごねこ",
+    "hiragana": "ねこ こねこ ねこ まごねこ",
+    "romaji": "Neko koneko neko magoneko",
+    "translation_tm": "Pişik, pişik çagasy, pişik we onuň agtyk pişigi.",
+    "audio_text": "ねここねこねこまごねこ"
+  },
+  {
+    "id": "twister_086",
+    "difficulty": "easy",
+    "level": "N5",
+    "japanese": "カエルニョキニョキ三ニョキニョキ",
+    "hiragana": "かえる にょきにょき さん にょきにょき",
+    "romaji": "Kaeru nyokinyoki san nyokinyoki",
+    "translation_tm": "Gurbaga bir-birden çykyşýar, üçüsi hem bir-birden çykyşýar.",
+    "audio_text": "かえるにょきにょきさんにょきにょき"
+  },
+  {
+    "id": "twister_087",
+    "difficulty": "easy",
+    "level": "N5",
+    "japanese": "柿の木に柿の実がなる",
+    "hiragana": "かきの きに かきの みが なる",
+    "romaji": "Kaki no ki ni kaki no mi ga naru",
+    "translation_tm": "Hurma agajynda hurma miwesi bişýär.",
+    "audio_text": "かきのきにかきのみがなる"
+  },
+  {
+    "id": "twister_088",
+    "difficulty": "easy",
+    "level": "N5",
+    "japanese": "桃の木に桃の実がなる",
+    "hiragana": "ももの きに ももの みが なる",
+    "romaji": "Momo no ki ni momo no mi ga naru",
+    "translation_tm": "Şetdaly agajynda şetdaly miwesi bişýär.",
+    "audio_text": "もものきにもものみがなる"
+  },
+  {
+    "id": "twister_089",
+    "difficulty": "easy",
+    "level": "N5",
+    "japanese": "栗の木に栗の実が落ちる",
+    "hiragana": "くりの きに くりの みが おちる",
+    "romaji": "Kuri no ki ni kuri no mi ga ochiru",
+    "translation_tm": "Kaştan agajyndan kaştan miwesi gaçýar.",
+    "audio_text": "くりのきにくりのみがおちる"
+  },
+  {
+    "id": "twister_090",
+    "difficulty": "easy",
+    "level": "N5",
+    "japanese": "山登り海泳ぎ川遊び",
+    "hiragana": "やまのぼり うみおよぎ かわあそび",
+    "romaji": "Yamanobori umioyogi kawaasobi",
+    "translation_tm": "Daga çykmak, deňizde ýüzmek, derýada oýnamak.",
+    "audio_text": "やまのぼりうみおよぎかわあそび"
+  },
+  {
+    "id": "twister_091",
+    "difficulty": "easy",
+    "level": "N5",
+    "japanese": "青い空白い雲高い空",
+    "hiragana": "あおい そら しろい くも たかい そら",
+    "romaji": "Aoi sora shiroi kumo takai sora",
+    "translation_tm": "Gök asman, ak bulut, beýik asman.",
+    "audio_text": "あおいそらしろいくもたかいそら"
+  },
+  {
+    "id": "twister_092",
+    "difficulty": "easy",
+    "level": "N5",
+    "japanese": "静かな夜明るい朝美味しい昼",
+    "hiragana": "しずかな よる あかるい あさ おいしい ひる",
+    "romaji": "Shizuka na yoru akarui asa oishii hiru",
+    "translation_tm": "Ýuwaş gije, ýagty ertir, lezzetli günortan.",
+    "audio_text": "しずかなよるあかるいあさおいしいひる"
+  },
+  {
+    "id": "twister_093",
+    "difficulty": "easy",
+    "level": "N5",
+    "japanese": "一年生二年生三年生",
+    "hiragana": "いちねんせい にねんせい さんねんせい",
+    "romaji": "Ichinensei ninensei sannensei",
+    "translation_tm": "Birinji synp okuwçysy, ikinji synp okuwçysy, üçünji synp okuwçysy.",
+    "audio_text": "いちねんせいにねんせいさんねんせい"
+  },
+  {
+    "id": "twister_094",
+    "difficulty": "easy",
+    "level": "N5",
+    "japanese": "お父さんお母さんお兄さんお姉さん",
+    "hiragana": "おとうさん おかあさん おにいさん おねえさん",
+    "romaji": "Otōsan okāsan oniisan oneesan",
+    "translation_tm": "Kaka, eje, aga, uýa.",
+    "audio_text": "おとうさんおかあさんおにいさんおねえさん"
+  },
+  {
+    "id": "twister_095",
+    "difficulty": "easy",
+    "level": "N5",
+    "japanese": "右折左折直進",
+    "hiragana": "うせつ させつ ちょくしん",
+    "romaji": "Usetsu sasetsu chokushin",
+    "translation_tm": "Saga öwrüm, sola öwrüm, göni gitmek.",
+    "audio_text": "うせつさせつちょくしん"
+  },
+  {
+    "id": "twister_096",
+    "difficulty": "easy",
+    "level": "N5",
+    "japanese": "入口出口非常口",
+    "hiragana": "いりぐち でぐち ひじょうぐち",
+    "romaji": "Iriguchi deguchi hijōguchi",
+    "translation_tm": "Giriş gapysy, çykyş gapysy, adatdan daşary çykyş gapysy.",
+    "audio_text": "いりぐちでぐちひじょうぐち"
+  },
+  {
+    "id": "twister_097",
+    "difficulty": "easy",
+    "level": "N5",
+    "japanese": "一円二円三円四円五円",
+    "hiragana": "いちえん にえん さんえん よんえん ごえん",
+    "romaji": "Ichien nien san'en yon'en goen",
+    "translation_tm": "Bir ýen, iki ýen, üç ýen, dört ýen, bäş ýen.",
+    "audio_text": "いちえんにえんさんえんよんえんごえん"
+  },
+  {
+    "id": "twister_098",
+    "difficulty": "easy",
+    "level": "N5",
+    "japanese": "一歳二歳三歳のお子さん",
+    "hiragana": "いっさい にさい さんさいの おこさん",
+    "romaji": "Issai nisai sansai no okosan",
+    "translation_tm": "Bir ýaşly, iki ýaşly, üç ýaşly çaga.",
+    "audio_text": "いっさいにさいさんさいのおこさん"
+  },
+  {
+    "id": "twister_099",
+    "difficulty": "easy",
+    "level": "N5",
+    "japanese": "こんにちはこんばんは生卵",
+    "hiragana": "こんにちは こんばんは なまたまご",
+    "romaji": "Konnichiwa konbanwa namatamago",
+    "translation_tm": "Salam, agşamyňyz haýyr, çyg ýumurtga.",
+    "audio_text": "こんにちはこんばんはなまたまご"
+  },
+  {
+    "id": "twister_100",
+    "difficulty": "easy",
+    "level": "N5",
+    "japanese": "早口言葉で日本語上手",
+    "hiragana": "はやくちことばで にほんご じょうず",
+    "romaji": "Hayakuchi kotoba de Nihongo jōzu",
+    "translation_tm": "Hayakuchi Kotoba bilen ýapon dilim kämilleşýär.",
+    "audio_text": "はやくちことばでにほんごじょうず"
+  },
+  
+    {
+      "id": "twister_101",
+      "difficulty": "medium",
+      "level": "N4",
+      "japanese": "新興宗教信者",
+      "hiragana": "しんこう しゅうきょう しんじゃ",
+      "romaji": "Shinkō shūkyō shinja",
+      "translation_tm": "Täze din eýerijisi.",
+      "audio_text": "しんこうしゅうきょうしんじゃ"
+    },
+    {
+      "id": "twister_102",
+      "difficulty": "easy",
+      "level": "N4",
+      "japanese": "書留書留書留",
+      "hiragana": "かきとめ かきとめ かきとめ",
+      "romaji": "Kakitome kakitome kakitome",
+      "translation_tm": "Sargytly hat, sargytly hat, sargytly hat.",
+      "audio_text": "かきとめかきとめかきとめ"
+    },
+    {
+      "id": "twister_103",
+      "difficulty": "medium",
+      "level": "N4",
+      "japanese": "貸切バスで貸切旅行",
+      "hiragana": "かしきり ばすで かしきり りょこう",
+      "romaji": "Kashikiri basu de kashikiri ryokō",
+      "translation_tm": "Kärendesine alnan awtobusda ýörite syyahat.",
+      "audio_text": "かしきりばすでかしきりりょこう"
+    },
+    {
+      "id": "twister_104",
+      "difficulty": "easy",
+      "level": "N4",
+      "japanese": "診察室で親切な医師",
+      "hiragana": "しんさつしつで しんせつな いし",
+      "romaji": "Shinsatsushitsu de shinsetsu na ishi",
+      "translation_tm": "Barlag otagynda mähirli lukman.",
+      "audio_text": "しんさつしつでしんせつないし"
+    },
+    {
+      "id": "twister_105",
+      "difficulty": "easy",
+      "level": "N4",
+      "japanese": "駐車場で駐車禁止",
+      "hiragana": "ちゅうしゃじょうで ちゅうしゃ きんし",
+      "romaji": "Chūshajō de chūsha kinshi",
+      "translation_tm": "Awto duralgada duralga gadagan.",
+      "audio_text": "ちゅうしゃじょうでちゅうしゃきんし"
+    },
+    {
+      "id": "twister_106",
+      "difficulty": "easy",
+      "level": "N4",
+      "japanese": "警察官が警察署に行く",
+      "hiragana": "けいさつかんが けいさつしょに いく",
+      "romaji": "Keisatsukan ga keisatsusho ni iku",
+      "translation_tm": "Polisiýa işgäri polisiýa bölümine gitýär.",
+      "audio_text": "けいさつかんがけいさつしょにいく"
+    },
+    {
+      "id": "twister_107",
+      "difficulty": "medium",
+      "level": "N4",
+      "japanese": "計画的に経済を学ぶ",
+      "hiragana": "けいかくてきに けいざいを まなぶ",
+      "romaji": "Keikakuteki ni keizai wo tanul",
+      "translation_tm": "Meýilnamalaýyn görnüşde ykdysadyýeti öwrenmek.",
+      "audio_text": "けいかくてきにけいざいをまなぶ"
+    },
+    {
+      "id": "twister_108",
+      "difficulty": "medium",
+      "level": "N4",
+      "japanese": "研究所で研究を始める",
+      "hiragana": "けんきゅうじょで けんきゅうを はじめる",
+      "romaji": "Kenkyūjo de kenkyū wo hajimeru",
+      "translation_tm": "Ylmy-barlag institutynda barlag geçirip başlaýar.",
+      "audio_text": "けんきゅうじょでけんきゅうをはじめる"
+    },
+    {
+      "id": "twister_109",
+      "difficulty": "hard",
+      "level": "N4",
+      "japanese": "新線新車新車新線",
+      "hiragana": "しんせん しんしゃ しんしゃ しんせん",
+      "romaji": "Shinsen shinsha shinsha shinsen",
+      "translation_tm": "Täze liniýa täze wagyt, täze wagyt täze liniýa.",
+      "audio_text": "しんせんしんしゃしんしゃしんせん"
+    },
+    {
+      "id": "twister_110",
+      "difficulty": "easy",
+      "level": "N4",
+      "japanese": "案内所で安心の案内",
+      "hiragana": "あんないじょで あんしんの あんない",
+      "romaji": "Annaijo de anshin no annai",
+      "translation_tm": "Maglumat merkezinde ynamly görkezme.",
+      "audio_text": "あんないじょであんしんのあんない"
+    },
+    {
+      "id": "twister_111",
+      "difficulty": "easy",
+      "level": "N4",
+      "japanese": "準備をして出発する",
+      "hiragana": "じゅんびを して しゅっぱつ する",
+      "romaji": "Junbi wo shite shuppatsu suru",
+      "translation_tm": "Taýýarlyk görüp ýola düşmek.",
+      "audio_text": "じゅんびをしてしゅっぱつする"
+    },
+    {
+      "id": "twister_112",
+      "difficulty": "medium",
+      "level": "N4",
+      "japanese": "招待状をもらって出席する",
+      "hiragana": "しょうたいじょうを もらって しゅっせき する",
+      "romaji": "Shōtaijō wo moratte shusseki suru",
+      "translation_tm": "Çakylyk alyp gatnaşmak.",
+      "audio_text": "しょうたいじょうをもらってしゅっせきする"
+    },
+    {
+      "id": "twister_113",
+      "difficulty": "medium",
+      "level": "N4",
+      "japanese": "説明書を読んで説明する",
+      "hiragana": "せつめいしょを よんで せつめい する",
+      "romaji": "Setsumeisho wo yonde setsumei suru",
+      "translation_tm": "Düşündiriş resminamasyny okap düşündirmek.",
+      "audio_text": "せつめいしょをよんでせつめいする"
+    },
+    {
+      "id": "twister_114",
+      "difficulty": "easy",
+      "level": "N4",
+      "japanese": "失敗しても心配しない",
+      "hiragana": "しっぱい しても しんぱい しない",
+      "romaji": "Shippai shitemo shinpai shinai",
+      "translation_tm": "Şowsuzlyga uçrasaň hem alada etme.",
+      "audio_text": "しっぱいしてもしんぱいしない"
+    },
+    {
+      "id": "twister_115",
+      "difficulty": "medium",
+      "level": "N4",
+      "japanese": "専門家が専門知識を教える",
+      "hiragana": "せんもんかが せんもん ちしきを おしえる",
+      "romaji": "Senmonka ga senmon chishiki wo oshieru",
+      "translation_tm": "Hünärmen hünär bilimlerini öwredýär.",
+      "audio_text": "せんもんかがせんもんちしきをおしえる"
+    },
+    {
+      "id": "twister_116",
+      "difficulty": "medium",
+      "level": "N4",
+      "japanese": "将来の社長が練習する",
+      "hiragana": "しょうらいの しゃちょうが れんしゅう する",
+      "romaji": "Shōrai no shachō ga renshū suru",
+      "translation_tm": "Geljekki müdir türgenleşýär.",
+      "audio_text": "しょうらいのしゃちょうがれんしゅうする"
+    },
+    {
+      "id": "twister_117",
+      "difficulty": "medium",
+      "level": "N4",
+      "japanese": "自転車で自動車を追い越す",
+      "hiragana": "じてんしゃで じどうしゃを おいこす",
+      "romaji": "Jitensha de jidōsha wo oikosu",
+      "translation_tm": "Welosiped bilen awtomobili ozup geçmek.",
+      "audio_text": "じてんしゃでじどうしゃをおいこす"
+    },
+    {
+      "id": "twister_118",
+      "difficulty": "easy",
+      "level": "N4",
+      "japanese": "事務所で事務作業をする",
+      "hiragana": "じむしょで じむ さぎょうを する",
+      "romaji": "Jimusho de jimu sagyō wo suru",
+      "translation_tm": "Diwanyň otagynda diwan işlerini işlemek.",
+      "audio_text": "じむしょでじむさぎょうをする"
+    },
+    {
+      "id": "twister_119",
+      "difficulty": "medium",
+      "level": "N4",
+      "japanese": "住所変更の手続きをする",
+      "hiragana": "じゅうしょ へんこうの てつづきを する",
+      "romaji": "Jūsho henkō no tetsuduki wo suru",
+      "translation_tm": "Ýaşaýan salgyňy üýtgetmek resminamalaryny doldurmak.",
+      "audio_text": "じゅうしょへんこうのてつづきをする"
+    },
+    {
+      "id": "twister_120",
+      "difficulty": "easy",
+      "level": "N4",
+      "japanese": "自由行動で自由に遊ぶ",
+      "hiragana": "じゆう こうどうで じゆうに あそぶ",
+      "romaji": "Jiyū kōdō de jiyū ni asobu",
+      "translation_tm": "Erkin hereket edip erkin oýnamak.",
+      "audio_text": "じゆうこうどうでじゆうにあそぶ"
+    },
+    {
+      "id": "twister_121",
+      "difficulty": "medium",
+      "level": "N4",
+      "japanese": "条件が厳しくても挑戦する",
+      "hiragana": "じょうけんが きびしくても ちょうせん する",
+      "romaji": "Jōken ga kibishikutemo chōsen suru",
+      "translation_tm": "Şertler kyn hem bolsa synanyşmak.",
+      "audio_text": "じょうけんがきびしくてもちょうせんする"
+    },
+    {
+      "id": "twister_122",
+      "difficulty": "easy",
+      "level": "N4",
+      "japanese": "質問に素早く回答する",
+      "hiragana": "しつもんに すばやく かいとう する",
+      "romaji": "Shitsumon ni subayaku kaitō suru",
+      "translation_tm": "Soraglara tiz jogap bermek.",
+      "audio_text": "しつもんにすばやくかいとうする"
+    },
+    {
+      "id": "twister_123",
+      "difficulty": "medium",
+      "level": "N4",
+      "japanese": "注意人物に十分注意する",
+      "hiragana": "ちゅうい じんぶつに じゅうぶん ちゅうい する",
+      "romaji": "Chūi jinbutsu ni jūbun chūi suru",
+      "translation_tm": "Şübheli adama ýeterlik derejede üns bermek.",
+      "audio_text": "ちゅういじんぶつにじゅうぶんちゅういする"
+    },
+    {
+      "id": "twister_124",
+      "difficulty": "medium",
+      "level": "N4",
+      "japanese": "注文の料理を調理する",
+      "hiragana": "ちゅうもんの りょうりを ちょうり する",
+      "romaji": "Chūmon no ryōri wo chōri suru",
+      "translation_tm": "Sargalan nahary taýýarlamak.",
+      "audio_text": "ちゅうもんのりょうりをちょうりする"
+    },
+    {
+      "id": "twister_125",
+      "difficulty": "easy",
+      "level": "N4",
+      "japanese": "直接連絡して直接渡す",
+      "hiragana": "ちょくせつ れんらくして ちょくせつ わたす",
+      "romaji": "Chokusetsu renraku shite chokusetsu watasu",
+      "translation_tm": "Göni habarlaşyp göni gowşurmak.",
+      "audio_text": "ちょくせつれんらくしてちょくせつわたす"
+    },
+    {
+      "id": "twister_126",
+      "difficulty": "easy",
+      "level": "N4",
+      "japanese": "貯金箱に少しずつ貯金する",
+      "hiragana": "ちょきんばこに すこしずつ ちょきん する",
+      "romaji": "Chokinbako ni sukoshizutsu chokin suru",
+      "translation_tm": "Pulumgyja ýuwaş-ýuwaşdan pul ýygnamak.",
+      "audio_text": "ちょきんばこにすこしずつちょきんする"
+    },
+    {
+      "id": "twister_127",
+      "difficulty": "medium",
+      "level": "N4",
+      "japanese": "発表会で特別発表をする",
+      "hiragana": "はっぴょうかいで とくべつ はっぴょうを する",
+      "romaji": "Happyōkai de tokubetsu happyō wo suru",
+      "translation_tm": "Tanyşdyryş dabarasynda ýörite çykyş etmek.",
+      "audio_text": "はっぴょうかいでとくべつはっぴょうをする"
+    },
+    {
+      "id": "twister_128",
+      "difficulty": "hard",
+      "level": "N4",
+      "japanese": "発達した科学技術を発展させる",
+      "hiragana": "はったつした かがく ぎじゅつを はってん させる",
+      "romaji": "Hattatsushita kagaku gijutsu wo hatten saseru",
+      "translation_tm": "Ösen ylym-bilim tehnologiýasyny ösdürmek.",
+      "audio_text": "はったつしたかがくぎじゅつをはってんさせる"
+    },
+    {
+      "id": "twister_129",
+      "difficulty": "medium",
+      "level": "N4",
+      "japanese": "発見した事実を発表する",
+      "hiragana": "はっけんした じじつを はっぴょう する",
+      "romaji": "Hakken shita jijitsu wo happyō suru",
+      "translation_tm": "Tapylan hakykaty yglan etmek.",
+      "audio_text": "はっけんしたじじつをはっぴょうする"
+    },
+    {
+      "id": "twister_130",
+      "difficulty": "medium",
+      "level": "N4",
+      "japanese": "発音の練習を発展させる",
+      "hiragana": "はつおんの れんしゅうを はってん させる",
+      "romaji": "Hatsuon no renshū wo hatten saseru",
+      "translation_tm": "Aýdylyş türgenleşigini ösdürmek.",
+      "audio_text": "はつおんのれんしゅうをはってんさせる"
+    },
+    {
+      "id": "twister_131",
+      "difficulty": "hard",
+      "level": "N4",
+      "japanese": "複雑な機械の構造を調べる",
+      "hiragana": "ふくざつな きかいの こうぞうを しらべる",
+      "romaji": "Fukuzatsu na kikai no kōzō wo shiraberu",
+      "translation_tm": "Çylşyrymly maşynyň gurluşyny barlamak.",
+      "audio_text": "ふくざつなきかいのこうぞうをしらべる"
+    },
+    {
+      "id": "twister_132",
+      "difficulty": "medium",
+      "level": "N4",
+      "japanese": "復活した劇団が復習する",
+      "hiragana": "ふっかつした げきだんが ふくしゅう する",
+      "romaji": "Fukkatsu shita gekidan ga fukushū suru",
+      "translation_tm": "Gaýtadan dikeldilen teatr topary gaýtalaýar.",
+      "audio_text": "ふっかつしたげきだんがふくしゅうする"
+    },
+    {
+      "id": "twister_133",
+      "difficulty": "medium",
+      "level": "N4",
+      "japanese": "卒業式で卒業証書をもらう",
+      "hiragana": "そつぎょうしきで そつぎょう しょうしょを もらう",
+      "romaji": "Sotsugyōshiki de sotsugyō shōsho wo morau",
+      "translation_tm": "Gutardyş dabarasynda diplom almak.",
+      "audio_text": "そつぎょうしきでそつぎょうしょうしょをもらう"
+    },
+    {
+      "id": "twister_134",
+      "difficulty": "medium",
+      "level": "N4",
+      "japanese": "想像以上の成果を想像する",
+      "hiragana": "そうぞう いじょうの せいかを そうぞう する",
+      "romaji": "Sōzō ijō no seika wo sōzō suru",
+      "translation_tm": "Çak edilenden hem ýokary netijäni göz öňüne getirmek.",
+      "audio_text": "そうぞういじょうのせいかをそうぞうする"
+    },
+    {
+      "id": "twister_135",
+      "difficulty": "medium",
+      "level": "N4",
+      "japanese": "相談室で親身に相談にのる",
+      "hiragana": "そうだんしつで しんみに そうだんに のる",
+      "romaji": "Sōdanshitsu de shinmi ni sōdan ni noru",
+      "translation_tm": "Maslahat otagynda mähirli maslahat bermek.",
+      "audio_text": "そうだんしつでしんみにそうだんにのる"
+    },
+    {
+      "id": "twister_136",
+      "difficulty": "easy",
+      "level": "N4",
+      "japanese": "掃除機で部屋を綺麗に掃除する",
+      "hiragana": "そうじきで へやを きれいに そうじ する",
+      "romaji": "Sōjiki de heya wo kirei ni sōji suru",
+      "translation_tm": "Tozan sorujy bilen otagy arassa arassalamak.",
+      "audio_text": "そうじきでへやをきれいにそうじする"
+    },
+    {
+      "id": "twister_137",
+      "difficulty": "hard",
+      "level": "N4",
+      "japanese": "増進された健康を維持する",
+      "hiragana": "ぞうしんされた けんこうを いじ する",
+      "romaji": "Zōshin sareta kenkō wo iji suru",
+      "translation_tm": "Gowulaşdyrylan saglygy saklamak.",
+      "audio_text": "ぞうしんされたけんこうをいじする"
+    },
+    {
+      "id": "twister_138",
+      "difficulty": "easy",
+      "level": "N4",
+      "japanese": "約束を守って絶対に遅刻しない",
+      "hiragana": "やくそくを まもって ぜったいに ちこく しない",
+      "romaji": "Yakusoku wo mamotte zettai ni chikoku shinai",
+      "translation_tm": "Sözüňde durup asla gijä galmazlyk.",
+      "audio_text": "やくそくをまもってぜったいにちこくしない"
+    },
+    {
+      "id": "twister_139",
+      "difficulty": "medium",
+      "level": "N4",
+      "japanese": "整理整頓して清潔に保つ",
+      "hiragana": "せいり せいとん して せいけつに たもつ",
+      "romaji": "Seiri seiton shite seiketsu ni tamotsu",
+      "translation_tm": "Tertip-düzgün saklap arassa tutmak.",
+      "audio_text": "せいりせいとんしてせいけつにたもつ"
+    },
+    {
+      "id": "twister_140",
+      "difficulty": "hard",
+      "level": "N4",
+      "japanese": "生産性を上げて性能を伸ばす",
+      "hiragana": "せいさんせいを あげて せいのうを のばす",
+      "romaji": "Seisansei wo agete seinō wo nobasu",
+      "translation_tm": "Önümçilik netijeliligini ýokarlandyryp kämilleşdirmek.",
+      "audio_text": "せいさんせいをあげてせいのうをのばす"
+    },
+    {
+      "id": "twister_141",
+      "difficulty": "medium",
+      "level": "N4",
+      "japanese": "政治家が政党の政策を語る",
+      "hiragana": "せいじかが せいとうの せいさくを かたる",
+      "romaji": "Seijika ga seitō no seisaku wo kataru",
+      "translation_tm": "Syýasatçy partiýanyň syýasatyny düşündirýär.",
+      "audio_text": "せいじかがせいとうのせいさくをかたる"
+    },
+    {
+      "id": "twister_142",
+      "difficulty": "medium",
+      "level": "N4",
+      "japanese": "心理学の先生が心境を語る",
+      "hiragana": "しんりがくの せんせいが しんきょうを かたる",
+      "romaji": "Shinrigaku no sensei ga shinkyō wo kataru",
+      "translation_tm": "Psihologiýa mugallymy ruhy ýagdaýyny gürrüň berýär.",
+      "audio_text": "しんりがくのせんせいがしんきょうをかたる"
+    },
+    {
+      "id": "twister_143",
+      "difficulty": "medium",
+      "level": "N4",
+      "japanese": "慎重に行動して信頼を得る",
+      "hiragana": "しんちょうに こうどうして しんらいを える",
+      "romaji": "Shinchō ni kōdō shite shinrai wo eru",
+      "translation_tm": "Ätiýaçly hereket edip ynama eýe bolmak.",
+      "audio_text": "しんちょうにこうどうしてしんらいをえる"
+    },
+    {
+      "id": "twister_144",
+      "difficulty": "medium",
+      "level": "N4",
+      "japanese": "新鮮な野菜を迅速に届ける",
+      "hiragana": "しんせんな やさいを じんそくに とどける",
+      "romaji": "Shinsen na yasai wo jinsoku ni todokeru",
+      "translation_tm": "Täze gök önümleri çalt gowşurmak.",
+      "audio_text": "しんせんなやさいをじんそくにとどける"
+    },
+    {
+      "id": "twister_145",
+      "difficulty": "easy",
+      "level": "N4",
+      "japanese": "水族館で素晴らしい魚を見る",
+      "hiragana": "すいぞくかんで すばらしい さかなを みる",
+      "romaji": "Suizokukan de subarashii sakana wo miru",
+      "translation_tm": "Akwarium binasynda ajaýyp balyklary görmek.",
+      "audio_text": "すいぞくかんですばらしいさかなをみる"
+    },
+    {
+      "id": "twister_146",
+      "difficulty": "medium",
+      "level": "N4",
+      "japanese": "水平線に沈む綺麗な夕日",
+      "hiragana": "すいへいせんに しずむ きれいな ゆうひ",
+      "romaji": "Suiheisen ni shizumu kirei na yūhi",
+      "translation_tm": "Gorizontda batan owadan gün ýaşyşy.",
+      "audio_text": "すいへいせんにしずむきれいなゆうひ"
+    },
+    {
+      "id": "twister_147",
+      "difficulty": "hard",
+      "level": "N4",
+      "japanese": "推薦状をもらって推進する",
+      "hiragana": "すいせんじょうを もらって すいしん する",
+      "romaji": "Suisenjō wo moratte suishin suru",
+      "translation_tm": "Kepilnama alyp öňe ilerletmek.",
+      "audio_text": "すいせんじょうをもらってすいしんする"
+    },
+    {
+      "id": "twister_148",
+      "difficulty": "medium",
+      "level": "N4",
+      "japanese": "生活習慣を直して健康になる",
+      "hiragana": "せいかつ しゅうかんを なおして けんこうに なる",
+      "romaji": "Seikatsu shūkan wo naoshite kenkō ni naru",
+      "translation_tm": "Durmuş endiklerini düzedip sagdyn bolmak.",
+      "audio_text": "せいかつしゅうかんをなおしてけんこうになる"
+    },
+    {
+      "id": "twister_149",
+      "difficulty": "medium",
+      "level": "N4",
+      "japanese": "正直な性格で信用される",
+      "hiragana": "しょうじきな せいかくで しんよう される",
+      "romaji": "Shōjiki na seikaku de shin'yō sareru",
+      "translation_tm": "Akýürekli häsiýeti bilen ynanylmak.",
+      "audio_text": "しょうじきなせいかくでしんようされる"
+    },
+    {
+      "id": "twister_150",
+      "difficulty": "easy",
+      "level": "N4",
+      "japanese": "成績が上がって成功する",
+      "hiragana": "せいせきが あがって せいこう する",
+      "romaji": "Seiseki ga agatte seikō suru",
+      "translation_tm": "Bahalary ýokarlandyryp üstünlik gazanmak.",
+      "audio_text": "せいせきがあがってせいこうする"
+    },
+    {
+      "id": "twister_151",
+      "difficulty": "easy",
+      "level": "N4",
+      "japanese": "連絡先を聞いて連絡を取る",
+      "hiragana": "れんらくさきを きいて れんらくを とる",
+      "romaji": "Renrakusaki wo kiite renraku wo toru",
+      "translation_tm": "Habarlaşmak üçin salgy alyp habarlaşmak.",
+      "audio_text": "れんらくさきをきいてれんらくをとる"
+    },
+    {
+      "id": "twister_152",
+      "difficulty": "medium",
+      "level": "N4",
+      "japanese": "練習問題を繰り返し練習する",
+      "hiragana": "れんしゅう もんだいを くりかえし れんしゅう する",
+      "romaji": "Renshū mondai wo kurikaeshi renshū suru",
+      "translation_tm": "Türgenleşik soraglaryny gaýta-gaýta türgenleşmek.",
+      "audio_text": "れんしゅうもんだいをくりかえしれんしゅうする"
+    },
+    {
+      "id": "twister_153",
+      "difficulty": "medium",
+      "level": "N4",
+      "japanese": "連続して最高記録を更新する",
+      "hiragana": "れんぞくして さいこう きろくを こうしん する",
+      "romaji": "Renzoku shite saikō kiroku wo kōshin suru",
+      "translation_tm": "Yzygiderli iň ýokary görkezijini täzelemek.",
+      "audio_text": "れんぞくしてさいこうきろくをこうしんする"
+    },
+    {
+      "id": "twister_154",
+      "difficulty": "easy",
+      "level": "N4",
+      "japanese": "礼儀正しくお礼を言う",
+      "hiragana": "れいぎ ただしく おれいを いう",
+      "romaji": "Reigi tadashiku orei wo iu",
+      "translation_tm": "Edep bilen minnetdarlyk bildirmek.",
+      "audio_text": "れいぎただしくおれいをいう"
+    },
+    {
+      "id": "twister_155",
+      "difficulty": "easy",
+      "level": "N4",
+      "japanese": "冷蔵庫に冷たい飲み物を入れる",
+      "hiragana": "れいぞうこに つめたい のみものを いれる",
+      "romaji": "Reizōko ni tsumetai nomimono wo ireru",
+      "translation_tm": "Sowadyja sowuk içgini goýmak.",
+      "audio_text": "れいぞうこにつめたいのみものをいれる"
+    },
+    {
+      "id": "twister_156",
+      "difficulty": "easy",
+      "level": "N4",
+      "japanese": "歴史の教科書で歴史を学ぶ",
+      "hiragana": "れきしの きょうかしょで れきしを まなぶ",
+      "romaji": "Rekishi no kyōkasho de rekishi wo tanul",
+      "translation_tm": "Taryh kitabyndan taryhy öwrenmek.",
+      "audio_text": "れきしのきょうかしょでれきしをまなぶ"
+    },
+    {
+      "id": "twister_157",
+      "difficulty": "medium",
+      "level": "N4",
+      "japanese": "列車に乗って旅行に行く",
+      "hiragana": "れっしゃに のって りょこうに いく",
+      "romaji": "Ressha ni notte ryokō ni iku",
+      "translation_tm": "Otla münüp syýahata gitmek.",
+      "audio_text": "れっしゃにのってりょこうにいく"
+    },
+    {
+      "id": "twister_158",
+      "difficulty": "medium",
+      "level": "N4",
+      "japanese": "流行の服を着て旅行する",
+      "hiragana": "りゅうこうの ふくを きて りょこう する",
+      "romaji": "Ryūkō no fuku wo kite ryokō suru",
+      "translation_tm": "Däp bolan moda eşiklerini geýip syýahat etmek.",
+      "audio_text": "りゅうこうのふくをきてりょこうする"
+    },
+    {
+      "id": "twister_159",
+      "difficulty": "medium",
+      "level": "N4",
+      "japanese": "料理教室で美味しい料理を作る",
+      "hiragana": "りょうり きょうしつで おいしい りょうりを つくる",
+      "romaji": "Ryōri kyōshitsu de oishii ryōri wo tsukuru",
+      "translation_tm": "Aşpezlyk kursynda lezzetli nahar bişirmek.",
+      "audio_text": "りょうりきょうしつでおいしいりょうりをつくる"
+    },
+    {
+      "id": "twister_160",
+      "difficulty": "medium",
+      "level": "N4",
+      "japanese": "旅館の部屋で料金を払う",
+      "hiragana": "りょかんの へやで りょうきんを はらう",
+      "romaji": "Ryokan no heya de ryōkin wo harau",
+      "translation_tm": "Ýapon stilindäki otelde töleg tölemek.",
+      "audio_text": "りょかんのへやでりょうきんをはらう"
+    },
+    {
+      "id": "twister_161",
+      "difficulty": "medium",
+      "level": "N4",
+      "japanese": "両親と一緒に旅行の計画を立てる",
+      "hiragana": "りょうしんと いっしょに りょこうの けいかくを たてる",
+      "romaji": "Ryōshin to issho ni ryokō no keikaku wo tateru",
+      "translation_tm": "Eje-kakam bilen bile syýahat meýilnamasyny düzmek.",
+      "audio_text": "りょうしんといっしょにりょこうのけいかくをたてる"
+    },
+    {
+      "id": "twister_162",
+      "difficulty": "hard",
+      "level": "N4",
+      "japanese": "利用規約を確認して利用する",
+      "hiragana": "りよう きやくを かくにんして りよう する",
+      "romaji": "Riyō kiyaku wo kakunin shite riyō suru",
+      "translation_tm": "Ulanyş düzgünlerini barlap ulanmak.",
+      "audio_text": "りようきやくをかくにんしてりようする"
+    },
+    {
+      "id": "twister_163",
+      "difficulty": "medium",
+      "level": "N4",
+      "japanese": "理解できるまで詳しく説明する",
+      "hiragana": "りかい できるまで くわしく せつめい する",
+      "romaji": "Rikai dekiru made kuwashiku setsumei suru",
+      "translation_tm": "Düşünilýänçä jikme-jik düşündirmek.",
+      "audio_text": "りかいできるまでくわしくせつめいする"
+    },
+    {
+      "id": "twister_164",
+      "difficulty": "medium",
+      "level": "N4",
+      "japanese": "理想の生活を目指して努力する",
+      "hiragana": "りそうの せいかつを めざして どりょく する",
+      "romaji": "Risō no seikatsu wo mezashite doryoku suru",
+      "translation_tm": "Ideal durmuşa ýetmek üçin çalşmak.",
+      "audio_text": "りそうのせいかつをめざしてどりょくする"
+    },
+    {
+      "id": "twister_165",
+      "difficulty": "medium",
+      "level": "N4",
+      "japanese": "留学の準備をして留学する",
+      "hiragana": "りゅうがくの じゅんびを して りゅうがく する",
+      "romaji": "Ryūgaku no junbi wo shite ryūgaku suru",
+      "translation_tm": "Daşary ýurtda okamak taýýarlygyny görüp okuwa gitmek.",
+      "audio_text": "りゅうがくのじゅんびをしてりゅうがくする"
+    },
+    {
+      "id": "twister_166",
+      "difficulty": "medium",
+      "level": "N4",
+      "japanese": "理由を説明して理解を得る",
+      "hiragana": "りゆうを せつめいして りかいを える",
+      "romaji": "Riyū wo setsumei shite rikai wo eru",
+      "translation_tm": "Sebäbini düşündirip düşünşmek.",
+      "audio_text": "りゆうをせつめいしてりかいをえる"
+    },
+    {
+      "id": "twister_167",
+      "difficulty": "easy",
+      "level": "N4",
+      "japanese": "立派な建物を見学する",
+      "hiragana": "りっぱな たてものを けんがく する",
+      "romaji": "Rippa na tatemono wo kengaku suru",
+      "translation_tm": "Ajaýyp binany gözden geçirmek.",
+      "audio_text": "りっぱなたてものをけんがくする"
+    },
+    {
+      "id": "twister_168",
+      "difficulty": "hard",
+      "level": "N4",
+      "japanese": "臨時列車が直ちに到着する",
+      "hiragana": "りんじ れっしゃが ただちに とうちゃく する",
+      "romaji": "Rinji ressha ga tadachi ni tōchaku suru",
+      "translation_tm": "Ýörite goşmaça otly haşal geň eşidilip tiz ara gelýär.",
+      "audio_text": "りんじれっしゃがただちにとうちゃくする"
+    },
+    {
+      "id": "twister_169",
+      "difficulty": "medium",
+      "level": "N4",
+      "japanese": "流行語を使って楽しく話す",
+      "hiragana": "りゅうこうごを つかって たのしく はなす",
+      "romaji": "Ryūkōgo wo tsukatte tanoshiku hanasu",
+      "translation_tm": "Meşhur sözleri ulanyp şat gepleşmek.",
+      "audio_text": "りゅうこうごをつかってたのしくはなす"
+    },
+    {
+      "id": "twister_170",
+      "difficulty": "medium",
+      "level": "N4",
+      "japanese": "料理人が新鮮な魚を調理する",
+      "hiragana": "りょうりにんが しんせんな さかなを ちょうり する",
+      "romaji": "Ryōrinin ga shinsen na sakana wo chōri suru",
+      "translation_tm": "Aşpez täze balygy bişirýär.",
+      "audio_text": "りょうりにんがしんせんなさかなをちょうりする"
+    },
+    {
+      "id": "twister_171",
+      "difficulty": "medium",
+      "level": "N4",
+      "japanese": "安全第一で安全運転を心がける",
+      "hiragana": "あんぜん だいいちで あんぜん うんてんを こころがける",
+      "romaji": "Anzen daiichi de anzen unten wo kokorogakeru",
+      "translation_tm": "Ilki bilen howpsuzlyk, mätäçlik bilen howpsuz sürmek.",
+      "audio_text": "あんぜんだいいちであんぜんうんてんをこころがける"
+    },
+    {
+      "id": "twister_172",
+      "difficulty": "easy",
+      "level": "N4",
+      "japanese": "案内人が親切に案内してくれる",
+      "hiragana": "あんないにんが しんせつに あんない してくれる",
+      "romaji": "Annainin ga shinsetsu ni annai shite kureru",
+      "translation_tm": "Ýolgörkeziji mähirli ýol görkezýär.",
+      "audio_text": "あんないにんがしんせつにあんないしてくれる"
+    },
+    {
+      "id": "twister_173",
+      "difficulty": "medium",
+      "level": "N4",
+      "japanese": "意見を交換して意志を固める",
+      "hiragana": "いけんを こうかんして いしを かためる",
+      "romaji": "Iken wo kōkan shite ishi wo katameru",
+      "translation_tm": "Pikir alyşyp karara gelmek.",
+      "audio_text": "いけんをこうかんしていしをかためる"
+    },
+    {
+      "id": "twister_174",
+      "difficulty": "medium",
+      "level": "N4",
+      "japanese": "意思表示をはっきり行う",
+      "hiragana": "いし ひょうじを はっきり おこなう",
+      "romaji": "Ishi hyōji wo hakkiri okonau",
+      "translation_tm": "Niýetiňi aýdyň beýan etmek.",
+      "audio_text": "いしひょうじをはっきりおこなう"
+    },
+    {
+      "id": "twister_175",
+      "difficulty": "medium",
+      "level": "N4",
+      "japanese": "意識を高めて集中する",
+      "hiragana": "いしきを たかめて しゅうちゅう する",
+      "romaji": "Ishiki wo takamete shūchū suru",
+      "translation_tm": "Düşünjäňi ýokarlandyryp ünsi jemlemek.",
+      "audio_text": "いしきをたかめてしゅうちゅうする"
+    },
+    {
+      "id": "twister_176",
+      "difficulty": "easy",
+      "level": "N4",
+      "japanese": "意味を調べて正しく理解する",
+      "hiragana": "いみを しらべて ただしく りかい する",
+      "romaji": "Imi wo shirabete tadashiku rikai suru",
+      "translation_tm": "Manysyny barlap dogry düşünmek.",
+      "audio_text": "いみをしらべてただしくりかいする"
+    },
+    {
+      "id": "twister_177",
+      "difficulty": "easy",
+      "level": "N4",
+      "japanese": "意外な結果に非常に驚く",
+      "hiragana": "いがいな けっかに ひじょうに おどろく",
+      "romaji": "Igai na kekka ni hijō ni odoroku",
+      "translation_tm": "Garaşylmadyk netijä gaty haýran galmak.",
+      "audio_text": "いがいなけっかにひじょうにおどろく"
+    },
+    {
+      "id": "twister_178",
+      "difficulty": "medium",
+      "level": "N4",
+      "japanese": "医学の研究に一生を捧げる",
+      "hiragana": "いがくの けんきゅうに いっしょうを ささげる",
+      "romaji": "Igaku no kenkyū ni isshō wo sasageru",
+      "translation_tm": "Lukmançylyk barlaglaryna tutuş ömrüňi bagyş etmek.",
+      "audio_text": "いがくのけんきゅうにいっしょうをささげる"
+    },
+    {
+      "id": "twister_179",
+      "difficulty": "medium",
+      "level": "N4",
+      "japanese": "異常な音に気づいて注意する",
+      "hiragana": "いじょうな おとに きづいて ちゅうい する",
+      "romaji": "Ijō na oto ni kidzuite chūi suru",
+      "translation_tm": "Adatdan daşary sese üns berip ätiýaçly bolmak.",
+      "audio_text": "いじょうなおとにきづいてちゅういする"
+    },
+    {
+      "id": "twister_180",
+      "difficulty": "easy",
+      "level": "N4",
+      "japanese": "移動時間を有効に利用する",
+      "hiragana": "いどう じかんを ゆうこうに りよう する",
+      "romaji": "Idō jikan wo yūkō ni riyō suru",
+      "translation_tm": "Ýol wagtyny netijeli ulanmak.",
+      "audio_text": "いどうじかんをゆうこうにりようする"
+    },
+    {
+      "id": "twister_181",
+      "difficulty": "hard",
+      "level": "N4",
+      "japanese": "印刷機で資料を大量に印刷する",
+      "hiragana": "いんさつきで しりょうを たいりょうに いんさつ する",
+      "romaji": "Insatsuki de shiryō wo tairyō ni insatsu suru",
+      "translation_tm": "Çap maşynynda maglumatlary köp mukdarda çap etmek.",
+      "audio_text": "いんさつきでしりょうをたいりょうにいんさつする"
+    },
+    {
+      "id": "twister_182",
+      "difficulty": "medium",
+      "level": "N4",
+      "japanese": "印象的な言葉を記憶する",
+      "hiragana": "いんしょうてきな ことばを きおく する",
+      "romaji": "Inshōteki na kotoba wo kioku suru",
+      "translation_tm": "Täsirli sözleri ýatda saklamak.",
+      "audio_text": "いんしょうてきなことばをきおくする"
+    },
+    {
+      "id": "twister_183",
+      "difficulty": "medium",
+      "level": "N4",
+      "japanese": "引退の時期を自分で決定する",
+      "hiragana": "いんたいの じきを じぶんで けってい する",
+      "romaji": "Intai no jiki wo jibun de kettei suru",
+      "translation_tm": "Pensiya çykmak wagtyny özüň kesgitlemek.",
+      "audio_text": "いんたいのじきをじぶんでけっていする"
+    },
+    {
+      "id": "twister_184",
+      "difficulty": "medium",
+      "level": "N4",
+      "japanese": "引用した文章を明確にする",
+      "hiragana": "いんようした ぶんしょうを めいかくに する",
+      "romaji": "In'yō shita bunshō wo meikaku ni suru",
+      "translation_tm": "Sitata getirilen sözlemi aýdyňlaşdyrmak.",
+      "audio_text": "いんようしたぶんしょうをめいかくにする"
+    },
+    {
+      "id": "twister_185",
+      "difficulty": "easy",
+      "level": "N4",
+      "japanese": "運動公園で毎日運動する",
+      "hiragana": "うんどう こうえんで まいにち うんどう する",
+      "romaji": "Undō kōen de mainichi undō suru",
+      "translation_tm": "Sport parkynda her gün maşklary etmek.",
+      "audio_text": "うんどうこうえんでまいにちうんどうする"
+    },
+    {
+      "id": "twister_186",
+      "difficulty": "easy",
+      "level": "N4",
+      "japanese": "運転手にお礼を言って降りる",
+      "hiragana": "うんてんしゅに おれいを いって おりる",
+      "romaji": "Untenshu ni orei wo itte oriru",
+      "translation_tm": "Sürüjä minnetdarlyk bildirip düşmek.",
+      "audio_text": "うんてんしゅにおれいをいっておりる"
+    },
+    {
+      "id": "twister_187",
+      "difficulty": "medium",
+      "level": "N4",
+      "japanese": "運送会社が荷物を無事に運ぶ",
+      "hiragana": "うんそう がいしゃが にもつを ぶじに はこぶ",
+      "romaji": "Unsō gaisha ga nimotsu wo buji ni hakobu",
+      "translation_tm": "Ýük daşaýan kompaniýa goşlary amanjalykda ýetirýär.",
+      "audio_text": "うんそうがいしゃがにもつをぶじにはこぶ"
+    },
+    {
+      "id": "twister_188",
+      "difficulty": "easy",
+      "level": "N4",
+      "japanese": "映画館で感動的な映画を見る",
+      "hiragana": "えいがかんで かんどうてきな えいがを みる",
+      "romaji": "Eigakan de kandōteki na eiga wo miru",
+      "translation_tm": "Kinoteatryda täsirli filmi görmek.",
+      "audio_text": "えいがかんでかんどうてきなえいがをみる"
+    },
+    {
+      "id": "twister_189",
+      "difficulty": "medium",
+      "level": "N4",
+      "japanese": "営業時間を調べて営業所に行く",
+      "hiragana": "えいぎょう じかんを しらべて えいぎょうしょに いく",
+      "romaji": "Eigyō jikan wo shirabete eigyōsho ni iku",
+      "translation_tm": "Iş wagtyny barlap şahamça gitmek.",
+      "audio_text": "えいぎょうじかんをしらべてえいぎょうしょにいく"
+    },
+    {
+      "id": "twister_190",
+      "difficulty": "hard",
+      "level": "N4",
+      "japanese": "影響力を発揮して円滑に進める",
+      "hiragana": "えいきょうりょくを はっきして えんかつに すすめる",
+      "romaji": "Eikyōryoku wo hakki shite enkatsu ni susumeru",
+      "translation_tm": "Täsirini görkezip päsgelsiz öňe gitmek.",
+      "audio_text": "えいきょうりょくをはっきしてえんかつにすすめる"
+    },
+    {
+      "id": "twister_191",
+      "difficulty": "hard",
+      "level": "N4",
+      "japanese": "衛生管理を徹底して清潔にする",
+      "hiragana": "えいせい かんりを てっていして せいけつに する",
+      "romaji": "Eisei kanri wo tettei shite seiketsu ni suru",
+      "translation_tm": "Arassaçylyk gözegçiligini kämilleşdirip arassa saklamak.",
+      "audio_text": "えいせいかんりをてっていしてせいけつにする"
+    },
+    {
+      "id": "twister_192",
+      "difficulty": "medium",
+      "level": "N4",
+      "japanese": "栄養バランスを考えて食事する",
+      "hiragana": "えいよう ばらんすを かんがえて しょくじ する",
+      "romaji": "Eiyō baransu wo kangaete shokuji suru",
+      "translation_tm": "Peýdaly iýmit deňagramlylygyny göz öňünde tutup naharlanmak.",
+      "audio_text": "えいようばらんすをかんがえてしょくじする"
+    },
+    {
+      "id": "twister_193",
+      "difficulty": "easy",
+      "level": "N4",
+      "japanese": "英語の会話を毎日練習する",
+      "hiragana": "えいごの かいわを まいにち れんしゅう する",
+      "romaji": "Eigo no kaiwa wo mainichi renshū suru",
+      "translation_tm": "Iňlis dili gepleşigini her gün türgenleşmek.",
+      "audio_text": "えいごのかいわをまいにちれんしゅうする"
+    },
+    {
+      "id": "twister_194",
+      "difficulty": "medium",
+      "level": "N4",
+      "japanese": "英国の歴史と文化を研究する",
+      "hiragana": "えいこくの れきしと ぶんかを けんきゅう する",
+      "romaji": "Eikoku no rekishi to bunka wo kenkyū suru",
+      "translation_tm": "Beýik Britaniýanyň taryhyny we medeniýetini öwrenmek.",
+      "audio_text": "えいこくのれきしとぶんかをけんきゅうする"
+    },
+    {
+      "id": "twister_195",
+      "difficulty": "easy",
+      "level": "N4",
+      "japanese": "遠慮しないで遠慮なく食べる",
+      "hiragana": "えんりょ しないで えんりょなく たべる",
+      "romaji": "Enryo shinai de enryonaku taberu",
+      "translation_tm": "Utanman, çekinmän iýmek.",
+      "audio_text": "えんりょしないでえんりょなくたべる"
+    },
+    {
+      "id": "twister_196",
+      "difficulty": "easy",
+      "level": "N4",
+      "japanese": "遠足の準備をして楽しく出発する",
+      "hiragana": "えんそくの じゅんびを して たのしく しゅっぱつ する",
+      "romaji": "Ensoku no junbi wo shite tanoshiku shuppatsu suru",
+      "translation_tm": "Gezelenç taýýarlygyny görüp şat ýola düşmek.",
+      "audio_text": "えんそくのじゅんびをしてたのしくしゅっぱつする"
+    },
+    {
+      "id": "twister_197",
+      "difficulty": "medium",
+      "level": "N4",
+      "japanese": "演奏会で素晴らしい演奏を聞く",
+      "hiragana": "えんそうかいで すばらしい えんそうを きく",
+      "romaji": "Ensōkai de subarashii ensō wo kiku",
+      "translation_tm": "Konsertde ajaýyp saz çalyşyny diňlemek.",
+      "audio_text": "えんそうかいですばらしいえんそうをきく"
+    },
+    {
+      "id": "twister_198",
+      "difficulty": "hard",
+      "level": "N4",
+      "japanese": "延長申請をして期間を延ばす",
+      "hiragana": "えんちょう しんせいを して きかんを のばす",
+      "romaji": "Enchō shinsei wo shite kikan wo nobasu",
+      "translation_tm": "Möhleti uzaltmak üçin arza berip möhleti uzaltmak.",
+      "audio_text": "えんちょうしんせいをしてきかんをのばす"
+    },
+    {
+      "id": "twister_199",
+      "difficulty": "medium",
+      "level": "N4",
+      "japanese": "応援団と一緒に大声で応援する",
+      "hiragana": "おうえんだんと いっしょに おおごえで おうえん する",
+      "romaji": "Ōendan to issho ni ōgoe de ōen suru",
+      "translation_tm": "Goldawçylar topary bilen uly ses bilen goldamak.",
+      "audio_text": "おうえんだんといっしょにおおごえでおうえんする"
+    },
+    {
+      "id": "twister_200",
+      "difficulty": "medium",
+      "level": "N4",
+      "japanese": "応援のおかげで見事に優勝する",
+      "hiragana": "おうえんの おかげで みごとに ゆうしょう する",
+      "romaji": "Ōen no okage de migoto ni yūshō suru",
+      "translation_tm": "Goldawyň kömegi bilen ajaýyp ýeňiji bolmak.",
+      "audio_text": "おうえんのおかげでみごとにゆうしょうする"
+    },
+    {
+      "id": "twister_201",
+      "difficulty": "medium",
+      "level": "N3",
+      "japanese": "裏庭には2羽、庭には2羽鶏がいる",
+      "hiragana": "うらにわには にわ にわには にわ にわとりが いる",
+      "romaji": "Uraniwa ni wa niwa, niwa ni wa niwa niwatori ga iru",
+      "translation_tm": "Uly howluda  iki towuk bar.",
+      "audio_text": "うらにわにはにわにわにはにわにわとりがいる"
+      },
+      {
+      "id": "twister_202",
+      "difficulty": "hard",
+      "level": "N3",
+      "japanese": "東京特許許可局許可局長",
+      "hiragana": "とうきょう とっきょ きょかきょく きょか きょくちょう",
+      "romaji": "Tōkyō tokkyo kyokakyoku kyoka kyokuchō",
+      "translation_tm": "Tokio patent rugsat býurosynyň rugsat bölüminiň başlygy.",
+      "audio_text": "とうきょうとっきょきょかきょくきょかきょくちょう"
+      },
+      {
+      "id": "twister_203",
+      "difficulty": "hard",
+      "level": "N3",
+      "japanese": "新人歌手新春シャンソンショー",
+      "hiragana": "しんじん かしゅ しんしゅん しゃんそん しょー",
+      "romaji": "Shinjin kashu shinshun shanson shō",
+      "translation_tm": "Täze aýdymçynyň täze ýyl şanson şowasy.",
+      "audio_text": "しんじんかしゅしんしゅんしゃんそんしょー"
+      },
+      {
+      "id": "twister_204",
+      "difficulty": "hard",
+      "level": "N3",
+      "japanese": "赤除雪車黄除雪車青除雪車",
+      "hiragana": "あか じょせつしゃ き じょせつしゃ あお じょせつしゃ",
+      "romaji": "Aka josetsusha ki josetsusha ao josetsusha",
+      "translation_tm": "Gyzyl gar arassalaýjy, sary gar arassalaýjy, gök gar arassalaýjy.",
+      "audio_text": "あかじょせつしゃきじょせつしゃあおじょせつしゃ"
+      },
+      {
+      "id": "twister_205",
+      "difficulty": "medium",
+      "level": "N3",
+      "japanese": "客が柿食えきゃくも柿食う",
+      "hiragana": "きゃくが かき くえ きゃくも かき くう",
+      "romaji": "Kyaku ga kaki kue kyaku mo kaki kū",
+      "translation_tm": "Müşderi hurma iýse, beýleki müşteri hem hurma iýýär.",
+      "audio_text": "きゃくがかきくえきゃくもかきくう"
+      },
+      {
+      "id": "twister_206",
+      "difficulty": "hard",
+      "level": "N3",
+      "japanese": "竹垣に竹立てかけたのは竹立てかけたかったから竹立てかけた",
+      "hiragana": "たけがきに たけたてかけたのは たけたてかけたかったから たけたてかけた",
+      "romaji": "Takegaki ni taketatekaketano wa taketatekaketakatakara taketatekaketa",
+      "translation_tm": "Bambuk haşara bambuk söýeýänim, bambuk söýemek islänim üçindir.",
+      "audio_text": "たけがきにたけたてかけたのはたけたてかけたかったからたけたてかけた"
+      },
+      {
+      "id": "twister_207",
+      "difficulty": "easy",
+      "level": "N3",
+      "japanese": "美容院で美容師が美容液を使う",
+      "hiragana": "びよういんで びようしが びようえきを つかう",
+      "romaji": "Biyōin de biyōshi ga biyōeki wo tsukau",
+      "translation_tm": "Gözellik salonynda meýkapçy kosmetik serum ulanýar.",
+      "audio_text": "びよういんでびようしがびようえきをつかう"
+      },
+      {
+      "id": "twister_208",
+      "difficulty": "medium",
+      "level": "N3",
+      "japanese": "営業部長が営業方針を説明する",
+      "hiragana": "えいぎょう ぶちょうが えいぎょう ほうしんを せつめい する",
+      "romaji": "Eigyō buchō ga eigyō hōshin wo setsumei suru",
+      "translation_tm": "Söwda müdiri söwda syýasatyny düşündirýär.",
+      "audio_text": "えいぎょうぶちょうがえいぎょうほうしんをせつめいする"
+      },
+      {
+      "id": "twister_209",
+      "difficulty": "easy",
+      "level": "N3",
+      "japanese": "環境問題の解決を目指す",
+      "hiragana": "かんきょう もんだいの かいけつを めざす",
+      "romaji": "Kankyō mondai no kaiketsu wo mezasu",
+      "translation_tm": "Daşky gurşaw meselelerini çözmegi maksat edinmek.",
+      "audio_text": "かんきょうもんだいのかいけつをめざす"
+      },
+      {
+      "id": "twister_210",
+      "difficulty": "medium",
+      "level": "N3",
+      "japanese": "関係者が関節の痛みを訴える",
+      "hiragana": "かんけいしゃが かんせつの いたみを うったえる",
+      "romaji": "Kankeisha ga kansetsu no itami wo uttaeru",
+      "translation_tm": "Degişli adamlar bogun agyrysyndan şikāyet edýärler.",
+      "audio_text": "かんけいしゃがかんせつのいたみをうったえる"
+      },
+      {
+      "id": "twister_211",
+      "difficulty": "medium",
+      "level": "N3",
+      "japanese": "観光客が観光地を鑑賞する",
+      "hiragana": "かんこうきゃくが かんこうちを かんしょう する",
+      "romaji": "Kankōkyaku ga kankōchi wo kanshō suru",
+      "translation_tm": "Syýahatçylar syýahatçylyk zolagyna tomaşa edýärler.",
+      "audio_text": "かんこうきゃくがかんこうちをかんしょうする"
+      },
+      {
+      "id": "twister_212",
+      "difficulty": "medium",
+      "level": "N3",
+      "japanese": "感染症の感染拡大を防ぐ",
+      "hiragana": "かんせんしょうの かんせん かくだいを ふせぐ",
+      "romaji": "Kansenshō no kansen kakudai wo fusegu",
+      "translation_tm": "Ýokanç keseliň ýaýramagynyň öňüni almak.",
+      "audio_text": "かんせんしょうのかんせんかくだいをふせぐ"
+      },
+      {
+      "id": "twister_213",
+      "difficulty": "hard",
+      "level": "N3",
+      "japanese": "行政指導に従って行政手続きを行う",
+      "hiragana": "ぎょうせい しどうに したがってい ぎょうせい てつづきを おこなう",
+      "romaji": "Gyōsei shidō ni shitagatte gyōsei tetsuduki wo okonau",
+      "translation_tm": "Dolandyryş görkezmesine eýerip edara resminamalaryny berjaý etmek.",
+      "audio_text": "ぎょうせいしどうにしたがっていぎょうせいてつづきをおこなう"
+      },
+      {
+      "id": "twister_214",
+      "difficulty": "medium",
+      "level": "N3",
+      "japanese": "経営状態の改善に向けて協力する",
+      "hiragana": "けいえい じょうたいの かいぜんに むけて きょうりょく する",
+      "romaji": "Keiei jōtai no kaizen ni mukete kyōryoku suru",
+      "translation_tm": "Dolandyryş ýagdaýyny gowulandyrmak üçin hyzmatdaşlyk etmek.",
+      "audio_text": "けいえいじょうたいのかいぜんにむけてきょうりょくする"
+      },
+      {
+      "id": "twister_215",
+      "difficulty": "easy",
+      "level": "N3",
+      "japanese": "国際会議で国際交流を深める",
+      "hiragana": "こくさい かいぎで こくさい こうりゅうを ふかめる",
+      "romaji": "Kokusai kaigi de kokusai kōryū wo fukameru",
+      "translation_tm": "Halkara maslahatda halkara gatnaşyklary çuňlaşdyrmak.",
+      "audio_text": "こくさいかいぎでこくさいこうりゅうをふかめる"
+      },
+      {
+      "id": "twister_216",
+      "difficulty": "medium",
+      "level": "N3",
+      "japanese": "交通規制に従って安全通行する",
+      "hiragana": "こうつう きせいに したがっても あんぜん つうこう する",
+      "romaji": "Kōtsū kisei ni shitagatte anzen tsūkō suru",
+      "translation_tm": "Ýol hereketiniň düzgünlerine eýerip howpsuz geçmek.",
+      "audio_text": "こうつうきせいにしたがってもあんぜんつうこうする"
+      },
+      {
+      "id": "twister_217",
+      "difficulty": "medium",
+      "level": "N3",
+      "japanese": "経済活動を活性化させる",
+      "hiragana": "けいざい かつどうを かっせいか させる",
+      "romaji": "Keizai katsudō wo kasseika saseru",
+      "translation_tm": "Ykdysady işjeňligi janlandyrmak.",
+      "audio_text": "けいざいかつどうをかっせいかさせる"
+      },
+      {
+      "id": "twister_218",
+      "difficulty": "hard",
+      "level": "N3",
+      "japanese": "建設計画の建設費用を計算する",
+      "hiragana": "けんせつ けいかくの けんせつ ひようを けいさん する",
+      "romaji": "Kensetsu keikaku no kensetsu hiyō wo keisan suru",
+      "translation_tm": "Gurluşyk meýilnamasynyň gurluşyk çykdajylaryny hasaplamak.",
+      "audio_text": "けんせつけいかくのけんせつひようをけいさんする"
+      },
+      {
+      "id": "twister_219",
+      "difficulty": "medium",
+      "level": "N3",
+      "japanese": "効率的な業務改善を提案する",
+      "hiragana": "こうりつてきな ぎょうむ かいぜんを ていあん する",
+      "romaji": "Kōritsuteki na gyōmu kaizen wo teian suru",
+      "translation_tm": "Netijeli iş gowulandyrmalaryny öňe sürmek.",
+      "audio_text": "こうりつてきなぎょうむかいぜんをていあんする"
+      },
+      {
+      "id": "twister_220",
+      "difficulty": "easy",
+      "level": "N3",
+      "japanese": "高度な技術力を開発する",
+      "hiragana": "こうどな ぎじゅつりょくを かいはつ する",
+      "romaji": "Kōdo na gijutsuryoku wo kaihatsu suru",
+      "translation_tm": "Ýokary derejeli tehnologiki ukyplylygy ösdürmek.",
+      "audio_text": "こうどなぎじゅつりょくをかいはつする"
+      },
+      {
+      "id": "twister_221",
+      "difficulty": "easy",
+      "level": "N3",
+      "japanese": "構成員の意見を調整する",
+      "hiragana": "こうせいいんの いけんを ちょうせい する",
+      "romaji": "Kōseiin no iken wo chōsei suru",
+      "translation_tm": "Agzalaryň pikirlerini sazlaşdyrmak.",
+      "audio_text": "こうせいいんのいけんをちょうせいする"
+      },
+      {
+      "id": "twister_222",
+      "difficulty": "hard",
+      "level": "N3",
+      "japanese": "構造改革の重要性を強調する",
+      "hiragana": "こうぞう かいかくの じゅうようせいを きょうちょう する",
+      "romaji": "Kōzō kaikaku no jūyōsei wo kyōchō suru",
+      "translation_tm": "Gurluş reformasynyň wajyplygyny nygtamak.",
+      "audio_text": "こうぞうかいかくのじゅうようせいをきょうちょうする"
+      },
+      {
+      "id": "twister_223",
+      "difficulty": "medium",
+      "level": "N3",
+      "japanese": "最高裁判所で裁決を下す",
+      "hiragana": "さいこう さいばんしょで さいけつを くだす",
+      "romaji": "Saikō saibansho de saiketsu wo kudasu",
+      "translation_tm": "Ýokary kazyýetde karary yglan etmek.",
+      "audio_text": "さいこうさいばんしょでさいけつをくだす"
+      },
+      {
+      "id": "twister_224",
+      "difficulty": "medium",
+      "level": "N3",
+      "japanese": "産業構造の変化に対応する",
+      "hiragana": "さんぎょう こうぞうの へんかに たいおう する",
+      "romaji": "Sangyō kōzō no henka ni taiō suru",
+      "translation_tm": "Senagat gurluşynyň üýtgemegine uýgunlaşmak.",
+      "audio_text": "さんぎょうこうぞうのへんかにたいおうする"
+      },
+      {
+      "id": "twister_225",
+      "difficulty": "easy",
+      "level": "N3",
+      "japanese": "参加者が自発的に参加する",
+      "hiragana": "さんかしゃが じはつてきに さんか する",
+      "romaji": "Sankasha ga jihatsuteki ni sanka suru",
+      "translation_tm": "Gatnaşyjylar öz islegi bilen gatnaşýarlar.",
+      "audio_text": "さんかしゃがじはつてきにさんかする"
+      },
+      {
+      "id": "twister_226",
+      "difficulty": "medium",
+      "level": "N3",
+      "japanese": "社会保障制度を修繕する",
+      "hiragana": "しゃかい ほしょう せいどを しゅうぜん する",
+      "romaji": "Shakai hoshō seido wo shūzen suru",
+      "translation_tm": "Görünýän durmuş üpjünçiligi ulgamyny kämilleşdirmek.",
+      "audio_text": "しゃかいほしょうせいどをしゅうぜんする"
+      },
+      {
+      "id": "twister_227",
+      "difficulty": "easy",
+      "level": "N3",
+      "japanese": "写真撮影の許可を取得する",
+      "hiragana": "しゃしん さつえいの きょかを しゅとく する",
+      "romaji": "Shashin satsuei no kyoka wo shutoku suru",
+      "translation_tm": "Surata düşürmek üçin rugsatnamany almak.",
+      "audio_text": "しゃしんさつえいのきょかをしゅとくする"
+      },
+      {
+      "id": "twister_228",
+      "difficulty": "medium",
+      "level": "N3",
+      "japanese": "情報処理の能力を向上させる",
+      "hiragana": "じょうほう しょりの のうりょくを こうじょう させる",
+      "romaji": "Jōhō shori no nōryoku wo kōjō saseru",
+      "translation_tm": "Maglumat işlemek ukybyny ýokarlandyrmak.",
+      "audio_text": "じょうほうしょりののうりょくをこうじょうさせる"
+      },
+      {
+      "id": "twister_229",
+      "difficulty": "medium",
+      "level": "N3",
+      "japanese": "調査結果の詳細を研究する",
+      "hiragana": "ちょうさ けっかの しょうさいを けんきゅう する",
+      "romaji": "Chōsa kekka no shōsai wo kenkyū suru",
+      "translation_tm": "Barlag netijeleriniň jikme-jikliklerini öwrenmek.",
+      "audio_text": "ちょうさけっかのしょうさいをけんきゅうする"
+      },
+      {
+      "id": "twister_230",
+      "difficulty": "hard",
+      "level": "N3",
+      "japanese": "条件交渉を慎重に進める",
+      "hiragana": "じょうけん こうしょうを しんちょうに すすめる",
+      "romaji": "Jōken kōshō wo shinchō ni susumeru",
+      "translation_tm": "Şertler baradaky gepleşikleri ätiýaçly alyp barmak.",
+      "audio_text": "じょうけんこうしょうをしんちょうにすすめる"
+      },
+      {
+      "id": "twister_231",
+      "difficulty": "medium",
+      "level": "N3",
+      "japanese": "診療所で丁寧な診療を受ける",
+      "hiragana": "しんりょうじょで ていねいな しんりょうを うける",
+      "romaji": "Shinryōjo de teinei na shinryō wo ukeru",
+      "translation_tm": "Klinikada idegli lukmançylyk gözegçiligini geçmek.",
+      "audio_text": "しんりょうじょでていねいなしんりょうをうける"
+      },
+      {
+      "id": "twister_232",
+      "difficulty": "medium",
+      "level": "N3",
+      "japanese": "制度改革の審議を重ねる",
+      "hiragana": "せいど かいかくの しんぎを かさねる",
+      "romaji": "Seido kaikaku no shingi wo kasaneru",
+      "translation_tm": "Ulgam reformasy baradaky maslahatlary gaýtalamak.",
+      "audio_text": "せいどかいかくのしんぎをかさねる"
+      },
+      {
+      "id": "twister_233",
+      "difficulty": "hard",
+      "level": "N3",
+      "japanese": "製造工程の効率化を図る",
+      "hiragana": "せいぞう こうていの こうりつかを はかる",
+      "romaji": "Seizō kōtei no kōritsuka wo hakaru",
+      "translation_tm": "Önümçilik tapgyrynyň netijeliligini artdyrmaga çalşmak.",
+      "audio_text": "せいぞうこうていのこうりつかをはかる"
+      },
+      {
+      "id": "twister_234",
+      "difficulty": "medium",
+      "level": "N3",
+      "japanese": "説明責任を果たすために説明する",
+      "hiragana": "せつめい せきにんを はたす ために せつめい する",
+      "romaji": "Setsumei sekinin wo hatasu tame ni setsumei suru",
+      "translation_tm": "Jogapkärçiligi ýerine ýetirmek üçin düşündiriş bermek.",
+      "audio_text": "せつめいせきにんをはたすためにせつめいする"
+      },
+      {
+      "id": "twister_235",
+      "difficulty": "easy",
+      "level": "N3",
+      "japanese": "専門機関に調査を依頼する",
+      "hiragana": "せんもん きかんに ちょうさを いらい する",
+      "romaji": "Senmon kikan ni chōsa wo irai suru",
+      "translation_tm": "Mütahassis edarasyna barlag geçirmegi tabşyrmak.",
+      "audio_text": "せんもんきかんにちょうさをいらいする"
+      },
+      {
+      "id": "twister_236",
+      "difficulty": "easy",
+      "level": "N3",
+      "japanese": "総合的な判断を下す",
+      "hiragana": "そうごうてきな はんだんを くだす",
+      "romaji": "Sōgōteki na handan wo kudasu",
+      "translation_tm": "Hemmetaraplaýyn netijä gelmek.",
+      "audio_text": "そうごうてきなはんだんをくだす"
+      },
+      {
+      "id": "twister_237",
+      "difficulty": "medium",
+      "level": "N3",
+      "japanese": "創造的な発想を生み出す",
+      "hiragana": "そうぞうてきな はっそうを うみだす",
+      "romaji": "Sōzōteki na hassō wo umidasu",
+      "translation_tm": "Döredijilikli pikirleri ýüze çykarmak.",
+      "audio_text": "そうぞうてきなはっそうをうみだす"
+      },
+      {
+      "id": "twister_238",
+      "difficulty": "hard",
+      "level": "N3",
+      "japanese": "組織改革の必要性を主張する",
+      "hiragana": "そしき かいかくの ひつようせいを しゅちょう する",
+      "romaji": "Soshiki kaikaku no hitsuyōsei wo shuchō suru",
+      "translation_tm": "Gurluş reformasynyň zerurlygyny öňe sürmek.",
+      "audio_text": "そしきかいかくのひつようせいをしゅちょうする"
+      },
+      {
+      "id": "twister_239",
+      "difficulty": "hard",
+      "level": "N3",
+      "japanese": "迅速な対応で被害を最小限に抑える",
+      "hiragana": "じんそくな たいおうで ひがいを さいしょうげんに おさえる",
+      "romaji": "Jinsoku na taiō de higai wo saishōgen ni osaeru",
+      "translation_tm": "Çalt çäre görüp zyýany iň az derejede saklamak.",
+      "audio_text": "じんそくなたいおうでひがいをさいしょうげんにおさえる"
+      },
+      {
+      "id": "twister_240",
+      "difficulty": "easy",
+      "level": "N3",
+      "japanese": "妥当な判断で解決に導く",
+      "hiragana": "だとうな はんだんで かいけつに みちびく",
+      "romaji": "Datō na handan de kaiketsu ni michibiku",
+      "translation_tm": "Ynamly karar bilen çözgüde tarap ugrukdyrmak.",
+      "audio_text": "だとうなはんだんでかいけつにみちびく"
+      },
+      {
+      "id": "twister_241",
+      "difficulty": "medium",
+      "level": "N3",
+      "japanese": "地域社会の発展に貢献する",
+      "hiragana": "ちいき しゃかいの はってんに こうけん する",
+      "romaji": "Chiiki shakai no hatten ni kōken suru",
+      "translation_tm": "Bölüm jemgyýetiniň ösüşine goşant goşmak.",
+      "audio_text": "ちいきしゃかいのはってんにこうけんする"
+      },
+      {
+      "id": "twister_242",
+      "difficulty": "medium",
+      "level": "N3",
+      "japanese": "中央政府が方針を発表する",
+      "hiragana": "ちゅうおう せいふが ほうしんを はっぴょう する",
+      "romaji": "Chūō seifu ga hōshin wo happyō suru",
+      "translation_tm": "Merkezi hökümet syýasaty yglan edýär.",
+      "audio_text": "ちゅうおうせいふがほうしんをはっぴょうする"
+      },
+      {
+      "id": "twister_243",
+      "difficulty": "hard",
+      "level": "N3",
+      "japanese": "抽象的な概念を具体化する",
+      "hiragana": "ちゅうしょうてきな がいねんを ぐたいか する",
+      "romaji": "Chūshōteki na gainen wo gutaika suru",
+      "translation_tm": "Abstrakt düşünjäni anyklaşdyrmak.",
+      "audio_text": "ちゅうしょうてきながいねんをぐたいかする"
+      },
+      {
+      "id": "twister_244",
+      "difficulty": "medium",
+      "level": "N3",
+      "japanese": "直接的な影響を調査する",
+      "hiragana": "ちょくせつてきな えいきょうを ちょうさ する",
+      "romaji": "Chokusetsuteki na eikyō wo chōsa suru",
+      "translation_tm": "Göni täsirlerini barlag etmek.",
+      "audio_text": "ちょくせつてきなえいきょうをちょうさする"
+      },
+      {
+      "id": "twister_245",
+      "difficulty": "medium",
+      "level": "N3",
+      "japanese": "著作権の侵害を防止する",
+      "hiragana": "ちょさくけんの しんがいを ぼうし する",
+      "romaji": "Chosakuken no shingai wo bōshi suru",
+      "translation_tm": "Awtorlyk hukuklarynyň bozulmagynyň öňüni almak.",
+      "audio_text": "ちょさくけんのしんがいをぼうしする"
+      },
+      {
+      "id": "twister_246",
+      "difficulty": "easy",
+      "level": "N3",
+      "japanese": "定期的な点検を実施する",
+      "hiragana": "ていきてきな てんけんを じっし する",
+      "romaji": "Teikiteki na tenken wo jisshi suru",
+      "translation_tm": "Yzygiderli barlaglary geçirmek.",
+      "audio_text": "ていきてきなてんけんをじっしする"
+      },
+      {
+      "id": "twister_247",
+      "difficulty": "easy",
+      "level": "N3",
+      "japanese": "適正な価格で取引を行う",
+      "hiragana": "てきせいな かかくで とりひきを おこなう",
+      "romaji": "Tekisei na kakaku de torihiki wo okonau",
+      "translation_tm": "Degişli bahadan söwda amallaryny geçirmek.",
+      "audio_text": "てきせいなかかくでとりひきをおこなう"
+      },
+      {
+      "id": "twister_248",
+      "difficulty": "medium",
+      "level": "N3",
+      "japanese": "伝統的な文化を継承する",
+      "hiragana": "でんとうてきな ぶんかを けいしょう する",
+      "romaji": "Dentōteki na bunka wo keishō suru",
+      "translation_tm": "Däp-dessur medeniýetini dowam etdirmek.",
+      "audio_text": "でんとうてきなぶんかをけいしょうする"
+      },
+      {
+      "id": "twister_249",
+      "difficulty": "medium",
+      "level": "N3",
+      "japanese": "都市開発の計画を推進する",
+      "hiragana": "としかいはつの けいかくを すいしん する",
+      "romaji": "Toshi kaihatsu no keikaku wo suishin suru",
+      "translation_tm": "Şäher ösüş meýilnamasyny öňe ilerletmek.",
+      "audio_text": "としかいはつのけいかくをすいしんする"
+      },
+      {
+      "id": "twister_250",
+      "difficulty": "medium",
+      "level": "N3",
+      "japanese": "特殊な条件のもとで実験する",
+      "hiragana": "とくしゅな じょうけんの もとで じっけん する",
+      "romaji": "Tokushu na jōken no moto de jikken suru",
+      "translation_tm": "Aýratyn şertler astynda synag geçirmek.",
+      "audio_text": "とくしゅなじょうけんのもとでじっけんする"
+      },
+      {
+      "id": "twister_251",
+      "difficulty": "medium",
+      "level": "N3",
+      "japanese": "内部統制の強化を図る",
+      "hiragana": "ないぶ とうせいの きょうかを はかる",
+      "romaji": "Naibu tōsei no kyōka wo hakaru",
+      "translation_tm": "Içki goşmaça gözegçiligi berkitmäge çalşmak.",
+      "audio_text": "ないぶとうせいのきょうかをはかる"
+      },
+      {
+      "id": "twister_252",
+      "difficulty": "easy",
+      "level": "N3",
+      "japanese": "日本語の能力を試験で測る",
+      "hiragana": "にほんごの のうりょくを しけんで はかる",
+      "romaji": "Nihongo no nōryoku wo shiken de hakaru",
+      "translation_tm": "Ýapon dili ukybyny synag arkaly barlamak.",
+      "audio_text": "にほんごののうりょくをしけんはかる"
+      },
+      {
+      "id": "twister_253",
+      "difficulty": "easy",
+      "level": "N3",
+      "japanese": "認知度の向上を目指す",
+      "hiragana": "にんちど の こうじょうを めざす",
+      "romaji": "Ninchido no kōjō wo mezasu",
+      "translation_tm": "Mälimlik derejesini ýokarlandyrmagy maksat edinmek.",
+      "audio_text": "にんちどのこうじょうをめざす"
+      },
+      {
+      "id": "twister_254",
+      "difficulty": "medium",
+      "level": "N3",
+      "japanese": "農産物の生産量を把握する",
+      "hiragana": "のうさんぶつの せいさんりょうを はあく する",
+      "romaji": "Nōsanbutsu no seisanryō wo haaku suru",
+      "translation_tm": "Oba hojalyk önümleriniň önümçilik mukdaryna düşünmek.",
+      "audio_text": "のうさんぶつのせいさんりょうをはあくする"
+      },
+      {
+      "id": "twister_255",
+      "difficulty": "easy",
+      "level": "N3",
+      "japanese": "把握した情報を共有する",
+      "hiragana": "はあくした じょうほうを きょうゆう する",
+      "romaji": "Haaku shita jōhō wo kyōyū suru",
+      "translation_tm": "Düşünilen maglumatlary paýlaşmak.",
+      "audio_text": "はあくしたじょうほうをきょうゆうする"
+      },
+      {
+      "id": "twister_256",
+      "difficulty": "medium",
+      "level": "N3",
+      "japanese": "比較検討を重ねて決定する",
+      "hiragana": "ひかく けんとうを かさねて けってい する",
+      "romaji": "Hikaku kentō wo kasanete kettei suru",
+      "translation_tm": "Deňeşdirip seljermeler geçirip karar bermek.",
+      "audio_text": "ひかくけんとうをかさねてけっていする"
+      },
+      {
+      "id": "twister_257",
+      "difficulty": "medium",
+      "level": "N3",
+      "japanese": "非常事態の発生に備える",
+      "hiragana": "ひじょう じたいの はっせいに そなえる",
+      "romaji": "Hijō jitai no hassei ni sonaeru",
+      "translation_tm": "Adatdan daşary ýagdaýlaryň bolmagyna taýýarlanmak.",
+      "audio_text": "ひじょうじたいのはっせいにそなえる"
+      },
+      {
+      "id": "twister_258",
+      "difficulty": "easy",
+      "level": "N3",
+      "japanese": "表現力を豊かにする練習",
+      "hiragana": "ひょうげんりょくを ゆたかに する れんしゅう",
+      "romaji": "Hyōgenryoku wo yutaka ni suru renshū",
+      "translation_tm": "Aňlatma ukybyny baýlaşdyrmak türgenleşigi.",
+      "audio_text": "ひょうげんりょくをゆたかにするれんしゅう"
+      },
+      {
+      "id": "twister_259",
+      "difficulty": "medium",
+      "level": "N3",
+      "japanese": "評価基準を明確に設定する",
+      "hiragana": "ひょうか きじゅんを めいかくに せってい する",
+      "romaji": "Hyōka kijun wo meikaku ni settei suru",
+      "translation_tm": "Bahalandyryş ölçeglerini aýdyň kesgitlemek.",
+      "audio_text": "ひょうかきじゅんをめいかくにせっていする"
+      },
+      {
+      "id": "twister_260",
+      "difficulty": "medium",
+      "level": "N3",
+      "japanese": "品質管理を徹底的に行う",
+      "hiragana": "ひんしつ かんりを てっていてきに おこなう",
+      "romaji": "Hinshitsu kanri wo tetteiteki ni okonau",
+      "translation_tm": "Sapak gözegçiligini düýpli geçirmek.",
+      "audio_text": "ひんしつかんりをてっていてきにおこなう"
+      },
+      {
+      "id": "twister_261",
+      "difficulty": "medium",
+      "level": "N3",
+      "japanese": "不測の事態に対処する",
+      "hiragana": "ふそくの じたいに たいしょ する",
+      "romaji": "Fusoku no jitai ni taisho suru",
+      "translation_tm": "Garaşylmadyk ýagdaýlara garşy çäre görmek.",
+      "audio_text": "ふそくのじたいにたいしょする"
+      },
+      {
+      "id": "twister_262",
+      "difficulty": "medium",
+      "level": "N3",
+      "japanese": "複雑な手続きを簡略化する",
+      "hiragana": "ふくざつな てつづきを かんりゃくか する",
+      "romaji": "Fukuzatsu na tetsuduki wo kanryakuka suru",
+      "translation_tm": "Çylşyrymly düzgünleri ýönekeýleşdirmek.",
+      "audio_text": "ふくざつなてつづきをかんりゃくかする"
+      },
+      {
+      "id": "twister_263",
+      "difficulty": "hard",
+      "level": "N3",
+      "japanese": "文章の構成を論理的に組み立てる",
+      "hiragana": "ぶんしょうの こうせいを ろんりてきに くみたてる",
+      "romaji": "Bunshō no kōsei wo ronriteki ni kumitateru",
+      "translation_tm": "Sözlemiň gurluşyny logiki taýdan düzmek.",
+      "audio_text": "ぶんしょうのこうせいをろんりてきにくみたてる"
+      },
+      {
+      "id": "twister_264",
+      "difficulty": "medium",
+      "level": "N3",
+      "japanese": "防災訓練に積極的に参加する",
+      "hiragana": "ぼうさい くんれんに せっきょくてきに さんか する",
+      "romaji": "Bōsai kunren ni sekkyokuteki ni sanka suru",
+      "translation_tm": "Betbagtçylygyň öňüni alyş türgenleşigine işjeň gatnaşmak.",
+      "audio_text": "ぼうさいくんれんにせっきょくてきにさんかする"
+      },
+      {
+      "id": "twister_265",
+      "difficulty": "hard",
+      "level": "N3",
+      "japanese": "法律改正の骨子を発表する",
+      "hiragana": "ほうりつ かいせいの こっしを はっぴょう する",
+      "romaji": "Hōritsu kaisei no kosshi wo happyō suru",
+      "translation_tm": "Kanun üýtgetmesiniň esasy nokatlaryny yglan etmek.",
+      "audio_text": "ほうりつかいせいのこっしをはっぴょうする"
+      },
+      {
+      "id": "twister_266",
+      "difficulty": "easy",
+      "level": "N3",
+      "japanese": "本格的な研究を開始する",
+      "hiragana": "ほんかくてきな けんきゅうを かいし する",
+      "romaji": "Honkakuteki na kenkyū wo kaishi suru",
+      "translation_tm": "Düýpli ylmy barlagyny başlatmak.",
+      "audio_text": "ほんかくてきなけんきゅうをかいしする"
+      },
+      {
+      "id": "twister_267",
+      "difficulty": "easy",
+      "level": "N3",
+      "japanese": "未来の可能性を模索する",
+      "hiragana": "みらいの かのうせいを もさく する",
+      "romaji": "Mirai no kanōsei wo mosaku suru",
+      "translation_tm": "Geljegiň mümkinçiliklerini gözlemek.",
+      "audio_text": "みらいのかなうせいをもさくする"
+      },
+      {
+      "id": "twister_268",
+      "difficulty": "medium",
+      "level": "N3",
+      "japanese": "民間企業と行政が連携する",
+      "hiragana": "みんかん きぎょうと ぎょうせいが れんけい する",
+      "romaji": "Minkan kigyō to gyōsei ga renkei suru",
+      "translation_tm": "Hususy kärhanalar we edara hyzmatdaşlyk edýär.",
+      "audio_text": "みんかんきぎょうとぎょうせいがれんけいする"
+      },
+      {
+      "id": "twister_269",
+      "difficulty": "easy",
+      "level": "N3",
+      "japanese": "無償で提供されるサービス",
+      "hiragana": "むしょうで ていきょう される さーびす",
+      "romaji": "Mushō de teikyō sareru sābisu",
+      "translation_tm": "Mugt hödürlenýän hyzmat.",
+      "audio_text": "むしょうでていきょうされるさーびす"
+      },
+      {
+      "id": "twister_270",
+      "difficulty": "easy",
+      "level": "N3",
+      "japanese": "明確な目標を設定する",
+      "hiragana": "めいかくな もくひょうを せってい する",
+      "romaji": "Meikaku na mokuhyō wo settei suru",
+      "translation_tm": "Aýdyň maksatlary kesgitlemek.",
+      "audio_text": "めいかくなもくひょうをせっていする"
+      },
+      {
+      "id": "twister_271",
+      "difficulty": "easy",
+      "level": "N3",
+      "japanese": "面接試験の対策を立てる",
+      "hiragana": "めんせつ しけんの たいさくを たてる",
+      "romaji": "Mensetsu shiken no taisaku wo tateru",
+      "translation_tm": "Söhbetdeşlik synagy üçin taýýarlyk görmek.",
+      "audio_text": "めんせつしけんのたいさくをたてる"
+      },
+      {
+      "id": "twister_272",
+      "difficulty": "easy",
+      "level": "N3",
+      "japanese": "目的意識を明確に持つ",
+      "hiragana": "もくてき いしきを めいかくに もつ",
+      "romaji": "Mokuteki ishiki wo meikaku ni motsu",
+      "translation_tm": "Maksat düşünjesine aýdyň eýe bolmak.",
+      "audio_text": "もくてきいしきをめいかくにもつ"
+      },
+      {
+      "id": "twister_273",
+      "difficulty": "medium",
+      "level": "N3",
+      "japanese": "優先順位を定めて処理する",
+      "hiragana": "ゆうせん じゅんいを さだめて しょり する",
+      "romaji": "Yūsen jun'i wo sadamete shori suru",
+      "translation_tm": "Möhümlik tertibini kesgitläp çözmek.",
+      "audio_text": "ゆうせんじゅんいをさだめてしょりする"
+      },
+      {
+      "id": "twister_274",
+      "difficulty": "medium",
+      "level": "N3",
+      "japanese": "有効性を検証する実験",
+      "hiragana": "ゆうこうせいを けんしょう する じっけん",
+      "romaji": "Yūkōsei wo kenshō suru jikken",
+      "translation_tm": "Netijeliligi barlamak üçin synag.",
+      "audio_text": "ゆうこうせいをけんしょうするじっけん"
+      },
+      {
+      "id": "twister_275",
+      "difficulty": "hard",
+      "level": "N3",
+      "japanese": "輸出入の規制を緩和する",
+      "hiragana": "ゆしゅつにゅうの きせいを かんわ する",
+      "romaji": "Yushutsunyuu no kisei wo kanwa suru",
+      "translation_tm": "Eksport we import çäklendirmelerini gowşatmak.",
+      "audio_text": "ゆしゅつにゅうのきせいをかんわする"
+      },
+      {
+      "id": "twister_276",
+      "difficulty": "hard",
+      "level": "N3",
+      "japanese": "容疑者の供述を分析する",
+      "hiragana": "ようぎしゃの きょうじゅつを ぶんせき する",
+      "romaji": "Yōgisha no kyōjutsu wo bunseki suru",
+      "translation_tm": "Güman edilýäniň görkezmelerini seljermek.",
+      "audio_text": "ようぎしゃのきょうじゅつをぶんせきする"
+      },
+      {
+      "id": "twister_277",
+      "difficulty": "medium",
+      "level": "N3",
+      "japanese": "予防策を徹底して講じる",
+      "hiragana": "よぼうさくを てっていして こうじる",
+      "romaji": "Yobōsaku wo tettei shite kōjiru",
+      "translation_tm": "Öňüni alyş çärelerini düýpli geçirmek.",
+      "audio_text": "よぼうさくをてっていしてこうじる"
+      },
+      {
+      "id": "twister_278",
+      "difficulty": "medium",
+      "level": "N3",
+      "japanese": "理解力と読解力を養う",
+      "hiragana": "りかいりょくと どっかいりょくを やしなう",
+      "romaji": "Rikairyoku to dokkairyoku wo yashinau",
+      "translation_tm": "Düşünje we okap düşünmek ukybyny ösdürmek.",
+      "audio_text": "りかいりょくとどっかいりょくをやしなう"
+      },
+      {
+      "id": "twister_279",
+      "difficulty": "easy",
+      "level": "N3",
+      "japanese": "理想的な環境を整備する",
+      "hiragana": "りそうてきな かんきょうを せいび する",
+      "romaji": "Risōteki na kankyō wo seibi suru",
+      "translation_tm": "Ideal gurşawy taýýarlamak.",
+      "audio_text": "りそうてきなかんきょうをせいびする"
+      },
+      {
+      "id": "twister_280",
+      "difficulty": "medium",
+      "level": "N3",
+      "japanese": "立体的な構造を設計する",
+      "hiragana": "りったいてきな こうぞうを せっけい する",
+      "romaji": "Rittaiteki na kōzō wo sekkei suru",
+      "translation_tm": "Üç ölçegli gurluşy taslamalaşdyrmak.",
+      "audio_text": "りったいてきなこうぞうをせっけいする"
+      },
+      {
+      "id": "twister_281",
+      "difficulty": "medium",
+      "level": "N3",
+      "japanese": "連続的な変化を観察する",
+      "hiragana": "れんぞくてきな へんかを かんさつ する",
+      "romaji": "Renzokuteki na henka wo kansatsu suru",
+      "translation_tm": "Yzygiderli üýtgeşmeleri synlamak.",
+      "audio_text": "れんぞくてきなへんかをかんさつする"
+      },
+      {
+      "id": "twister_282",
+      "difficulty": "easy",
+      "level": "N3",
+      "japanese": "論理的な思考力を鍛える",
+      "hiragana": "ろんりてきな しこうりょくを きたえる",
+      "romaji": "Ronriteki na shikōryoku wo kitaeru",
+      "translation_tm": "Logiki pikirleme ukybyny türgenleşdirmek.",
+      "audio_text": "ろんりてきなしこうりょくをきたえる"
+      },
+      {
+      "id": "twister_283",
+      "difficulty": "easy",
+      "level": "N3",
+      "japanese": "枠組みを定めて検討する",
+      "hiragana": "わくぐみを さだめて けんとう する",
+      "romaji": "Wakugumi wo sadamete kentō suru",
+      "translation_tm": "Çäklendirmäni kesgitläp maslahatlaşmak.",
+      "audio_text": "わくぐみをさだめてけんとうする"
+      },
+      {
+      "id": "twister_284",
+      "difficulty": "medium",
+      "level": "N3",
+      "japanese": "和気藹藹とした雰囲気で話す",
+      "hiragana": "わきあいあいと した ふんいきで はなす",
+      "romaji": "Wakiaiai to shita fuen'iki de hanasu",
+      "translation_tm": "Mähirli we hoşlaşykly atmosferada gepleşmek.",
+      "audio_text": "わきあいあいとしたふんいきではなす"
+      },
+      {
+      "id": "twister_285",
+      "difficulty": "hard",
+      "level": "N3",
+      "japanese": "湾岸地域の開発計画を促進する",
+      "hiragana": "わんがん ちいきの かいはつ けいかくを そくしん する",
+      "romaji": "Wangan chiiki no kaihatsu keikaku wo sokushin suru",
+      "translation_tm": "Aýlag zolagyny ösdürmek meýilnamasyny çaltlandyrmak.",
+      "audio_text": "わんがんちいきのかいはつけいかくをそくしんする"
+      },
+      {
+      "id": "twister_286",
+      "difficulty": "easy",
+      "level": "N3",
+      "japanese": "生真面目な性格が信頼される",
+      "hiragana": "きまじめな せいかくが しんらい される",
+      "romaji": "Kimajime na seikaku ga shinrai sareru",
+      "translation_tm": "Çynlakaý häsiýeti ynam gazandyrýar.",
+      "audio_text": "きまじめなせいかくがしんらいされる"
+      },
+      {
+      "id": "twister_287",
+      "difficulty": "easy",
+      "level": "N3",
+      "japanese": "興味深い発表を聞く",
+      "hiragana": "きょうみぶかい はっぴょうを きく",
+      "romaji": "Kyōmibukai happyō wo kiku",
+      "translation_tm": "Gyzykly çykyşy diňlemek.",
+      "audio_text": "きょうみぶかいはっぴょうをきく"
+      },
+      {
+      "id": "twister_288",
+      "difficulty": "medium",
+      "level": "N3",
+      "japanese": "共同開発の契約を結ぶ",
+      "hiragana": "きょうどう かいはつの けいやくを むすぶ",
+      "romaji": "Kyōdō kaihatsu no keiyaku wo musubu",
+      "translation_tm": "Bilelikdäki ösüş şertnamasyny baglaşmak.",
+      "audio_text": "きょうどうかいはつのけいやくをむすぶ"
+      },
+      {
+      "id": "twister_289",
+      "difficulty": "easy",
+      "level": "N3",
+      "japanese": "協力体制を確立する",
+      "hiragana": "きょうりょく たいせいを かくりつ する",
+      "romaji": "Kyōryoku taisei wo kakuritsu suru",
+      "translation_tm": "Hyzmatdaşlyk ulgamyny döretmek.",
+      "audio_text": "きょうりょくたいせいをかくりつする"
+      },
+      {
+      "id": "twister_290",
+      "difficulty": "easy",
+      "level": "N3",
+      "japanese": "許可証を提示して入場する",
+      "hiragana": "きょかしょうを ていじして にゅうじょう する",
+      "romaji": "Kyokashō wo teiji shite nyūjō suru",
+      "translation_tm": "Rugsatnamany görkezip girmek.",
+      "audio_text": "きょかしょうをていじしてにゅうじょうする"
+      },
+      {
+      "id": "twister_291",
+      "difficulty": "easy",
+      "level": "N3",
+      "japanese": "距離感を保って会話する",
+      "hiragana": "きょりかんを たもって かいわ する",
+      "romaji": "Kyorikan wo tamotte kaiwa suru",
+      "translation_tm": "Araçägi saklap gepleşmek.",
+      "audio_text": "きょりかんをたもってかいわする"
+      },
+      {
+      "id": "twister_292",
+      "difficulty": "medium",
+      "level": "N3",
+      "japanese": "緊急連絡網を確認する",
+      "hiragana": "きんきゅう れんらくもうを かくにん する",
+      "romaji": "Kinkyū renrakumō wo kakunin suru",
+      "translation_tm": "Gyssagly habarlaşyk ulgamyny barlamak.",
+      "audio_text": "きんきゅうれんらくもうをかくにんする"
+      },
+      {
+      "id": "twister_293",
+      "difficulty": "hard",
+      "level": "N3",
+      "japanese": "近年急増する外国人観光客",
+      "hiragana": "きんねん きゅうぞう する がいこくじん かんこうきゃく",
+      "romaji": "Kinnen kyūzō suru gaikokujin kankōkyaku",
+      "translation_tm": "Soňky ýyllarda çalt köpelýän daşary ýurtly syýahatçylar.",
+      "audio_text": "きんねんきゅうぞうするがいこくじんかんこうきゃく"
+      },
+      {
+      "id": "twister_294",
+      "difficulty": "medium",
+      "level": "N3",
+      "japanese": "区別と差別を明確に理解する",
+      "hiragana": "くべつと さべつを めいかくに りかい する",
+      "romaji": "Kubetsu to sabetsu wo meikaku ni rikai suru",
+      "translation_tm": "Tapawudy we kemsitmäni aýdyň düşünmek.",
+      "audio_text": "くべつとさべつをめいかくにりかいする"
+      },
+      {
+      "id": "twister_295",
+      "difficulty": "medium",
+      "level": "N3",
+      "japanese": "具体的かつ効果的な提案",
+      "hiragana": "ぐたいてき かつ こうかてきな ていあん",
+      "romaji": "Gutaiteki katsu kōkateki na teian",
+      "translation_tm": "Anyk hem netijeli öňe sürülme.",
+      "audio_text": "ぐたいてきかつこうかてきなていあん"
+      },
+      {
+      "id": "twister_296",
+      "difficulty": "medium",
+      "level": "N3",
+      "japanese": "継続は力なりと信じて継続する",
+      "hiragana": "けいぞくは ちからなりと しんじて けいぞく する",
+      "romaji": "Keizoku wa chikara nari to shinjite keizoku suru",
+      "translation_tm": "Dowamlylyk güýçdür diýip ynanyp dowam etmek.",
+      "audio_text": "けいぞくはちからなりとしんじてけいぞくする"
+      },
+      {
+      "id": "twister_297",
+      "difficulty": "hard",
+      "level": "N3",
+      "japanese": "健全な経済成長を持続させる",
+      "hiragana": "けんぜんな けいざい せいちょうを じぞく させる",
+      "romaji": "Kenzen na keizai seichō wo jizoku saseru",
+      "translation_tm": "Sagdyn ykdysady ösüşi dowam etdirmek.",
+      "audio_text": "けんぜんなけいざいせいちょうをじぞくさせる"
+      },
+      {
+      "id": "twister_298",
+      "difficulty": "medium",
+      "level": "N3",
+      "japanese": "原則として禁止されている行為",
+      "hiragana": "げんそく として きんし されている こうい",
+      "romaji": "Gensoku to shite kinshi sarete iru kōi",
+      "translation_tm": "Kada boýunça gadagan edilen hereket.",
+      "audio_text": "げんそくとしてきんしされているこうい"
+      },
+      {
+      "id": "twister_299",
+      "difficulty": "medium",
+      "level": "N3",
+      "japanese": "現実的な解決策を模索する",
+      "hiragana": "げんじつてきな かいけつさくを もさく する",
+      "romaji": "Genjitsuteki na kaiketsusaku wo mosaku suru",
+      "translation_tm": "Hakyky çözgüt ýollaryny gözlemek.",
+      "audio_text": "げんじつてきなかいけつさくをもさくする"
+      },
+      {
+      "id": "twister_300",
+      "difficulty": "easy",
+      "level": "N3",
+      "japanese": "効果的な予防策を講じる",
+      "hiragana": "こうかてきな よぼうさくを こうじる",
+      "romaji": "Kōkateki na yobōsaku wo kōjiru",
+      "translation_tm": "Netijeli öňüni alyş çärelerini görmek.",
+      "audio_text": "こうかてきなよぼうさくをこうじる"
+      },
+      
+        {
+          "id": "twister_301",
+          "difficulty": "easy",
+          "level": "N2",
+          "japanese": "状況に応じた適切な対応を徹底する",
+          "hiragana": "じょうきょうに おうじた てきせつな たいおうを てってい する",
+          "romaji": "Jōkyō ni ōjita tekisetsu na taiō wo tettei suru",
+          "translation_tm": "Ýagdaýa görä degişli çäreleri düýpli amala aşyrmak.",
+          "audio_text": "じょうきょうにおうじたてきせつなたいおうをてっていする"
+        },
+        {
+          "id": "twister_302",
+          "difficulty": "medium",
+          "level": "N2",
+          "japanese": "膨大なデータを詳細に分析する",
+          "hiragana": "ぼうだいな でーたを しょうさいに ぶんせき する",
+          "romaji": "Bōdai na dēta wo shōsai ni bunseki suru",
+          "translation_tm": "Köp mukdardaky maglumaty jikme-jik derňemek.",
+          "audio_text": "ぼうだいなでーたをしょうさいにぶんせきする"
+        },
+        {
+          "id": "twister_303",
+          "difficulty": "medium",
+          "level": "N2",
+          "japanese": "抽象的な概念を具体的に説明する",
+          "hiragana": "ちゅうしょうてきな がいねんを ぐたいてきに せつめい する",
+          "romaji": "Chūshōteki na gainen wo gutaiteki ni setsumei suru",
+          "translation_tm": "Abstrakt düşünjäni takyk düşündirmek.",
+          "audio_text": "ちゅうしょうてきながいねんをぐたいてきにせつめいする"
+        },
+        {
+          "id": "twister_304",
+          "difficulty": "hard",
+          "level": "N2",
+          "japanese": "新規事業の推進に慎重を期す",
+          "hiragana": "しんき じぎょうの すいしんに しんちょうを きす",
+          "romaji": "Shinki jigyō no suishin ni shinchō wo kisu",
+          "translation_tm": "Täze taslamany öňe sürmekde ätiýaçly bolmak.",
+          "audio_text": "しんきじぎょうのすいしんにしんちょうをきす"
+        },
+        {
+          "id": "twister_305",
+          "difficulty": "medium",
+          "level": "N2",
+          "japanese": "政策の変更に伴う影響を評価する",
+          "hiragana": "せいさくの へんこうに ともなう えいきょうを ひょうか する",
+          "romaji": "Seisaku no henkō ni tomonau eikyō wo hyōka suru",
+          "translation_tm": "Syýasatyň üýtgemegi bilen bagly täsirleri bahalandyrmak.",
+          "audio_text": "せいさくのへんこうにともなうえいきょうをひょうかする"
+        },
+        {
+          "id": "twister_306",
+          "difficulty": "hard",
+          "level": "N2",
+          "japanese": "著しい発展を遂げた先端技術",
+          "hiragana": "いちじるしい はってんを とげた せんたん ぎじゅつ",
+          "romaji": "Ichijirushii hatten wo togeta sentan gijutsu",
+          "translation_tm": "Uly ösüş gazanan öňdebaryjy tehnologiýa.",
+          "audio_text": "いちじるしいはってんをとげたせんたんぎじゅつ"
+        },
+        {
+          "id": "twister_307",
+          "difficulty": "easy",
+          "level": "N2",
+          "japanese": "契約内容の不備を迅速に修正する",
+          "hiragana": "けいやく ないようの ふびを じんそくに しゅうせい する",
+          "romaji": "Keiyaku naiyō no fubi wo jinsoku ni shūsei suru",
+          "translation_tm": "Ylalaşyk mazmunyndaky kemçilikleri tizlik bilen düzeltmek.",
+          "audio_text": "けいやくないようのふびをじんそくにしゅうせいする"
+        },
+        {
+          "id": "twister_308",
+          "difficulty": "medium",
+          "level": "N2",
+          "japanese": "伝統的な文化の継承と発展に努める",
+          "hiragana": "でんとうてきな ぶんかの けいしょうと はってんに つとめる",
+          "romaji": "Dentōteki na bunka no keishō to hatten ni tsutomeru",
+          "translation_tm": "Däp-dessur medeniýetiniň miras galmagyna we ösmegine çalyşmak.",
+          "audio_text": "でんとうてきなぶんかのけいしょうとはってんにつとめる"
+        },
+        {
+          "id": "twister_309",
+          "difficulty": "medium", "level": "N2",
+          "japanese": "急激な社会変化に柔軟に対応する",
+          "hiragana": "きゅうげきな しゃかい へんかに じゅうなんに たいおう する",
+          "romaji": "Kyūgeki na shakai henka ni jūnan ni taiō suru",
+          "translation_tm": "Jemgyýetiň çalt üýtgemegine çeýe uýgunlaşmak.",
+          "audio_text": "きゅうげきなしゃかいへんかにじゅうなんにたいおうする"
+        },
+        {
+          "id": "twister_310",
+          "difficulty": "hard",
+          "level": "N2",
+          "japanese": "業績の回復を目指して改革を断行する",
+          "hiragana": "ぎょうせきの かいふくを めざして かいかくを だんこう する",
+          "romaji": "Gyōseki no kaifuku wo mezashite kaikaku wo dankō suru",
+          "translation_tm": "Netijeleri dikeltmek üçin reformalary batyrgaý amala aşyrmak.",
+          "audio_text": "ぎょうせきのかいふくをめざしていかいかくをだんこうする"
+        },
+        {
+          "id": "twister_311",
+          "difficulty": "easy",
+          "level": "N2",
+          "japanese": "専門的な知識を実践に活用する",
+          "hiragana": "せんもんてきな ちしきを じっせんに かつよう する",
+          "romaji": "Senmonteki na chishiki wo jissen ni katsuyō suru",
+          "translation_tm": "Käri , bilimi tejribede peýdalanmak.",
+          "audio_text": "せんもんてきなちしきをじっせんにかつようする"
+        },
+        {
+          "id": "twister_312",
+          "difficulty": "medium",
+          "level": "N2",
+          "japanese": "予期せぬトラブルに冷静に対処する",
+          "hiragana": "よきせぬ とらぶるに れいせいに たいしょ する",
+          "romaji": "Yokisenu toraburu ni reisei ni taisho suru",
+          "translation_tm": "Garaşylmadyk kynçylyklara rahatlyk bilen garşy durmak.",
+          "audio_text": "よきせぬとらぶるにれいせいにたいしょする"
+        },
+        {
+          "id": "twister_313",
+          "difficulty": "hard",
+          "level": "N2",
+          "japanese": "業務の効率化を図るために組織を改編する",
+          "hiragana": "ぎょうむの こうりつかを はかる ために そしきを かいへん する",
+          "romaji": "Gyōmu no kōritsuka wo hakaru tame ni soshiki wo kaihen suru",
+          "translation_tm": "Işiň netijeliligini artdyrmak üçin guramany täzeden gurmak.",
+          "audio_text": "ぎょうむのこうりつかをはかるためにそしきをかいへんする"
+        },
+        {
+          "id": "twister_314",
+          "difficulty": "medium",
+          "level": "N2",
+          "japanese": "持続可能な社会の実現に向けて努力する",
+          "hiragana": "じぞく かのうな しゃかいの じつげんに むけて どりょく する",
+          "romaji": "Jizoku kanō na shakai no jitsugen ni mukete doryoku suru",
+          "translation_tm": "Durnukly jemgyýeti amala aşyrmak ugrunda tagalla etmek.",
+          "audio_text": "じぞくかのうなしゃかいのじつげんにむけてどりょくする"
+        },
+        {
+          "id": "twister_315",
+          "difficulty": "easy",
+          "level": "N2",
+          "japanese": "市場の動向を正確に把握する",
+          "hiragana": "しじょうの どうこうを せいかくに はあく する",
+          "romaji": "Shijō no dōkō wo seikaku ni haaku suru",
+          "translation_tm": "Bazaryň ýagdaýyny takyk düşünmek.",
+          "audio_text": "しじょうのどうこうをせいかくにはあくする"
+        },
+        {
+          "id": "twister_316",
+          "difficulty": "medium",
+          "level": "N2",
+          "japanese": "厳重なセキュリティ体制を構築する",
+          "hiragana": "げんじゅうな せきゅりてぃ たいせいを こうちく する",
+          "romaji": "Genjū na sekyuriti taisei wo kōchiku suru",
+          "translation_tm": "Berk howpsuzlyk ulgamyny gurmak.",
+          "audio_text": "げんじゅうなせきゅりてぃたいせいをこうちくする"
+        },
+        {
+          "id": "twister_317",
+          "difficulty": "medium",
+          "level": "N2",
+          "japanese": "多角的な視点から問題を検証する",
+          "hiragana": "たかくてきな してんから もんだいを けんしょう する",
+          "romaji": "Takakuteki na shiten kara mondai wo kenshō suru",
+          "translation_tm": "Meseläni köptaraply nukdaýnazardan barlamak.",
+          "audio_text": "たかくてきなしてんからもんだいをけんしょうする"
+        },
+        {
+          "id": "twister_318",
+          "difficulty": "easy",
+          "level": "N2",
+          "japanese": "担当者の変更に伴い業務を引き継ぐ",
+          "hiragana": "たんとうしゃの へんこうに ともない ぎょうむを ひきつぐ",
+          "romaji": "Tantōsha no henkō ni tomonai gyōmu wo hikitsugu",
+          "translation_tm": "Mütahassisiň üýtgemegi sebäpli işi duruzmak.",
+          "audio_text": "たんとうしゃのへんこうにともないぎょうむをひきつぐ"
+        },
+        {
+          "id": "twister_319",
+          "difficulty": "hard",
+          "level": "N2",
+          "japanese": "著しい成果を上げた開発チームを賞賛する",
+          "hiragana": "いちじるしい せいかを あげた かいはつ ちーむを しょうさん する",
+          "romaji": "Ichijirushii seika wo ageta kaihatsu chīmu wo shōsan suru",
+          "translation_tm": "Uly netije gazanan işläp düzüjiler toparyny öwmek.",
+          "audio_text": "いちじるしいせいかをあげたかいはつちーむをしょうさんする"
+        },
+        {
+          "id": "twister_320",
+          "difficulty": "hard",
+          "level": "N2",
+          "japanese": "複雑な社会現象を論理的に解明する",
+          "hiragana": "ふくざつな しゃかい げんしょうを ろんりてきに かいめい する",
+          "romaji": "Fukuzatsu na shakai genshō wo ronriteki ni kaimei suru",
+          "translation_tm": "Çylşyrymly jemgyýetçilik hadysasyny many taýdan düşündirmek.",
+          "audio_text": "ふくざつなしゃかいげんしょうをろんりてきにかいめいする"
+        },
+        {
+          "id": "twister_321",
+          "difficulty": "easy",
+          "level": "N2",
+          "japanese": "徹底的なリスク管理を行う",
+          "hiragana": "てっていてきな りすく かんりを おこなう",
+          "romaji": "Tetteiteki na risuku kanri wo okonau",
+          "translation_tm": "Düýpli töwekgelçilik gözegçiligini geçirmek.",
+          "audio_text": "てっていてきなりすくかんりをおこなう"
+        },
+        {
+          "id": "twister_322",
+          "difficulty": "easy",
+          "level": "N2",
+          "japanese": "段階的に計画を推進する",
+          "hiragana": "だんかいてきに けいかくを すいしん する",
+          "romaji": "Dankaiteki ni keikaku wo suishin suru",
+          "translation_tm": "Meýilnamany tapgyrlaýyn öňe sürmek.",
+          "audio_text": "だんかいてきにけいかくをすいしんする"
+        },
+        {
+          "id": "twister_323",
+          "difficulty": "medium",
+          "level": "N2",
+          "japanese": "相互の理解を深めるための議論を重ねる",
+          "hiragana": "そうごの りかいを ふかめる ための ぎろんを かさねる",
+          "romaji": "Sōgo no rikai wo fukameru tame no giron wo kasaneru",
+          "translation_tm": "Özara düşünişmegi çuňlaşdyrmak üçin maslahatlary köpeltmek.",
+          "audio_text": "そうごのりかいをふかめるためのぎろんをかさねる"
+        },
+        {
+          "id": "twister_324",
+          "difficulty": "medium",
+          "level": "N2",
+          "japanese": "画期的なアイデアを採用する",
+          "hiragana": "かっきてきな あいであを さいよう する",
+          "romaji": "Kakkiteki na aidea wo saiyō suru",
+          "translation_tm": "Täzeçillikli pikirleri önümçilige girizmek.",
+          "audio_text": "かっきてきなあいであをさいようする"
+        },
+        {
+          "id": "twister_325",
+          "difficulty": "easy",
+          "level": "N2",
+          "japanese": "安全性の確保を最優先事項とする",
+          "hiragana": "あんぜんせいの かくほを さいゆうせん じこうと する",
+          "romaji": "Anzensei no kakuho wo saiyūsen jikō to suru",
+          "translation_tm": "Howpsuzlygy üpjün etmegi birinji orunly mesele etmek.",
+          "audio_text": "あんぜんせいのかくほをさいゆうせんじこうとする"
+        },
+        {
+          "id": "twister_326", "difficulty": "medium",
+          "level": "N2",
+          "japanese": "予算の制約の中で最大限の効果を上げる",
+          "hiragana": "よさんの せいやくの なかで さいだいげんの こうかを あげる",
+          "romaji": "Yosan no seiyaku no naka de saidaigen no kōka wo ageru",
+          "translation_tm": "Býujet çäklendirmesiniň içinde iň ýokary netijäni gazanmak.",
+          "audio_text": "よさんのせいやくのなかでさいだいげんのこうかをあげる"
+        },
+        {
+          "id": "twister_327",
+          "difficulty": "hard",
+          "level": "N2",
+          "japanese": "双方の主張を調整して妥協点を見出す",
+          "hiragana": "そうほうの しゅちょうを ちょうせい して だきょうてんを みだす",
+          "romaji": "Sōhō no shuchō wo chōsei shite dakkyōten wo midasu",
+          "translation_tm": "Iki tarapyň hem talaplaryny sazlaşdyryp ylalaşyk nokadyny tapmak.",
+          "audio_text": "そうほうのしゅちょうをちょうせいしてだきょうてんをみだす"
+        },
+        {
+          "id": "twister_328",
+          "difficulty": "easy",
+          "level": "N2",
+          "japanese": "迅速かつ正確な情報伝達を行う",
+          "hiragana": "じんそく かつ せいかくな じょうほう でんたつを おこなう",
+          "romaji": "Jinsoku katsu seikaku na jōhō dentatsu wo okonau",
+          "translation_tm": "Çalt hem-de takyk maglumat geçirişini amala aşyrmak.",
+          "audio_text": "じんそくかつせいかくなじょうほうでんたつをおこなう"
+        },
+        {
+          "id": "twister_329",
+          "difficulty": "hard",
+          "level": "N2",
+          "japanese": "予断を許さない緊迫した状況が続く",
+          "hiragana": "よだんを ゆるさない きんぱくした じょうきょうが つづく",
+          "romaji": "Yodan wo yurusani kinpakushita jōkyō ga tsuzuku",
+          "translation_tm": "Öňünden çaklama edip bolmajak dartgynly ýagdaý dowam edýär.",
+          "audio_text": "よだんをゆるさないきんぱくしたじょうきょうがつづく"
+        },
+        {
+          "id": "twister_330",
+          "difficulty": "medium",
+          "level": "N2",
+          "japanese": "高度な技術力を駆使して製品を開発する",
+          "hiragana": "こうどな ぎじゅつりょくを くし して せいひんを かいはつ する",
+          "romaji": "Kōdo na gijutsuryoku wo kushi shite seihin wo kaihatsu suru",
+          "translation_tm": "Ýokary tehniki ukyplary peýdalanyp önüm öndürmek.",
+          "audio_text": "こうどなぎじゅつりょくをくししてせいひんをかいはつする"
+        },
+        {
+          "id": "twister_331",
+          "difficulty": "easy",
+          "level": "N2",
+          "japanese": "法律の規定に基づき適切に処理する",
+          "hiragana": "ほうりつの きていに もとづき てきせつに しょり する",
+          "romaji": "Hōritsu no kitei ni motozuki tekisetsu ni shori suru",
+          "translation_tm": "Kanun kadalaryna eýerip degişli amallary geçirmek.",
+          "audio_text": "ほうりつのきていにもとづきてきせつにしょりする"
+        },
+        {
+          "id": "twister_332",
+          "difficulty": "medium",
+          "level": "N2",
+          "japanese": "深刻な労働力不足を解消する",
+          "hiragana": "しんこくな ろうどうりょく ぶそくを かいしょう する",
+          "romaji": "Shinkoku na rōdōryoku busoku wo kaishō suru",
+          "translation_tm": "Düýpli işçi güýji ýetmezçiligini çözmek.",
+          "audio_text": "しんこくなろうどうりょくぶそくをかいしょうする"
+        },
+        {
+          "id": "twister_333",
+          "difficulty": "hard",
+          "level": "N2",
+          "japanese": "組織の透明性を高める努力を怠らない",
+          "hiragana": "そしきの とうめいせいを たかめる どりょくを おこたらない",
+          "romaji": "Soshiki no tōmeisei wo takameru doryoku wo okotaranai",
+          "translation_tm": "Guramanyň aýdyňlygyny ýokarlandyrmak tagallalaryny gowşatmazlyk.",
+          "audio_text": "そしきのとうめいせいをたかめるどりょくをおこたらない"
+        },
+        {
+          "id": "twister_334",
+          "difficulty": "easy",
+          "level": "N2",
+          "japanese": "定期的な点検を行い品質を維持する",
+          "hiragana": "ていてきな てんけんを おこない ひんしつを いじ する",
+          "romaji": "Teikiteki na tenken wo okonai hinshitsu wo iji suru",
+          "translation_tm": "Yzygiderli barlaglar geçirip sagdyn saklamak.",
+          "audio_text": "ていてきなてんけんをおこないひんしつをいじする"
+        },
+        {
+          "id": "twister_335",
+          "difficulty": "medium",
+          "level": "N2",
+          "japanese": "国際的な紛争の平和的解決を模索する",
+          "hiragana": "こくさいてきな ふんそうの へいわてき かいけつを もさく する",
+          "romaji": "Kokusaiteki na funsō no heiwateki kaiketsu wo mosaku suru",
+          "translation_tm": "Halkara çaknyşyklaryň parahatçylykly çözgüdini gozgatmak.",
+          "audio_text": "こくさいてきなふんそうのへいわてきかいけつをもさくする"
+        },
+        {
+          "id": "twister_336",
+          "difficulty": "medium",
+          "level": "N2",
+          "japanese": "顧客の多様なニーズに柔軟に応える",
+          "hiragana": "こきゃくの たような にーずに じゅうなんに こたえる",
+          "romaji": "Kokyaku no tayō na nīzu ni jūnan ni kotaeru",
+          "translation_tm": "Müşderileriň dürli isleglerine çeýe jogap bermek.",
+          "audio_text": "こきゃくのたようなにーずにじゅうなんにこたえる"
+        },
+        {
+          "id": "twister_337",
+          "difficulty": "easy",
+          "level": "N2",
+          "japanese": "発言の意図を正しく解釈する",
+          "hiragana": "はつげんの いとを ただしく かいしゃく する",
+          "romaji": "Hatsugen no ito wo tadashiku kaishaku suru",
+          "translation_tm": "Aýdylan sözüň niýetini mamla düşündirmek.",
+          "audio_text": "はつげんのいとをただしくかいしゃくする"
+        },
+        {
+          "id": "twister_338",
+          "difficulty": "medium",
+          "level": "N2",
+          "japanese": "著しい経済成長が期待されている",
+          "hiragana": "いちじるしい けいざい せいちょうが きたい されている",
+          "romaji": "Ichijirushii keizai seichō ga kitai sarete iru",
+          "translation_tm": "Uly ykdysady ösüşe garaşylýar.",
+          "audio_text": "いちじるしいけいざいせいちょうがきたいされている"
+        },
+        {
+          "id": "twister_339",
+          "difficulty": "hard",
+          "level": "N2",
+          "japanese": "倫理的な観点から批判を受ける",
+          "hiragana": "りんりてきな かんてんから ひはんを うける",
+          "romaji": "Rinriteki na kanten kara hihan wo ukeru",
+          "translation_tm": "Ahlak nukdaýnazaryndan tankyt edilmek.",
+          "audio_text": "りんりてきなかんてんからひはんをうける"
+        },
+        {
+          "id": "twister_340",
+          "difficulty": "medium",
+          "level": "N2",
+          "japanese": "従業員の意欲を向上させる施策を講じる",
+          "hiragana": "じゅうぎょういんの いよくを こうじょう させる しさくを こうじる",
+          "romaji": "Jūgyōin no iyoku wo kōjō saseru shisaku wo kōjiru",
+          "translation_tm": "Işgärleriň höwesini ýokarlandyrjak çäreleri amala aşyrmak.",
+          "audio_text": "じゅうぎょういんのいよくをこうじょうさせるしさくをこうじる"
+        },
+        {
+          "id": "twister_341",
+          "difficulty": "medium",
+          "level": "N2",
+          "japanese": "莫大な費用を投じて設備を拡充する",
+          "hiragana": "ばくだいな ひようを とうじて せつびを かくじゅう する",
+          "romaji": "Bakudai na hiyō wo tōjite setsubi wo kakujū suru",
+          "translation_tm": "Uly çykdajylar edip enjamlary giňeltmek.",
+          "audio_text": "ばくだいなひようをとうじてせつびをかくじゅうする"
+        },
+        {
+          "id": "twister_342",
+          "difficulty": "hard",
+          "level": "N2",
+          "japanese": "不可抗力による遅延が発生する",
+          "hiragana": "ふかこうりょくに よる ちえんが はっせい する",
+          "romaji": "Fukakōryoku ni yoru chien ga hassei suru",
+          "translation_tm": "Pähim-paýhasa bagly bolmadyk sebäplere görä gijikmeler ýüze çykýar.",
+          "audio_text": "ふかこうりょくによるちえんがはっせいする"
+        },
+        {
+          "id": "twister_343",
+          "difficulty": "hard",
+          "level": "N2",
+          "japanese": "主観的な判断を排除し客観的に分析する",
+          "hiragana": "しゅかんてきな はんだんを はいじょ し きゃっかんてきに ぶんせき する",
+          "romaji": "Shukanteki na handan wo haijo shi kyakkanteki ni bunseki suru",
+          "translation_tm": "Subýektiw pikirleri aýyryp, obýektiw derňew geçirmek.",
+          "audio_text": "しゅかんてきなはんだんをはいじょしきゃっかんてきにぶんせきする"
+        },
+        {
+          "id": "twister_344",
+          "difficulty": "easy",
+          "level": "N2",
+          "japanese": "各部門の調整を円滑に進める",
+          "hiragana": "かく ぶもんの ちょうせいをご えんかつに すすめる",
+          "romaji": "Kaku bumon no chōsei wo enkatsu ni susumeru",
+          "translation_tm": "Bölümleriň arasyndaky sazlaşygy bökdençsiz ýöretmek.",
+          "audio_text": "かくぶもんのちょうせいをえんかつにすすめる"
+        },
+        {
+          "id": "twister_345",
+          "difficulty": "easy",
+          "level": "N2",
+          "japanese": "将来の危機に備えて蓄えを確保する",
+          "hiragana": "しょうらいの ききに そなえて たくわえを かくほ する",
+          "romaji": "Shōrai no kiki ni sonaete takawae wo kakuho suru",
+          "translation_tm": "Geljegiň päsgelçiliklerine taýýarlanyp ätiýaçlyklary saklamak.",
+          "audio_text": "しょうらいのききにそなえてたくわえをかくほする"
+        },
+        {
+          "id": "twister_346",
+          "difficulty": "medium",
+          "level": "N2",
+          "japanese": "技術革新によって産業構造が変化する",
+          "hiragana": "ぎじゅつ かくしんに よって さんぎょう こうぞうが へんか する",
+          "romaji": "Gijutsu kakushin ni yotte sangyō kōzō ga henka suru",
+          "translation_tm": "Tehniki özgerişler arkaly senagat gurluşy üýtgeýär.",
+          "audio_text": "ぎじゅつかくしんによってさんぎょうこうぞうがへんかする"
+        },
+        {
+          "id": "twister_347",
+          "difficulty": "medium",
+          "level": "N2",
+          "japanese": "権利の侵害を防止するための対策を強化する",
+          "hiragana": "けんりの しんがいを ぼうし する ための たいさくを きょうか する",
+          "romaji": "Kenri no shingai wo bōshi suru tame no taisaku wo kyōka suru",
+          "translation_tm": "Hukuk bozulmalarynyň öňüni alyş çärelerini berkitmek.",
+          "audio_text": "けんりのしんがいをぼうしするためのたいさくをきょうかする"
+        },
+        {
+          "id": "twister_348",
+          "difficulty": "hard",
+          "level": "N2",
+          "japanese": "複雑な利害関係を打開する",
+          "hiragana": "ふくざつな りがい かんけいを だかい する",
+          "romaji": "Fukuzatsu na rigai kankei wo dakai suru",
+          "translation_tm": "Çylşyrymly bähbit gatnaşyklaryny çözmek.",
+          "audio_text": "ふくざつなりがいかんけいをだかいする"
+        },
+        {
+          "id": "twister_349",
+          "difficulty": "easy",
+          "level": "N2",
+          "japanese": "信頼関係の構築に努める",
+          "hiragana": "しんらい かんけいの こうちくに つとめる",
+          "romaji": "Shinrai kankei no kōchiku ni tsutomeru",
+          "translation_tm": "Ynamly gatnaşyklary gurmaga çalyşmak.",
+          "audio_text": "しんらいかんけいのこうちくにつとめる"
+        },
+        {
+          "id": "twister_350",
+          "difficulty": "medium",
+          "level": "N2",
+          "japanese": "環境破壊を防ぐための法的措置を取る",
+          "hiragana": "かんきょう はかいを ふせぐ ための ほうてき そちを とる",
+          "romaji": "Kankyō hakai wo fusegu tame no hōteki sochi wo toru",
+          "translation_tm": "Daşky gurşawyň zaýalanmagynyň öňüni almak üçin kanunçylyk çärelerini görmek.",
+          "audio_text": "かんきょうはかいをふせぐためのほうてきそちをとる"
+        },
+        {
+          "id": "twister_351",
+          "difficulty": "medium",
+          "level": "N2",
+          "japanese": "画期的な発見が社会に大きな影響を与える",
+          "hiragana": "かっきてきな はっけんが しゃかいに おおきな えいきょうを あたえる",
+          "romaji": "Kakkiteki na hakken ga shakai ni ōki na eikyō wo ataeru",
+          "translation_tm": "Uly açyş jemgyýete uly täsir ýetirýär.",
+          "audio_text": "かっきてきなはっけんがしゃかいにおおきなえいきょうをあたえる"
+        },
+        {
+          "id": "twister_352",
+          "difficulty": "easy",
+          "level": "N2",
+          "japanese": "慎重な審査を経て許可が下りる",
+          "hiragana": "しんちょうな しんさを へて きょかが おりる",
+          "romaji": "Shinchō na shinsa wo hete kyoka ga oriru",
+          "translation_tm": "Münevver barlağdan geçip rugsat berilýär.",
+          "audio_text": "しんちょうなしんさをへてきょかがおりる"
+        },
+        {
+          "id": "twister_353",
+          "difficulty": "medium",
+          "level": "N2",
+          "japanese": "情報漏洩のリスクを最小限に抑える",
+          "hiragana": "じょうほう ろうえいの りすくを さいしょうげんに おさえる",
+          "romaji": "Jōhō rōei no risuku wo saishōgen ni osaeru",
+          "translation_tm": "Maglumat syzyşlygy töwekgelligini mümkin boldugyça azaltmak.",
+          "audio_text": "じょうほうろうえいのりすくをさいしょうげんにおさえる"
+        },
+        {
+          "id": "twister_354",
+          "difficulty": "easy",
+          "level": "N2",
+          "japanese": "多様な人種と文化が共存する社会",
+          "hiragana": "たような じんしゅと ぶんかが きょうそん する しゃかい",
+          "romaji": "Tayō na jinshu to bunka ga kyōson suru shakai",
+          "translation_tm": "Dürli jansyzlyklaryň hem-de medeniýetleriň bilelikde yaşaýan jemgyýeti.",
+          "audio_text": "たようなじんしゅとぶんかがきょうそんするしゃかい"
+        },
+        {
+          "id": "twister_355",
+          "difficulty": "medium",
+          "level": "N2",
+          "japanese": "事実関係を把握するために調査を実施する",
+          "hiragana": "じじつ かんけいを はあく する ために ちょうさを じっし する",
+          "romaji": "Jijitsu kankei wo haaku suru tame ni chōsa wo jisshi suru",
+          "translation_tm": "Hakyky ýagdaýlary bilmek üçin barlag geçirmek.",
+          "audio_text": "じじつかんけいをはあくするためにちょうさをじっしする"
+        },
+        {
+          "id": "twister_356",
+          "difficulty": "easy",
+          "level": "N2",
+          "japanese": "正確なデータの収集に努める",
+          "hiragana": "せいかくな でーたの しゅうしゅうに つとめる",
+          "romaji": "Seikaku na dēta no shūshū ni tsutomeru",
+          "translation_tm": "Takyk maglumatlary ýygnamaga çalyşmak.",
+          "audio_text": "せいかくなでーたのしゅうしゅうにつとめる"
+        },
+        {
+          "id": "twister_357",
+          "difficulty": "hard",
+          "level": "N2",
+          "japanese": "劇的な転換を迎える市場環境",
+          "hiragana": "げきてきな てんかんを むかえる しじょう かんきょう",
+          "romaji": "Gekiteki na tenkan wo mukaeru shijō kankyō",
+          "translation_tm": "Uly özgerişleri başdan geçirýän bazar gurşawy.",
+          "audio_text": "げきてきなてんかんをむかえるしじょうかんきょう"
+        },
+        {
+          "id": "twister_358",
+          "difficulty": "medium",
+          "level": "N2",
+          "japanese": "優先順位を考慮して業務を処理する",
+          "hiragana": "ゆうせん じゅんいを こうりょ して ぎょうむを しょり する",
+          "romaji": "Yūsen jun'i wo kōryo shite gyōmu wo shori suru",
+          "translation_tm": "Birinji orunlary göz öňünde tutup işleri çözmek.",
+          "audio_text": "ゆうせんじゅんいをこうりょしてぎょうむをしょりする"
+        },
+        {
+          "id": "twister_359",
+          "difficulty": "easy",
+          "level": "N2",
+          "japanese": "技術的な問題の早期解決を図る",
+          "hiragana": "ぎじゅつてきな もんだいの そうき かいけつを はかる",
+          "romaji": "Gijutsuteki na mondai no sōki kaiketsu wo hakaru",
+          "translation_tm": "Tehniki meseleleri çalt çözmäge çalşmak.",
+          "audio_text": "ぎじゅつてきなもんだいのそうにかいけつをはかる"
+        },
+        {
+          "id": "twister_360",
+          "difficulty": "medium",
+          "level": "N2",
+          "japanese": "総合的な評価を下して採用を決める",
+          "hiragana": "そうごうてきな ひょうかを くだして さいようを きめる",
+          "romaji": "Sōgōteki na hyōka wo kudashite saiyō wo kimeru",
+          "translation_tm": "Hemmetaraplaýyn bahalandyryş berip işe almagy çözmek.",
+          "audio_text": "そうごうてきなひょうかをくだしてさいようをきめる"
+        },
+        {
+          "id": "twister_361",
+          "difficulty": "medium",
+          "level": "N2",
+          "japanese": "予期せぬ過失により損害が生じる",
+          "hiragana": "よきせぬ かしつに よる そんがいが しょうじる",
+          "romaji": "Yokisenu kashitsu ni yoru songai ga shōjiru",
+          "translation_tm": "Garaşylmadyk ýalňyşlyk sebäpli zyýan ýetýär.",
+          "audio_text": "よきせぬかしつによるそんがいがしょうじる"
+        },
+        {
+          "id": "twister_362",
+          "difficulty": "easy",
+          "level": "N2",
+          "japanese": "効率的な運用方針を確立する",
+          "hiragana": "こうりつてきな うんよう ほうしんを かくりつ する",
+          "romaji": "Kōritsuteki na un'yō hōshin wo kakuritsu suru",
+          "translation_tm": "Netijeli dolandyryş ugruny kesgitlemek.",
+          "audio_text": "こうりつてきなうんようほうしんをかくりつする"
+        },
+        {
+          "id": "twister_363",
+          "difficulty": "medium",
+          "level": "N2",
+          "japanese": "継続的な教育を通じて人材を育成する",
+          "hiragana": "けいぞくてきな きょういくを つうじて じんざいを いくせい する",
+          "romaji": "Keizokuteki na kyōiku wo tsūjite jinzai wo ikusei suru",
+          "translation_tm": "Yzygiderli bilim bermek arkaly hünärmenleri ýetişdirmek.",
+          "audio_text": "けいぞくてきなきょういくをつうじてじんざいをいくせいする"
+        },
+        {
+          "id": "twister_364",
+          "difficulty": "hard",
+          "level": "N2",
+          "japanese": "新制度の導入による混乱を回避する",
+          "hiragana": "しんせいどの どうにゅうに よる こんらんを かいひ する",
+          "romaji": "Shinseido no dōnyū ni yoru konran wo kaihi suru",
+          "translation_tm": "Täze düzgüniň girizilmegi bilen döräp biljek bulaşyklygyň öňüni almak.",
+          "audio_text": "しんせいどのどうにゅうによるこんらんをかいひする"
+        },
+        {
+          "id": "twister_365",
+          "difficulty": "medium",
+          "level": "N2",
+          "japanese": "客観的な指標に基づいて業績を評価する",
+          "hiragana": "きゃっかんてきな しひょうに もとづいて ぎょうせきを ひょうか する",
+          "romaji": "Kyakkanteki na shihyō ni motozuite gyōseki wo hyōka suru",
+          "translation_tm": "Obýektiw görkezijilere daýanyp zähmet netijesini bahalandyrmak.",
+          "audio_text": "きゃっかんてきなしひょうにもとづいてぎょうせきをひょうかする"
+        },
+        {
+          "id": "twister_366",
+          "difficulty": "easy",
+          "level": "N2",
+          "japanese": "時代の変化に応じた戦略の変更",
+          "hiragana": "じだいの へんかに おうじた せんりゃくの へんこう",
+          "romaji": "Jidai no henka ni ōjita senryaku no henkō",
+          "translation_tm": "Eýýamyň üýtgemegine görä strategiýanyň üýtgemegi.",
+          "audio_text": "じだいのへんかにおうじたせんりゃくのへんこう"
+        },
+        {
+          "id": "twister_367",
+          "difficulty": "medium",
+          "level": "N2",
+          "japanese": "国際基準に合致した製品を供給する",
+          "hiragana": "こくさい きじゅんに がっちした せいひんを きょうきゅう する",
+          "romaji": "Kokusai kijun ni gatchishita seihin wo kyōkyū suru",
+          "translation_tm": "Halkara standartlaryna laýyk gelýän harytlary üpjün etmek.",
+          "audio_text": "こくさいきじゅんにがっちしたせいひんをきょうきゅうする"
+        },
+        {
+          "id": "twister_368",
+          "difficulty": "easy",
+          "level": "N2",
+          "japanese": "専門家のアドバイスを尊重して判断する",
+          "hiragana": "せんもんかの あどばいすを そんちょう して はんだん する",
+          "romaji": "Senmonka no adobaisu wo sonchō shite handan suru",
+          "translation_tm": "Hünärmenleriň maslahatlaryna hormat goýup karar bermek.",
+          "audio_text": "せんもんかのあどばいすをそんちょうしてはんだんする"
+        },
+        {
+          "id": "twister_369",
+          "difficulty": "medium",
+          "level": "N2",
+          "japanese": "社会的な責任を果たす企業経営",
+          "hiragana": "しゃかいてきな せきにんを はたす きぎょう けいえい",
+          "romaji": "Shakaiteki na sekinin wo hatasu kigyō keiei",
+          "translation_tm": "Jemgyýetçilik jogapkärçiligini ýerine ýetirýän kärhana dolandyryşy.",
+          "audio_text": "しゃかいてきなせきにんをはたすきぎょうけいえい"
+        },
+        {
+          "id": "twister_370",
+          "difficulty": "medium",
+          "level": "N2",
+          "japanese": "深刻な環境問題を解決するための協力",
+          "hiragana": "しんこくな かんきょう もんだいを かいけつ する ための きょうりょく",
+          "romaji": "Shinkoku na kankyō mondai wo kaiketsu suru tame no kyōryoku",
+          "translation_tm": "Düýpli daşky gurşaw meselelerini çözmek üçin hyzmatdaşlyk.",
+          "audio_text": "しんこくなかんきょうもんだいをかいけつするためのきょうりょく"
+        },
+        {
+          "id": "twister_371",
+          "difficulty": "hard",
+          "level": "N2",
+          "japanese": "予備の対策を準備しておくことが不可欠だ",
+          "hiragana": "よびの たいさくを じゅんび して おく ことが ふかけつだ",
+          "romaji": "Yobi no taisaku wo junbi shite oku koto ga fukaketsu da",
+          "translation_tm": "Goşmaça çäreleri öňünden taýýarlap goýmak hökmandyr.",
+          "audio_text": "よびのたいさくをじゅんびしておくことがふかけつだ"
+        },
+        {
+          "id": "twister_372",
+          "difficulty": "hard",
+          "level": "N2",
+          "japanese": "急速な過疎化に対処する自治体",
+          "hiragana": "きゅうそくな かそかに たいしょ する じちたい",
+          "romaji": "Kyūsoku na kasoka ni taisho suru jichitai",
+          "translation_tm": "Ilatyň çalt azalmagyna garşy çäre görýän ýerli häkimiýet.",
+          "audio_text": "きゅうそくなかそかにたいしょするじちたい"
+        },
+        {
+          "id": "twister_373",
+          "difficulty": "medium",
+          "level": "N2",
+          "japanese": "論理的な矛盾を指摘されて修正する",
+          "hiragana": "ろんりてきな むじゅんを してい されて しゅうせい する",
+          "romaji": "Ronriteki na mujun wo shitei sarete shūsei suru",
+          "translation_tm": "Logiki garşylyklaryň görkezilmegi bilen olary düzeltmek.",
+          "audio_text": "ろんりてきなむじゅんをしていされてしゅうせいする"
+        },
+        {
+          "id": "twister_374",
+          "difficulty": "easy",
+          "level": "N2",
+          "japanese": "最新の研究成果を学会で発表する",
+          "hiragana": "さいしんの けんきゅう せいかを がっかいで はっぴょう する",
+          "romaji": "Saishin no kenkyū seika wo gakkai de happyō suru",
+          "translation_tm": "Soňky ylmy netijeleri ylmy maslahatda yglan etmek.",
+          "audio_text": "さいしんのけんきゅうせいかをがっかいではっぴょうする"
+        },
+        {
+          "id": "twister_375",
+          "difficulty": "medium",
+          "level": "N2",
+          "japanese": "市場の需要に応じて生産量を調整する",
+          "hiragana": "しじょうの じゅようにおうじて せいさんりょうを ちょうせい する",
+          "romaji": "Shijō no juyō ni ōjite seisanryō wo chōsei suru",
+          "translation_tm": "Bazaryň islegine görä önümçiligi sazlamak.",
+          "audio_text": "しじょうのじゅようにおうじてせいさんりょうをちょうせいする"
+        },
+        {
+          "id": "twister_376",
+          "difficulty": "hard",
+          "level": "N2",
+          "japanese": "予期しない事態への対応能力を高める",
+          "hiragana": "よきしない じたいへの たいおう のうりょくを たかめる",
+          "romaji": "Yokishinai jitai heo no taiō nōryoku wo takameru",
+          "translation_tm": "Garaşylmadyk ýagdaýlara garşy ukyplylygy artdyrmak.",
+          "audio_text": "よきしないじたいへのたいおうのうりょくをたかめる"
+        },
+        {
+          "id": "twister_377",
+          "difficulty": "medium",
+          "level": "N2",
+          "japanese": "多角的な経営戦略を打ち出す",
+          "hiragana": "たかくてきな けいえい せんりゃくを うちだす",
+          "romaji": "Takakuteki na keiei senryaku wo uchidasu",
+          "translation_tm": "Köp ugurly biznes strategiýasyny öňe sürmek.",
+          "audio_text": "たかくてきなけいえいせんりゃくをうちだす"
+        },
+        {
+          "id": "twister_378",
+          "difficulty": "hard",
+          "level": "N2",
+          "japanese": "法律の解釈をめぐって議論が紛糾する",
+          "hiragana": "ほうりつの かいしゃくを めぐって ぎろんが ふんきゅう する",
+          "romaji": "Hōritsu no kaishaku wo megutte giron ga funkyū suru",
+          "translation_tm": "Kanun düşündirişi barada jedeller çylşyrymlaşýar.",
+          "audio_text": "ほうりつのかいしゃくをめぐってぎろんがふんきゅうする"
+        },
+        {
+          "id": "twister_379",
+          "difficulty": "easy",
+          "level": "N2",
+          "japanese": "健全な財政基盤を維持する",
+          "hiragana": "けんぜんな ざいせい きばんを いじ する",
+          "romaji": "Kenzen na zaisei kiban wo iji suru",
+          "translation_tm": "Berk maliýe binýadyny saklamak.",
+          "audio_text": "けんぜんなざいせいきばんをいじする"
+        },
+        {
+          "id": "twister_380",
+          "difficulty": "medium",
+          "level": "N2",
+          "japanese": "迅速な意思決定が競争力を高める",
+          "hiragana": "じんそくな いし けっていが きょうそうりょくを たかめる",
+          "romaji": "Jinsoku na ishi kettei ga kyōsōryoku wo takameru",
+          "translation_tm": "Çalt karar bermek bäsdeşlik ukybyny artdyrýar.",
+          "audio_text": "じんそくないしけっていがきょうそうりょくをたかめる"
+        },
+        {
+          "id": "twister_381",
+          "difficulty": "medium",
+          "level": "N2",
+          "japanese": "不正行為を防止するための監査を実施する",
+          "hiragana": "ふせい こういを ぼうし する ための かんさを じっし する",
+          "romaji": "Fusei kōi wo bōshi suru tame no kansa wo jisshi suru",
+          "translation_tm": "Bikanun hereketleriň öňüni almak üçin audit geçirmek.",
+          "audio_text": "ふせいこういをぼうしするためのかんさをじっしする"
+        },
+        {
+          "id": "twister_382",
+          "difficulty": "easy",
+          "level": "N2",
+          "japanese": "高い倫理観を持って行動する",
+          "hiragana": "たかい りんりかんを もって こうどう する",
+          "romaji": "Takai rinrikan wo motte kōdō suru",
+          "translation_tm": "Ýokary ahlak kadalary bilen hereket etmek.",
+          "audio_text": "たかいりんりかんをもってこうどうする"
+        },
+        {
+          "id": "twister_383",
+          "difficulty": "medium",
+          "level": "N2",
+          "japanese": "徹底的な市場調査に基づき計画を立てる",
+          "hiragana": "てっていてきな しじょう ちょうさに もとづき けいかくを たてる",
+          "romaji": "Tetteiteki na shijō chōsa ni motozuki keikaku wo tateru",
+          "translation_tm": "Düýpli bazar barlagyna daýanyp meýilnama düzmek.",
+          "audio_text": "てっていてきにしじょうちょうさにもとづきけいかくをたてる"
+        },
+        {
+          "id": "twister_384",
+          "difficulty": "hard",
+          "level": "N2",
+          "japanese": "技術的なブレイクスルーが期待される",
+          "hiragana": "ぎじゅつてきな ぶれいくするーが きたい される",
+          "romaji": "Gijutsuteki na bureikusurū ga kitai sareru",
+          "translation_tm": "Tehniki öňe gidişlige garaşylýar.",
+          "audio_text": "ぎじゅつてきなぶれいくするーがきたいされる"
+        },
+        {
+          "id": "twister_385",
+          "difficulty": "medium",
+          "level": "N2",
+          "japanese": "相互の利害を考慮した協定を結ぶ",
+          "hiragana": "そうごの りがいを こうりょ した きょうていを むすぶ",
+          "romaji": "Sōgo no rigai wo kōryo shita kyōtei wo musubu",
+          "translation_tm": "Özara bähbitleri göz öňünde tutup ylalaşyk baglaşmak.",
+          "audio_text": "そうごのりがいをこうりょしたきょうていをむすぶ"
+        },
+        {
+          "id": "twister_386",
+          "difficulty": "hard",
+          "level": "N2",
+          "japanese": "制度の欠陥を是正するための法改正",
+          "hiragana": "せいどの けっかんを ぜせい する ための ほう かいせい",
+          "romaji": "Seido no kekkan wo zesei suru tame no hō kaisei",
+          "translation_tm": "Ulgamdaky kemçilikleri düzeltmek üçin kanun üýtgetmesi.",
+          "audio_text": "せいどのけっかんをぜせいするためのほうかいせい"
+        },
+        {
+          "id": "twister_387",
+          "difficulty": "easy",
+          "level": "N2",
+          "japanese": "顧客の満足度を高める取り組みを推進する",
+          "hiragana": "こきゃくの まんぞくどを たかめる とりくみを すいしん する",
+          "romaji": "Kokyaku no manzokudo wo takameru torikumi wo suishin suru",
+          "translation_tm": "Müşderileriň kanagatlaryny ýokarlandyrjak işleri öňe sürmek.",
+          "audio_text": "こきゃくのまんぞくどをたかめるとりくみをすいしんする"
+        },
+        {
+          "id": "twister_388",
+          "difficulty": "medium",
+          "level": "N2",
+          "japanese": "予期せぬコストの増加を防止する",
+          "hiragana": "よきせぬ こすと の ぞうかを ぼうし する",
+          "romaji": "Yokisenu kosuto no zōka wo bōshi suru",
+          "translation_tm": "Garaşylmadyk çykdajylaryň artmagynyň öňüni almak.",
+          "audio_text": "よきせぬこすとのぞうかをぼうしする"
+        },
+        {
+          "id": "twister_389",
+          "difficulty": "medium",
+          "level": "N2",
+          "japanese": "多彩な人材を確保するための採用活動",
+          "hiragana": "たさいな じんざいを かくほ する ための さいよう かつどう",
+          "romaji": "Tasai na jinzai wo kakuho suru tame no saiyō katsudō",
+          "translation_tm": "Dürli ukyply hünärmenleri işe almak üçin çäreler.",
+          "audio_text": "たさいなじんざいをかくほするためのさいようかつどう"
+        },
+        {
+          "id": "twister_390",
+          "difficulty": "easy",
+          "level": "N2",
+          "japanese": "客観的な事実に基づいて判断を下す",
+          "hiragana": "きゃっかんてきな じじつに もとづいて はんだんを くだす",
+          "romaji": "Kyakkanteki na jijitsu ni motozuite handan wo kudasu",
+          "translation_tm": "Obýektiw hakykylyga daýanyp karar bermek.",
+          "audio_text": "きゃっかんてきなじじつにもとづいてはんだんをくだす"
+        },
+        {
+          "id": "twister_391",
+          "difficulty": "medium",
+          "level": "N2",
+          "japanese": "業務の自動化により生産性を向上させる",
+          "hiragana": "ぎょうむの じどうかに より せいさんせいをご こうじょう させる",
+          "romaji": "Gyōmu no jidōka ni yori seisansei wo kōjō saseru",
+          "translation_tm": "Işleri awtomatlaşdyrmak arkaly önümçilik ukybyny artdyrmak.",
+          "audio_text": "ぎょうむのじどうかによりせいさんせいをこうじょうさせる"
+        },
+        {
+          "id": "twister_392",
+          "difficulty": "hard",
+          "level": "N2",
+          "japanese": "複雑な契約手続きを円滑に進める",
+          "hiragana": "ふくざつな けいやく てつづきを えんかつに すすめる",
+          "romaji": "Fukuzatsu na keiyaku tetsuduki wo enkatsu ni susumeru",
+          "translation_tm": "Çylşyrymly şertnama düzgünlerini bökdençsiz amala aşyrmak.",
+          "audio_text": "ふくざつなけいやくてつづきをえんかつにすすめる"
+        },
+        {
+          "id": "twister_393",
+          "difficulty": "easy",
+          "level": "N2",
+          "japanese": "継続的な改善を行い品質を高める",
+          "hiragana": "けいぞくてきな かいぜんを おこない ひんしつを たかめる",
+          "romaji": "Keizokuteki na kaizen wo okonai hinshitsu wo takameru",
+          "translation_tm": "Yzygiderli gowulandyryşlar geçirip sapagy ýokarlandyrmak.",
+          "audio_text": "けいぞくてきなかいぜんをおこないひんしつをたかめる"
+        },
+        {
+          "id": "twister_394",
+          "difficulty": "medium",
+          "level": "N2",
+          "japanese": "予期せぬ障害に対処するための訓練",
+          "hiragana": "よきせぬ しょうがいに たいしょ する ための くんれん",
+          "romaji": "Yokisenu shōgai ni taisho suru tame no kunren",
+          "translation_tm": "Garaşylmadyk päsgelçiliklere garşy türgenleşikler.",
+          "audio_text": "よきせぬしょうがいにたいしょするためのくんれん"
+        },
+        {
+          "id": "twister_395",
+          "difficulty": "easy",
+          "level": "N2",
+          "japanese": "適切なリスク分散により安全を保つ",
+          "hiragana": "てきせつな りすく ぶんさんに より あんぜんを たもつ",
+          "romaji": "Tekisetsu na risuku bunsan ni yori anzen wo tamotsu",
+          "translation_tm": "Töwekgelçiligi paýlamak arkaly howpsuzlygy saklamak.",
+          "audio_text": "てきせつなりすくぶんさんによりあんぜんをたもつ"
+        },
+        {
+          "id": "twister_396",
+          "difficulty": "medium",
+          "level": "N2",
+          "japanese": "社会的な支援体制を整える",
+          "hiragana": "しゃかいてきな しえん たいせいを ととのえる",
+          "romaji": "Shakaiteki na shien taisei wo totonoeru",
+          "translation_tm": "Jemgyýetçilik kömek ulgamyny taýýarlamak.",
+          "audio_text": "しゃかいてきなしえんたいせいをととのえる"
+        },
+        {
+          "id": "twister_397",
+          "difficulty": "medium",
+          "level": "N2",
+          "japanese": "最新技術の導入による効率化の推進",
+          "hiragana": "さいしん ぎじゅつの どうにゅうに よる こうりつかの すいしん",
+          "romaji": "Saishin gijutsu no dōnyū ni yoru kōritsuka no suishin",
+          "translation_tm": "Soňky tehnologiýalary girizmek arkaly netijeliligi öňe sürmek.",
+          "audio_text": "さいしんぎじゅつのどうにゅうによるこうりつかのすいしん"
+        },
+        {
+          "id": "twister_398",
+          "difficulty": "easy",
+          "level": "N2",
+          "japanese": "段階的な導入によりリスクを減らす",
+          "hiragana": "だんかいてきな どうにゅうに より りすくを へらす",
+          "romaji": "Dankaiteki na dōnyū ni yori risuku wo herasu",
+          "translation_tm": "Tapgyrlaýyn girizilme arkaly töwekgelçiligi azaltmak.",
+          "audio_text": "だんかいてきなどうにゅうによりりすくをへらす"
+        },
+        {
+          "id": "twister_399",
+          "difficulty": "medium",
+          "level": "N2",
+          "japanese": "国際社会での立場を確立する",
+          "hiragana": "こくさい しゃかいで の たちばをご かくりつ する",
+          "romaji": "Kokusai shakai de no tachiba wo kakuritsu suru",
+          "translation_tm": "Halkara jemgyýetinde öz ornuny berkitmek.",
+          "audio_text": "こくさいしゃかいでのたちばをかくりつする"
+        },
+        {
+          "id": "twister_400",
+          "difficulty": "hard",
+          "level": "N2",
+          "japanese": "柔軟な思考で課題の克服に取り組む",
+          "hiragana": "じゅうなんな しこうで かだいの こくふくに とりくむ",
+          "romaji": "Jūnan na shikō de kadai no kokufuku ni torikumu",
+          "translation_tm": "Çeýe pikirlenmek bilen kynçylyklary ýeňip geçmäge çalyşmak.",
+          "audio_text": "じゅうなんなしこうでかだいのこくふくにとりくむ"
+        },
+        
+          {
+            "id": "twister_401",
+            "difficulty": "hard",
+            "level": "N1",
+            "japanese": "新進気鋭のシャンソン歌手による新春シャンソンショー",
+            "hiragana": "しんしん きえいの しゃんそん かしゅに よる しんしゅん しゃんそん しょー",
+            "romaji": "Shinshin kiei no shanson kashu ni yoru shinshun shanson shō",
+            "translation_tm": "Täze we zehinli şanson aýdymçysynyň täze ýyl şanson şowhuny.",
+            "audio_text": "しんしんきえいのしゃんそんかしゅによるしんしゅんしゃんそんしょー"
+          },
+          {
+            "id": "twister_402",
+            "difficulty": "hard",
+            "level": "N1",
+            "japanese": "東京特許許可局局長、今日急遽許可拒否",
+            "hiragana": "とうきょう とっきょ きょかきょく きょくちょう きょう きゅうきょ きょか きょひ",
+            "romaji": "Tōkyō tokkyo kyokakyoku kyokuchō kyō kyūkyo kyoka kyohi",
+            "translation_tm": "Tokio patent rugsat býurosynyň başlygy bügün gyssagly rugsat bermekden ýüz öwürdi.",
+            "audio_text": "とうきょうとっきょきょかきょくきょくちょうきょうきゅうきょきょかきょひ"
+          },
+          {
+            "id": "twister_403",
+            "difficulty": "hard",
+            "level": "N1",
+            "japanese": "新設診察室で診察中の医師が視察団を視察する",
+            "hiragana": "しんせつ しんさつしつで しんさつちゅうの いしが しさつだんを しさつする",
+            "romaji": "Shinsetsu shinsatsushitsu de shinsatsuchū no ishi ga shisatsudan wo shisatsu suru",
+            "translation_tm": "Täze açylan barlag otagynda näsaglary barlaýan lukman barlag toparyna gözegçilik edýär.",
+            "audio_text": "しんせつしんさつしつにしんさつちゅうのいしがしさつだんをしさつする"
+          },
+          {
+            "id": "twister_404",
+            "difficulty": "hard",
+            "level": "N1",
+            "japanese": "暴走車掌、シチュー死守しつつ車窓清掃",
+            "hiragana": "ぼうそう しゃしょう しちゅー ししゅ しつつ しゃそう せいそう",
+            "romaji": "Bōsō shashō shichū shishu shitutsu shasō seisō",
+            "translation_tm": "Däli konduktor süýtli çorbany saklap, wagonyň kepbesini arassalaýar.",
+            "audio_text": "ぼうそうしゃしょうしちゅーししゅしつつしゃそうせいそう"
+          },
+          {
+            "id": "twister_405",
+            "difficulty": "medium",
+            "level": "N1",
+            "japanese": "骨粗鬆症予防の訴訟で勝訴を勝ち取る",
+            "hiragana": "こつそしょうしょう よぼうの そしょうで しょうそを かちとる",
+            "romaji": "Kotsusoshōshō yobō no soshō de shōso wo kachitoru",
+            "translation_tm": "Süňk gowşaklygynyň öňüni almak boýunça kazyýet işinde ýeňiş gazanmak.",
+            "audio_text": "こつそしょうしょうよぼうのそしょうでしょうそをかちとる"
+          },
+          {
+            "id": "twister_406",
+            "difficulty": "hard",
+            "level": "N1",
+            "japanese": "旅客機の客室乗務員が画期的な接客指導を実践する",
+            "hiragana": "りょかくきの きゃくしつ じょうむいんが かっきてきな せっきゃく しどうを じっせんする",
+            "romaji": "Ryokakuki no kyakushitsu jōmuin ga kakkiteki na sekkyaku shidō wo jissen suru",
+            "translation_tm": "Ýolagçy uçar gämisiniň stüardessasy innowasion hyzmat görkezmek ugrunda tejribe geçirýär.",
+            "audio_text": "りょかくきのきゃくしつじょうむいんがかっきてきなせっきゃくしどうをじっせんする"
+          },
+          {
+            "id": "twister_407",
+            "difficulty": "hard",
+            "level": "N1",
+            "japanese": "著しく錯綜する訴訟文書の精査に苦慮する",
+            "hiragana": "いちじるしく さくそうする そしょう ぶんしょの せいさに くりょする",
+            "romaji": "Ichijirushiku sakusō suru soshō bunsho no seisa ni kuryo suru",
+            "translation_tm": "Örän bulaşyk kazyýet resminamalaryny jikme-jik barlamakda kynçylyk çekmek.",
+            "audio_text": "いちじるしくさくそうするそしょうぶんしょのせいさにくりょする"
+          },
+          {
+            "id": "twister_408",
+            "difficulty": "medium",
+            "level": "N1",
+            "japanese": "抽象的な概念を画一的に解釈することの弊害",
+            "hiragana": "ちゅうしょうてきな がいねんを かくいちてきに かいしゃく することの へいがい",
+            "romaji": "Chūshōteki na gainen wo kakuichiteki ni kaishaku suru koto no heigai",
+            "translation_tm": "Möhüm we abstrakt düşünjeleri birmeňzeş düşündirmegiň zyýany.",
+            "audio_text": "ちゅうしょうてきながいねんをかくいちてきにかいしゃくすることのへいがい"
+          },
+          {
+            "id": "twister_409",
+            "difficulty": "hard",
+            "level": "N1",
+            "japanese": "老若男女が難逆の状況で格闘する",
+            "hiragana": "ろうにゃくなんにょが なんぎゃくの じょうきょうで かくとうする",
+            "romaji": "Rōnyakunan'yo ga nangyaku no jōkyō de kakutō suru",
+            "translation_tm": "Garry-ýaş, erkek-aýal ters we kyn ýagdaýda göreşýärler.",
+            "audio_text": "ろうにゃくなんにょがなんぎゃくのじょうきょうでかくとうする"
+          },
+          {
+            "id": "twister_410",
+            "difficulty": "hard",
+            "level": "N1",
+            "japanese": "摘発された悪徳事業者の執拗な反論を退ける",
+            "hiragana": "てきはつ された あくとく じぎょうしゃの しつような はんろんを しりぞける",
+            "romaji": "Tekihatsu sareta akutoku jigyōsha no shitsuyō na hanron wo shirizokeru",
+            "translation_tm": "Üsti açylan wyždansyz telekeçiniň tutanýerli garşylykly delillerini ret etmek.",
+            "audio_text": "てきはつされたあくとくじぎょうしゃのしつようなはんろんをしりぞける"
+          },
+          {
+            "id": "twister_411",
+            "difficulty": "easy",
+            "level": "N1",
+            "japanese": "不測の事態に迅速かつ柔軟に対処する",
+            "hiragana": "ふそくの じたいに じんそく かつ じゅうなんに たいしょする",
+            "romaji": "Fusoku no jitai ni jinsoku katsu jūnan ni taisho suru",
+            "translation_tm": "Garaşylmadyk ýagdaýlara tiz we çeýe çäre görmek.",
+            "audio_text": "ふそくのじたいにじんそくかつじゅうなんにあるたいしょする"
+          },
+          {
+            "id": "twister_412",
+            "difficulty": "medium",
+            "level": "N1",
+            "japanese": "多角的な視点から構造改革を推進する",
+            "hiragana": "たかくてきな してんから こうぞう かいかくを すいしんする",
+            "romaji": "Takakuteki na shiten kara kōzō kaikaku wo suishin suru",
+            "translation_tm": "Köp taraply nukdaýnazardan gurluş ösüşlerini öňe sürmek.",
+            "audio_text": "たかくてきなしてんからこうぞうかいかくをすいしんする"
+          },
+          {
+            "id": "twister_413",
+            "difficulty": "medium",
+            "level": "N1",
+            "japanese": "画期的な新技術の導入に伴う懸念を払拭する",
+            "hiragana": "かっきてきな しんぎじゅつの どうにゅうに ともなう けねんを ふっしょくする",
+            "romaji": "Kakkiteki na shingijutsu no dōnyū ni tomonau kenen wo fusshoku suru",
+            "translation_tm": "Täze innowasion tehnologiýanyň girizilmegi bilen bagly aladalary aradan aýyrmak.",
+            "audio_text": "かっきてきなしんぎじゅつのどうにゅうにともなうけねんをふっしょくする"
+          },
+          {
+            "id": "twister_414",
+            "difficulty": "hard",
+            "level": "N1",
+            "japanese": "幾多の曲折を経て条約の発効に至る",
+            "hiragana": "いくたの きょくせつを へて じょうやくの はっこうに いたる",
+            "romaji": "Ikuta no kyokusetsu wo hete jōyaku no hakkō ni itaru",
+            "translation_tm": "Köp sanly päsgelçiliklerden geçip şertnamanyň güýje girmegine ýetmek.",
+            "audio_text": "いくたのきょくせつをへてじょうやくのはっこうにいたる"
+          },
+          {
+            "id": "twister_415",
+            "difficulty": "medium",
+            "level": "N1",
+            "japanese": "過剰な自己防衛本能が不信感を助長する",
+            "hiragana": "かじょうな じこ ぼうえい ほんのうが ふしんかんを じょちょうする",
+            "romaji": "Kajō na jiko bōei honnō ga fushinkan wo jochō suru",
+            "translation_tm": "Çenden aşa özüňi goraýyş duýgusynyň ynamsyzlygy artdyrmagy.",
+            "audio_text": "かじょうなじこぼうえいほんのうがふしんかんをじょちょうする"
+          },
+          {
+            "id": "twister_416",
+            "difficulty": "hard",
+            "level": "N1",
+            "japanese": "希薄化した対人関係の修復に苦心する",
+            "hiragana": "きはくか した たいじん かんけいの しゅうふくに くしんする",
+            "romaji": "Kihakuka shita taijin kankei no shūfuku ni kushin suru",
+            "translation_tm": "Gowşan adamlara gatnaşyklary düzetmekde alada galmak.",
+            "audio_text": "きはくかしたたいじんかんけいのしゅうふくにくしんする"
+          },
+          {
+            "id": "twister_417",
+            "difficulty": "hard",
+            "level": "N1",
+            "japanese": "過疎化が進む過酷な環境で試行錯誤を繰り返す",
+            "hiragana": "かそかが すすむ かこくな かんきょうで しこう さくごを くりかえす",
+            "romaji": "Kasoka ga susumu kakoku na kankyō de shikō sakugo wo kurikaesu",
+            "translation_tm": "Köp ilatsyzlaşýan agyr şertlerde synag-ýalňyşlyk usulyny gaýtalamak.",
+            "audio_text": "かそかがすすむかこくなかんきょうでしこうさくごをくりかえす"
+          },
+          {
+            "id": "twister_418",
+            "difficulty": "medium",
+            "level": "N1",
+            "japanese": "一触即発の緊迫した情勢を静観する",
+            "hiragana": "いっしょく そくはつの きんぱく した じょうせいを せいかんする",
+            "romaji": "Isshoku sokuhatsu no kinpaku shita jōsei wo seikan suru",
+            "translation_tm": "Partlamaga taýýar ýagdaýdaky dartgynly ýagdaýa daşyndan syn etmek.",
+            "audio_text": "いっしょくそくはつのきんぱくしたじょうせいをせいかんする"
+          },
+          {
+            "id": "twister_419",
+            "difficulty": "easy",
+            "level": "N1",
+            "japanese": "徹底的な市場調査に基づき新商品を開発する",
+            "hiragana": "てっていてきな しじょう ちょうさに もとづき しんしょうひんを かいはつする",
+            "romaji": "Tetteiteki na shijō chōsa ni motozuki shinshōhin wo kaihatsu suru",
+            "translation_tm": "Düýpli bazar barlagyna esaslanyp täze harytlary taýýarlamak.",
+            "audio_text": "てっていてきなしじょうちょうさにもとづきしんしょうひんをかいはつする"
+          },
+          {
+            "id": "twister_420",
+            "difficulty": "hard",
+            "level": "N1",
+            "japanese": "縦横無尽に駆ける騎手が障害物を跳躍する",
+            "hiragana": "じゅうおう むじんに かける きしゅが しょうがいぶつを ちょうやくする",
+            "romaji": "Jūō mujin ni kakeru kishu ga shōgaibutsu wo chōyaku suru",
+            "translation_tm": "Islendik tarapyna erkin çapýan çapar päsgelçilikden böküp geçýär.",
+            "audio_text": "じゅうおうむじんにかけるきしゅがしょうがいぶつをちょうやくする"
+          },
+          {
+            "id": "twister_421",
+            "difficulty": "easy",
+            "level": "N1",
+            "japanese": "画期的な発想で既成概念を打破する",
+            "hiragana": "かっきてきな はっそうの きせい がいねんを だはする",
+            "romaji": "Kakkiteki na hassō no kisei gainen wo daha suru",
+            "translation_tm": "Innowasion pikirlenmek bilen könelen düşünjeleri bökmek.",
+            "audio_text": "かっきてきなはっそうのきせいがいねんをだはする"
+          },
+          {
+            "id": "twister_422",
+            "difficulty": "medium",
+            "level": "N1",
+            "japanese": "急激な為替の変動が輸出企業を直撃する",
+            "hiragana": "きゅうげきな かわせの へんどうが ゆしゅつ きぎょうを ちょくげきする",
+            "romaji": "Kyūgeki na kawase no hendō ga yushutsu kigyō wo chokugeki suru",
+            "translation_tm": "Valýuta kursunyň çalt üýtgemegi eksport kärhanalaryna gönümel täsir edýär.",
+            "audio_text": "きゅうげきなかわせのへんどうがゆしゅつきぎょうをちょくげきする"
+          },
+          {
+            "id": "twister_423",
+            "difficulty": "hard",
+            "level": "N1",
+            "japanese": "収賄疑惑の追及を徹底的に回避する",
+            "hiragana": "しゅうわい ぎわくの ついきゅうを てっていてきに かいひする",
+            "romaji": "Shūwai giwaku no tsuikyū wo tetteiteki ni kaihi suru",
+            "translation_tm": "Parahorlyk şübhesini derňemekden doly gaça durmak.",
+            "audio_text": "しゅうわいぎわくのついきゅうをてっていてきにかいひする"
+          },
+          {
+            "id": "twister_424",
+            "difficulty": "hard",
+            "level": "N1",
+            "japanese": "虚妄の言動で聴衆を惑わす扇動者",
+            "hiragana": "きょもうの げんどうで ちょうしゅうを まどわす せんどうしゃ",
+            "romaji": "Kyomō no gendō de chōshū wo madowasu sendōsha",
+            "translation_tm": "Ýalan sözleri bilen diňleýjileri aldaýan prowokator.",
+            "audio_text": "きょもうのげんどうでちょうしゅうをまどわすせんどうしゃ"
+          },
+          {
+            "id": "twister_425",
+            "difficulty": "medium",
+            "level": "N1",
+            "japanese": "緊縮財政の継続が景気低迷を招く",
+            "hiragana": "きんしゅく ざいせいの けいぞくが けいき ていめいを まねく",
+            "romaji": "Kinshuku zaisei no keizoku ga keiki teimei wo maneku",
+            "translation_tm": "Ykdysady tygşytlylygyň dowam etdirilmegi ykdysady durgunlyga eltýär.",
+            "audio_text": "きんしゅくざいせいのけいぞくがけいきていめいをまねく"
+          },
+          {
+            "id": "twister_426",
+            "difficulty": "hard",
+            "level": "N1",
+            "japanese": "巧みな話術で聴衆の関心を引きつける",
+            "hiragana": "たくみな わじゅつで ちょうしゅうの かんしんを ひきつける",
+            "romaji": "Takumi na wajutsu de chōshū no kanshin wo hikitsukeru",
+            "translation_tm": "Ussat gürleşmek sungaty bilen diňleýjileriň ünsüni çekmek.",
+            "audio_text": "たくみなわじゅつでちょうしゅうのかんしんをひきつける"
+          },
+          {
+            "id": "twister_427",
+            "difficulty": "hard",
+            "level": "N1",
+            "japanese": "緻密な考証に基づく歴史小説を執筆する",
+            "hiragana": "ちみつな こうしょうに もとづく れきし しょうせつを しっぴつする",
+            "romaji": "Chimitsu na kōshō ni motozuku rekishi shōsetsu wo shippitsu suru",
+            "translation_tm": "Düýpli taryhy barlaglara esaslanan taryhy roman ýazmak.",
+            "audio_text": "ちみつなこうしょうにもとづくれきししょうせつをしっぴつする"
+          },
+          {
+            "id": "twister_428",
+            "difficulty": "medium",
+            "level": "N1",
+            "japanese": "不透明な採算性に懸念を表明する",
+            "hiragana": "ふとうめいな さいさんせいに けねんを ひょうめいする",
+            "romaji": "Futōmei na saisansei ni kenen wo hyōmei suru",
+            "translation_tm": "Aýdyň bolmadyk girdeji mümkinçiligine aladalaryňy bildirmek.",
+            "audio_text": "ふとうめいなさいさんせいにけねんをひょうめいする"
+          },
+          {
+            "id": "twister_429",
+            "difficulty": "hard",
+            "level": "N1",
+            "japanese": "執拗な追及にも怯まず主張を貫く",
+            "hiragana": "しつような ついきゅうにも ひるまず しゅちょうを つらぬく",
+            "romaji": "Shitsuyō na tsuikyū ni mo hirumazu shuchō wo tsuranuku",
+            "translation_tm": "Ýadawsuz barlaglardan gorkman öz pikiriňi ahyryna çenli goramak.",
+            "audio_text": "しつようについきゅうにもひるまずしゅちょうをつらぬく"
+          },
+          {
+            "id": "twister_430",
+            "difficulty": "easy",
+            "level": "N1",
+            "japanese": "公平無私な態度で裁定を下す",
+            "hiragana": "こうへい むしな たいどで さいていを くだす",
+            "romaji": "Kōhei mushi na taido de saitei wo kudasu",
+            "translation_tm": "Adalatly we bütinleý bitewilik bilen karar çykarmak.",
+            "audio_text": "こうへいむしなたいどでさいていをくだす"
+          },
+          {
+            "id": "twister_431",
+            "difficulty": "hard",
+            "level": "N1",
+            "japanese": "錯綜する情報を統合し迅速な判断を下す",
+            "hiragana": "さくそうする じょうほうを とうごうし じんそくな はんだんを くだす",
+            "romaji": "Sakusō suru jōhō wo tōgō shi jinsoku na handan wo kudasu",
+            "translation_tm": "Garaşylmadyk maglumatlary birleşdirip tiz karar bermek.",
+            "audio_text": "さくそうするじょうほうをとうごうしじんそくなはんだんをくだす"
+          },
+          {
+            "id": "twister_432",
+            "difficulty": "hard",
+            "level": "N1",
+            "japanese": "唐突な提案に反論の余地がない",
+            "hiragana": "とうとつな ていあんに はんろんの よちが ない",
+            "romaji": "Tōtotsu na teian ni hanron no yochi ga nai",
+            "translation_tm": "Oýlanylman berlen teklibe garşy çykmaga mümkinçilik ýok.",
+            "audio_text": "とうとつなていあにはんろんのよちがない"
+          },
+          {
+            "id": "twister_433",
+            "difficulty": "medium",
+            "level": "N1",
+            "japanese": "正当な権限の委任を受け業務を遂行する",
+            "hiragana": "せいとうな けんげんの いにんを うけ ぎょうむを すいこうする",
+            "romaji": "Seitō na kengen no inin wo uke gyōmu wo suikō suru",
+            "translation_tm": "Kānuny ygtyýarlyklary alyp işi ýerine ýetirmek.",
+            "audio_text": "せいとうなけんげんのいにんをうけぎょうむをすいこうする"
+          },
+          {
+            "id": "twister_434",
+            "difficulty": "hard",
+            "level": "N1",
+            "japanese": "著しい進歩を遂げた先端技術を享受する",
+            "hiragana": "いちじるしい しんぽを とげた せんたん ぎじゅつを きょうじゅする",
+            "romaji": "Ichijirushii shinpo wo togeta sentan gijutsu wo kyōju suru",
+            "translation_tm": "Ajaýyp ösüş gazanan ýokary tehnologiýalardan peýdalanmak.",
+            "audio_text": "いちじるしいしんぽをとげたせんたんぎじゅつをきょうじゅする"
+          },
+          {
+            "id": "twister_435",
+            "difficulty": "hard",
+            "level": "N1",
+            "japanese": "悲惨な現状を打開すべく起死回生の一手を打つ",
+            "hiragana": "ひさんな げんじょうを だかい すべく きしかいせいの いってを うつ",
+            "romaji": "Hisan na genjō wo dakai subeku kishikaisei no itte wo utsu",
+            "translation_tm": "Agyr ýagdaýdan çykmak üçin täzeden galkynyş kararyny kabul etmek.",
+            "audio_text": "ひさんなげんじょうをだかいすべくきしかいせいのいってをうつ"
+          },
+          {
+            "id": "twister_436",
+            "difficulty": "medium",
+            "level": "N1",
+            "japanese": "過剰な介入が自立心を阻害する",
+            "hiragana": "かじょうな かいにゅうが じりつしんを そがいする",
+            "romaji": "Kajō na kainyū ga jiritsushin wo sogai suru",
+            "translation_tm": "Aşyry gatyşmaklyk öz-özüňi dolandyrmak duýgusyna päsgel berýär.",
+            "audio_text": "かじょうなかいにゅうがじりつしんをそがいする"
+          },
+          {
+            "id": "twister_437",
+            "difficulty": "hard",
+            "level": "N1",
+            "japanese": "無念の思いを胸に起死回生を図る",
+            "hiragana": "むねんの おもいを むねに きしかいせいを はかる",
+            "romaji": "Munen no omoi wo mune ni kishikaisei wo hakaru",
+            "translation_tm": "Öküniçli duýgular bilen täzeden üstünlik gazanmaga çalyşmak.",
+            "audio_text": "むねんのおもいをむねにきしかいせいをはかる"
+          },
+          {
+            "id": "twister_438",
+            "difficulty": "hard",
+            "level": "N1",
+            "japanese": "不条理な現実に屈せず信念を貫徹する",
+            "hiragana": "ふじょうりな げんじつに くっせず しんねんを かんてつする",
+            "romaji": "Fujōri na genjitsu ni kussetsu shinnen wo kantetsu suru",
+            "translation_tm": "Adalatsyz hakykylyga boýun bolman öz ynamyňy ahyryna çenli saklamak.",
+            "audio_text": "ふじょうりなげんじつにくっせずしんねんをかんてつする"
+          },
+          {
+            "id": "twister_439",
+            "difficulty": "medium",
+            "level": "N1",
+            "japanese": "顕著な実績が認められ要職に抜擢される",
+            "hiragana": "けんちょな じっせきが みとめられ ようしょくに ばってき される",
+            "romaji": "Kencho na jisseki ga mitomerare yōshoku ni batteki sare ru",
+            "translation_tm": "Uly üstünlikleri ykrar edilip jogapkärli wezipä bellenilmek.",
+            "audio_text": "けんちょなじっせきがみとめられようしょくにばってきされる"
+          },
+          {
+            "id": "twister_440",
+            "difficulty": "hard",
+            "level": "N1",
+            "japanese": "独創的な発想で既成概念を打破する",
+            "hiragana": "どくそうてきな はっそうの きせい がいねんを だはする",
+            "romaji": "Dokusōteki na hassō no kisei gainen wo daha suru",
+            "translation_tm": "Özboluşly pikirlenmek bilen adaty garaýyşlary aradan aýyrmak.",
+            "audio_text": "どくそうてきなはっそうのきせいがいねんをだはする"
+          },
+          {
+            "id": "twister_441",
+            "difficulty": "easy",
+            "level": "N1",
+            "japanese": "過度な自粛姿勢が経済活動を停滞させる",
+            "hiragana": "かどな じしゅく しせいが けいざい かつどうを ていたい させる",
+            "romaji": "Kado na jishuku shisei ga keizai katsudō wo teitai saseru",
+            "translation_tm": "Aşyry ätiýaçlylyk ykdysady işjeňligi gowşatýar.",
+            "audio_text": "かどなじしゅくしせいがけいざいかつどうをていたいさせる"
+          },
+          {
+            "id": "twister_442",
+            "difficulty": "medium",
+            "level": "N1",
+            "japanese": "迅速かつ的確な対応が被害を最小限に抑える",
+            "hiragana": "じんそく かつ てきかく な たいおうが ひがいを さいしょうげんに おさえ る",
+            "romaji": "Jinsoku katsu tekikaku na taiō ga higai wo saishōgen ni osaeru",
+            "translation_tm": "Tiz we takyk çäreler ýitgini minimal derejä düşürýär.",
+            "audio_text": "じんそくかつてきかくなたいおうがひがいをさいしょうげんにおさえる"
+          },
+          {
+            "id": "twister_443",
+            "difficulty": "hard",
+            "level": "N1",
+            "japanese": "緻密な戦略を練り難局を打開する",
+            "hiragana": "ちみつな せんりゃくを ねり なんきょくを だかいする",
+            "romaji": "Chimitsu na senryaku wo neri nankyoku wo dakai suru",
+            "translation_tm": "Jikme-jik strategiýa taýýarlap kyn ýagdaýdan çykmak.",
+            "audio_text": "ちみつなせんりゃくをねりなんきょくをだかいする"
+          },
+          {
+            "id": "twister_444",
+            "difficulty": "hard",
+            "level": "N1",
+            "japanese": "曖昧な供述に終始し真相解明を拒む",
+            "hiragana": "あいまいな きょうじゅつに しゅうしし しんそう かいめいを こばむ",
+            "romaji": "Aimai na kyōjutsu ni shūshi shi shinsō kaimei wo kobamu",
+            "translation_tm": "Düşüniksiz görkezmeler berip hakykatyň açylmagyna päsgel bermek.",
+            "audio_text": "あいまいなきょうじゅつにしゅうしししんそうかいめいをこばむ"
+          },
+          {
+            "id": "twister_445",
+            "difficulty": "medium",
+            "level": "N1",
+            "japanese": "公平無私な精神で裁判に臨む",
+            "hiragana": "こうへい むしな せいしんで さいばんに のぞむ",
+            "romaji": "Kōhei mushi na seishin de saiban ni nozomu",
+            "translation_tm": "Doly adalatlylyk we ýerlikli piker bilen suda gatnaşmak.",
+            "audio_text": "こうへいむしなせいしんでさいばんにのぞむ"
+          },
+          {
+            "id": "twister_446",
+            "difficulty": "hard",
+            "level": "N1",
+            "japanese": "虚飾を排し質実剛健な生活を営む",
+            "hiragana": "きょしょくを はいし しつじつ ごうけん な せいかつを いとなむ",
+            "romaji": "Kyoshoku wo haishi shitsujitsu gōken na seikatsu wo itonamu",
+            "translation_tm": "Artykmaç bezegleri aýyryp sada we berк durmuşda ýaşamak.",
+            "audio_text": "きょしょくをはいししつじつごうけんなせいかつをいとなむ"
+          },
+          {
+            "id": "twister_447",
+            "difficulty": "hard",
+            "level": "N1",
+            "japanese": "孤立無援の状態で奮闘を続ける",
+            "hiragana": "こりつ むえんの じょうたいで ふんとうを つづける",
+            "romaji": "Koritsu muen no jōtai de funtō wo tsuzukeru",
+            "translation_tm": "Kömeksiz we ýalňyz ýagdaýda göreşi dowam etdirmek.",
+            "audio_text": "こりつむえんのじょうたいでふんとうをつづける"
+          },
+          {
+            "id": "twister_448",
+            "difficulty": "medium",
+            "level": "N1",
+            "japanese": "波瀾万丈な人生を振り返り感慨に浸る",
+            "hiragana": "はらん ばんじょう な じんせい を ふりかえり かんがいに ひたる",
+            "romaji": "Haran banjō na jinsei wo furikaeri kangai ni hitaru",
+            "translation_tm": "Agyr we wakalara baý ömrüňe seredip duýgulanmak.",
+            "audio_text": "はんばんじょうなじんせいをふりかえりかんがいにひたる"
+          },
+          {
+            "id": "twister_449",
+            "difficulty": "hard",
+            "level": "N1",
+            "japanese": "一朝一夕には解決できない根深い問題",
+            "hiragana": "いっちょう いっせきに は かいけつ できない ねぶかい もんだい",
+            "romaji": "Icchō isseki ni wa kaiketsu dekinai nebukai mondai",
+            "translation_tm": "Bir gijede-gündizde çözüp bolmajak çuňňur mesele.",
+            "audio_text": "いっちょういっせきにはかいけつできないねぶかいもんだい"
+          },
+          {
+            "id": "twister_450",
+            "difficulty": "easy",
+            "level": "N1",
+            "japanese": "臨機応変な措置が混乱を収拾する",
+            "hiragana": "りんき おうへん な そちが こんらんを しゅうしゅうする",
+            "romaji": "Rinki ōhen na sochi ga konran wo shūshū suru",
+            "translation_tm": "Çeýe we amaly çäreler bulam-bujarlygy düzetmäge kömek edýär.",
+            "audio_text": "りんきおうへんなそちがこんらんをしゅうしゅうする"
+          },
+          {
+            "id": "twister_451",
+            "difficulty": "hard",
+            "level": "N1",
+            "japanese": "精巧な機械の複雑な構造を解析する",
+            "hiragana": "せいこうな きかいの ふくざつな こうぞうを かいせきする",
+            "romaji": "Seikō na kikai no fukuzatsu na kōzō wo kaiseki suru",
+            "translation_tm": "Çylşyrymly enjamyň gurluşyny jikme-jik derňemek.",
+            "audio_text": "せいこうなきかいのふくざつなこうぞうをかいせきする"
+          },
+          {
+            "id": "twister_452",
+            "difficulty": "medium",
+            "level": "N1",
+            "japanese": "不条理な格差を解消するための施策を講じる",
+            "hiragana": "ふじょうりな かくさを かいしょう する ための しさくを こうじる",
+            "romaji": "Fujōri na kakusa wo kaishō suru tame no shisaku wo kōjiru",
+            "translation_tm": "Adalatsyz deňsizligi aýyrmak üçin çäreler görmek.",
+            "audio_text": "ふじょうりなかくさをかいしょうするためのしさくをこうじる"
+          },
+          {
+            "id": "twister_453",
+            "difficulty": "hard",
+            "level": "N1",
+            "japanese": "著しい成果を収め周囲の期待に応える",
+            "hiragana": "いちじるしい せいかを おさめ しゅういの きたいに こたえる",
+            "romaji": "Ichijirushii seika wo osame shūi no kitai ni kotaeru",
+            "translation_tm": "Uly netije gazanyp töweregiň tamasyny ödemek.",
+            "audio_text": "いちじるしいせいかをおさめしゅういのきたいにこたえる"
+          },
+          {
+            "id": "twister_454",
+            "difficulty": "hard",
+            "level": "N1",
+            "japanese": "前代未聞の不祥事に批判が殺到する",
+            "hiragana": "ぜんだい みもんの ふしょうじに ひはんが さっとうする",
+            "romaji": "Zendai mimon no fushōji ni hihan ga sattō suru",
+            "translation_tm": "Öň görülmedik masgaraçylyga garşy tankytlar ýagýar.",
+            "audio_text": "ぜんだいみもんのふしょうじにひはんがさっとうする"
+          },
+          {
+            "id": "twister_455",
+            "difficulty": "medium",
+            "level": "N1",
+            "japanese": "徹底的な事実究明を強く要求する",
+            "hiragana": "てっていてきな じじつ きゅうめいを つよく ようきゅうする",
+            "romaji": "Tetteiteki na jijitsu kyūmei wo tsuyoku yōkyū suru",
+            "translation_tm": "Hakyky ýagdaýyň doly derňelmelidigini berk talap etmek.",
+            "audio_text": "てっていてきなじじつきゅうめいをつよくようきゅうする"
+          },
+          {
+            "id": "twister_456",
+            "difficulty": "hard",
+            "level": "N1",
+            "japanese": "紆余曲折を経てようやく合意に達する",
+            "hiragana": "うよ きょくせつを へて ようやく ごういに たっする",
+            "romaji": "Uyo kyokusetsu wo hete yōyaku gōi ni tassuru",
+            "translation_tm": "Köp kynçylyklardan geçip ahyry ylalaşyga gelmek.",
+            "audio_text": "うよきょくせつをへてようやくごういにたっする"
+          },
+          {
+            "id": "twister_457",
+            "difficulty": "hard",
+            "level": "N1",
+            "japanese": "過酷な競争を勝ち抜き市場を独占する",
+            "hiragana": "かこくな きょうそうを かちぬき しじょうを どくせんする",
+            "romaji": "Kakoku na kyōsō wo kachinuki shijō wo dokusen suru",
+            "translation_tm": "Agyr bäsleşigi ýeňip bazary monopoliýalaşdyrmak.",
+            "audio_text": "かこくなきょうそうをかちぬきしじょうをどくせんする"
+          },
+          {
+            "id": "twister_458",
+            "difficulty": "medium",
+            "level": "N1",
+            "japanese": "不測の事態に備え万全の態勢を整える",
+            "hiragana": "ふそくの じたいに そなえ ばんぜんの たいせいを ととのえる",
+            "romaji": "Fusoku no jitai ni sonae banzen no taisei wo totonoeru",
+            "translation_tm": "Garaşylmadyk ýagdaýlara taýýarlyk görüp doly taýýar durmak.",
+            "audio_text": "ふそくのじたいにそなえばんぜんのたいせいをととのえる"
+          },
+          {
+            "id": "twister_459",
+            "difficulty": "hard",
+            "level": "N1",
+            "japanese": "不透明な政治資金の解明に全力を尽くす",
+            "hiragana": "ふとうめいな せいじ しきんの かいめいに ぜんりょくを つくす",
+            "romaji": "Futōmei na seiji shikin no kaimei ni zenryoku wo tsukusu",
+            "translation_tm": "Aýdyň bolmadyk syýasy çykdajylary derňemäge ähli güýji bagyşlamak.",
+            "audio_text": "ふとうめいなせいじしきんのかいめいにぜんりょくをつくす"
+          },
+          {
+            "id": "twister_460",
+            "difficulty": "easy",
+            "level": "N1",
+            "japanese": "公平無私な審査により選考を行う",
+            "hiragana": "こうへい むしな しんさに より せんこうを おこなう",
+            "romaji": "Kōhei mushi na shinsa ni yori senkō wo okonau",
+            "translation_tm": "Adalatly synag esasynda saýlama geçirmek.",
+            "audio_text": "こうへいむしなしんさによりせんこうをおこなう"
+          },
+          {
+            "id": "twister_461",
+            "difficulty": "hard",
+            "level": "N1",
+            "japanese": "急速な少子高齢化に伴う社会保障制度の再構築",
+            "hiragana": "きゅうそくな しょうし こうれいかに ともなう しゃかい ほしょう せいどの さいこうちく",
+            "romaji": "Kyūsoku na shōshi kōreika ni tomonau shakai hoshō seido no saikōchiku",
+            "translation_tm": "Ilatyň tiz garralmagyna görä jemgyýetçilik ätiýaçlandyryş ulgamyny täzeden gurmak.",
+            "audio_text": "きゅうそくなしょうしこうれいかにともなうしゃかいほしょうせいどのさいこうちく"
+          },
+          {
+            "id": "twister_462",
+            "difficulty": "medium",
+            "level": "N1",
+            "japanese": "客観的な指標に基づき正当な評価を下す",
+            "hiragana": "きゃっかんてきな しひょうに もとづき せいとうな ひょうかを くだす",
+            "romaji": "Kyakkanteki na shihyō ni motozuki seitō na hyōka wo kudasu",
+            "translation_tm": "Obyewtiw görkezijilere salgylanyp adalatly baha bermek.",
+            "audio_text": "きゃっかんてきなしひょうにもとづきせいとうなひょうかをくだす"
+          },
+          {
+            "id": "twister_463",
+            "difficulty": "hard",
+            "level": "N1",
+            "japanese": "自縄自縛に陥り打開策を見出せない",
+            "hiragana": "じじょう じばくに おちいり だかいさくを みいだせない",
+            "romaji": "Jijō jibaku ni ochiiri dakaisaku wo miidasenai",
+            "translation_tm": "Öz toruňa düşüp çykalga tapyp bilmezlik.",
+            "audio_text": "じじょうじばくにおちいりだかいさくをみいだせない"
+          },
+          {
+            "id": "twister_464",
+            "difficulty": "hard",
+            "level": "N1",
+            "japanese": "画一的な教育方針を改め個性を尊重する",
+            "hiragana": "かくいちてきな きょういく ほうしんを あらため こせいを そんちょうする",
+            "romaji": "Kakuichiteki na kyōiku hōshin wo aratame kosei wo sonchō suru",
+            "translation_tm": "Birmeňzeş bilim bermek usulyny üýtgetip şahsy aýratynlyklary hormatlamak.",
+            "audio_text": "かくいちてきなきょういくほうしんをあらためこせいをそんちょうする"
+          },
+          {
+            "id": "twister_465",
+            "difficulty": "medium",
+            "level": "N1",
+            "japanese": "正当な理由なく指示に従わない場合は処罰対象となる",
+            "hiragana": "せいとうな りゆう なく しじに したがわない ばあいは しょばつ たいしょうと なる",
+            "romaji": "Seitō na riyū naku shiji ni shitagawanai baai wa shobatsu taishō to naru",
+            "translation_tm": "Ykrar edilen sebäpsiz görkezmä eýermedik ýagdaýynda jezalandyrylar.",
+            "audio_text": "せいとうなりゆうなくしじにしたがわないばあいはしょばつたいしょうとなる"
+          },
+          {
+            "id": "twister_466",
+            "difficulty": "hard",
+            "level": "N1",
+            "japanese": "過度な期待が双方に不要な摩擦を生じさせる",
+            "hiragana": "かどな きたいが そうほうに ふような まさつを しょうじさせる",
+            "romaji": "Kado na kitai ga sōhō ni fuyō na masatsu wo shōjisaseru",
+            "translation_tm": "Artykmaç tama etmeklik beýleki tarapa-da gereksiz agzybirliksizlik döredýär.",
+            "audio_text": "かどなきたいがそうほうにふようなまさつをしょうじさせる"
+          },
+          {
+            "id": "twister_467",
+            "difficulty": "hard",
+            "level": "N1",
+            "japanese": "巧みな交渉術で劇的な妥協案を引き出す",
+            "hiragana": "たくみな こうしょうじゅつで げきてきな だきょうあんを ひきだす",
+            "romaji": "Takumi na kōshōjutsu de gekiteki na dakyōan wo hikidasu",
+            "translation_tm": "Ussat gepleşikler geçirmek arkaly özboluşly ylalaşyga gelmek.",
+            "audio_text": "たくみなこうしょうじゅつでげきてきなだきょうあんをひきだす"
+          },
+          {
+            "id": "twister_468",
+            "difficulty": "medium",
+            "level": "N1",
+            "japanese": "一連の騒動の背後に存在する組織的関与",
+            "hiragana": "いちれんの そうどうの はいごに そんざいする そしきてき かんよ",
+            "romaji": "Ichiren no sōdō no haigo ni sonzai suru soshikiteki kan'yo",
+            "translation_tm": "Bulaşyklaryň aňyrsynda guramaçylykly gatnaşygyň bolmagy.",
+            "audio_text": "いちれんのそうどうのはいごにそんざいするそしきてきかんよ"
+          },
+          {
+            "id": "twister_469",
+            "difficulty": "hard",
+            "level": "N1",
+            "japanese": "多岐にわたる課題に総合的な見地からアプローチする",
+            "hiragana": "たきに わたる かだいに そうごうてきな けんちから あぷろーち する",
+            "romaji": "Taki ni wataru kadai ni sōgōteki na kenchi kara apurōchi suru",
+            "translation_tm": "Köp sanly kynçylyklara toplumlaşdyrylan nukdaýnazardan çemeleşmek.",
+            "audio_text": "たきにわたるかだいにそうごうてきなけんちからあぷろーちする"
+          },
+          {
+            "id": "twister_470",
+            "difficulty": "easy",
+            "level": "N1",
+            "japanese": "慎重な議論を重ねた上で方針を決定する",
+            "hiragana": "しんちょうな ぎろんを かさねた うえで ほうしんを けっていする",
+            "romaji": "Shinchō na giron wo kasaneta ue de hōshin wo kettei suru",
+            "translation_tm": "Ätiýaçly maslahatlaşmalardan soň ugur bellemek.",
+            "audio_text": "しんちょうなぎろんをかさねたうえでほうしんをけっていする"
+          },
+          {
+            "id": "twister_471",
+            "difficulty": "hard",
+            "level": "N1",
+            "japanese": "過酷な訓練を耐え抜き精鋭部隊に所属する",
+            "hiragana": "かこくな くんれんを たえぬき せいえい ぶたいに しょぞくする",
+            "romaji": "Kakoku na kunren wo taenuki seiei butai ni shozoku suru",
+            "translation_tm": "Agyr okuwlardan geçip saýlama toparyň agzasy bolmak.",
+            "audio_text": "かこくなくんれんをたえぬきせいえいぶたいにしょぞくする"
+          },
+          {
+            "id": "twister_472",
+            "difficulty": "medium",
+            "level": "N1",
+            "japanese": "不測の危機に備え柔軟な思考を養う",
+            "hiragana": "ふそくの ききに そなえ じゅうなんな しこうを やしなう",
+            "romaji": "Fusoku no kiki ni sonae jūnan na shikō wo yashinau",
+            "translation_tm": "Garaşylmadyk kynçylyklara taýýarlyk hökmünde çeýe pikirlenmäni ösdürmek.",
+            "audio_text": "ふそくのききにそなえじゅうなんなしこうをやしなう"
+          },
+          {
+            "id": "twister_473",
+            "difficulty": "hard",
+            "level": "N1",
+            "japanese": "不条理な差別を根絶するための啓発活動",
+            "hiragana": "ふじょうりな さべつを こんぜつ する ための けいはつ かつどう",
+            "romaji": "Fujōri na sabetsu wo konzetsu suru tame no keihatsu katsudō",
+            "translation_tm": "Adalatsyz kemsitmelere garşy duýdyryş işlerini geçirmek.",
+            "audio_text": "ふじょうりなさべつをこんぜつするためのけいはつかつどう"
+          },
+          {
+            "id": "twister_474",
+            "difficulty": "hard",
+            "level": "N1",
+            "japanese": "過度な競争意識が健全な協調性を阻害する",
+            "hiragana": "かどな きょうそう いしきが けんぜんな きょうちょうせいを そがいする",
+            "romaji": "Kado na kyōsō ishiki ga kenzen na kyōchōsei wo sogai suru",
+            "translation_tm": "Ýokary bäsleşik düşünjesi sagdyn hyzmatdaşlyga päsgel berýär.",
+            "audio_text": "かどなきょうそういしきがけんぜんなきょうちょうせいをそがいする"
+          },
+          {
+            "id": "twister_475",
+            "difficulty": "medium",
+            "level": "N1",
+            "japanese": "画期的な発見が従来の学説を覆す",
+            "hiragana": "かっきてきな はっけんが じゅうらいの がくせつを くつがえす",
+            "romaji": "Kakkiteki na hakken ga jūrai no gakusetsu wo kutsugaesu",
+            "translation_tm": "Innowasion açyş öňki ylmy garaýyşlary aradan aýyrýar.",
+            "audio_text": "かっきてきなはっけんがじゅうらいのがくせつをくつがえす"
+          },
+          {
+            "id": "twister_476",
+            "difficulty": "hard",
+            "level": "N1",
+            "japanese": "著しい環境破壊に対し国際的な批判が高まる",
+            "hiragana": "いちじるしい かんきょう はかいに たいし こくさいてきな ひはんが たかまる",
+            "romaji": "Ichijirushii kankyō hakai ni taishi kokusaiteki na hihan ga takamaru",
+            "translation_tm": "Agyr týagdaýly zelellere garşy halkara tankytlar artýar.",
+            "audio_text": "いちじるしいかんきょうはかいにたいしこくさいてきなひはんがたかまる"
+          },
+          {
+            "id": "twister_477",
+            "difficulty": "hard",
+            "level": "N1",
+            "japanese": "収賄事件の真相解明に執念を燃やす捜査官",
+            "hiragana": "しゅうわい じけんの しんそう かいめいに しゅうねんを もやす そうさかん",
+            "romaji": "Shūwai jiken no shinsō kaimei ni shūnen wo moyasu sōsakan",
+            "translation_tm": "Parahorlyk wakasynyň hakykatyny açmak üçin erjellik bilen işleýän derňewçi.",
+            "audio_text": "しゅうわいじけんのしんそうかいめいにしゅうねんをもやすそうさかん"
+          },
+          {
+            "id": "twister_478",
+            "difficulty": "medium",
+            "level": "N1",
+            "japanese": "急激な社会変動に対応するための機構改革",
+            "hiragana": "きゅうげきな しゃかい へんどうに たいおう する ための きこう かいかく",
+            "romaji": "Kyūgeki na shakai hendō ni taiō suru tame no kikō kaikaku",
+            "translation_tm": "Jemgyýetiň tiz üýtgemelerine garşy guramaçylykly özgertmeler.",
+            "audio_text": "きゅうげきなしゃかいへんどうにたいおうするためのきこうかいかく"
+          },
+          {
+            "id": "twister_479",
+            "difficulty": "hard",
+            "level": "N1",
+            "japanese": "虚像と実像の乖離に戸惑いを隠せない",
+            "hiragana": "きょぞうと じつぞうの かいりに とまどいを かくせない",
+            "romaji": "Kyozō to jitsuzō no kairi ni tomadoi wo kakusenai",
+            "translation_tm": "Ýalan we hakyky Keşp arasyndaky tapawut sebäpli geň galmagy bukyp bilmezlik.",
+            "audio_text": "きょぞうとじつぞうのかいりにとまどいをかくせない"
+          },
+          {
+            "id": "twister_480",
+            "difficulty": "easy",
+            "level": "N1",
+            "japanese": "公平無私な態度で組織の統率を図る",
+            "hiragana": "こうへい むしな たいどで そしきの とうそつを はかる",
+            "romaji": "Kōhei mushi na taido de soshiki no tōsotsu wo hakaru",
+            "translation_tm": "Adalatlylyk bilen guramany dolandyrmaga çalyşmak.",
+            "audio_text": "こうへいむしなたいどでそしきのとうそつをはかる"
+          },
+          {
+            "id": "twister_481",
+            "difficulty": "hard",
+            "level": "N1",
+            "japanese": "過酷な労働環境の改善を求める訴訟を起こす",
+            "hiragana": "かこくな ろうどう かんきょうの かいぜんを もとめる そしょうを おこす",
+            "romaji": "Kakoku na rōdō kankyō no kaizen wo motomeru soshō wo okosu",
+            "translation_tm": "Agyr iş şertlerini düzedäýmek ugrunda kazyýet işini açmak.",
+            "audio_text": "かこくなろうどうかんきょうのかいぜんをもとめるそしょうをおこす"
+          },
+          {
+            "id": "twister_482",
+            "difficulty": "medium",
+            "level": "N1",
+            "japanese": "迅速かつ円滑な業務遂行を推進する",
+            "hiragana": "じんそく かつ えんかつ な ぎょうむ すいこうを すいしんする",
+            "romaji": "Jinsoku katsu enkatsu na gyōmu suikō wo suishin suru",
+            "translation_tm": "Tiz we päsgelsiz iş ýerine ýetirilmegini öňe sürmek.",
+            "audio_text": "じんそくかつえんかつなぎょうむすいこうをすいしんする"
+          },
+          {
+            "id": "twister_483",
+            "difficulty": "hard",
+            "level": "N1",
+            "japanese": "不透明な採算性に懸念を示し見直しを要請する",
+            "hiragana": "ふとうめいな さいさんせいに けねんを しめし みなおしを ようせいする",
+            "romaji": "Futōmei na saisansei ni kenen wo shimeshi minaoshi wo yōsei suru",
+            "translation_tm": "Aýdyň bolmadyk girdejä alada bildirip täzeden seredilmegini haýyş etmek.",
+            "audio_text": "ふとうめいなさいさんせいにけねんをしめしみなおしをようせいする"
+          },
+          {
+            "id": "twister_484",
+            "difficulty": "hard",
+            "level": "N1",
+            "japanese": "正当な対価の支払いを不当に拒む事業者",
+            "hiragana": "せいとうな たいかの しはらいを ふとうに こばむ じぎょうしゃ",
+            "romaji": "Seitō na taika no shiharai wo futō ni kobamu jigyōsha",
+            "translation_tm": "Tölegi bikanun ret edýän hyzmatdaş telekeçi.",
+            "audio_text": "せいとうなたいかのしはらいをふとうにこばむじぎょうしゃ"
+          },
+          {
+            "id": "twister_485",
+            "difficulty": "medium",
+            "level": "N1",
+            "japanese": "過度な自粛が市場の活性化を阻害する",
+            "hiragana": "かどな じしゅくが しじょうの かっせいかを そがいする",
+            "romaji": "Kado na jishuku ga shijō no kasseika wo sogai suru",
+            "translation_tm": "Aşyry ätiýaçlylyk bazaryň işjeňleşmegine päsgel berýär.",
+            "audio_text": "かどなじしゅくがしじょうのかっせいかをそがいする"
+          },
+          {
+            "id": "twister_486",
+            "difficulty": "hard",
+            "level": "N1",
+            "japanese": "幾多の試練を克服し前人未到の偉業を達成する",
+            "hiragana": "いくたの しれんを こくふくし ぜんじん みとうの いぎょうを たっせいする",
+            "romaji": "Ikuta no shiren wo kokufuku shi zenjin mitō no igyō wo tassei suru",
+            "translation_tm": "Köp sanly synaglary ýeňip geçip öň hiç kim tarapyndan edilmedik üstünlik gazanmak.",
+            "audio_text": "いくたのしれんをこくふくしぜんじんみとうのいぎょうをたっせいする"
+          },
+          {
+            "id": "twister_487",
+            "difficulty": "hard",
+            "level": "N1",
+            "japanese": "錯綜する証言を整理し真実を解き明かす",
+            "hiragana": "さくそうする しょうげんを せいりし しんじつを ときあかす",
+            "romaji": "Sakusō suru shōgen wo seiri shi shinjitsu wo tokiakasu",
+            "translation_tm": "Bulaşyk görkezmeleri rastyňa salyp hakykaty tapmak.",
+            "audio_text": "さくそうするしょうげんをせいりししんじつをときあかす"
+          },
+          {
+            "id": "twister_488",
+            "difficulty": "medium",
+            "level": "N1",
+            "japanese": "不条理な現実に屈することなく前進する",
+            "hiragana": "ふじょうりな げんじつに くっする こと なく ぜんしんする",
+            "romaji": "Fujōri na genjitsu ni kussuru koto naku zenshin suru",
+            "translation_tm": "Adalatsyzlyklara boýun bolman öňe gitmek.",
+            "audio_text": "ふじょうりなげんじつにくっすることなくぜんしんする"
+          },
+          {
+            "id": "twister_489",
+            "difficulty": "hard",
+            "level": "N1",
+            "japanese": "著しい業績不振に陥り早期退職者を募る",
+            "hiragana": "いちじるしい ぎょうせき ふしんに おちいり そうき たいしょくしゃを つのる",
+            "romaji": "Ichijirushii gyōseki fushin ni ochiiri sōki taishokusha wo tsunoru",
+            "translation_tm": "Uly kynçylyklara düşüp wagtyndan öň işden çykmak ugrunda taslama amala aşyrmak.",
+            "audio_text": "いちじるしいぎょうせきふしんにおちいりそうきたいしょくしゃをつのる"
+          },
+          {
+            "id": "twister_490",
+            "difficulty": "easy",
+            "level": "N1",
+            "japanese": "公平無私な判定が観客の信頼を得る",
+            "hiragana": "こうへい むしな はんていが かんきゃくの しんらいを える",
+            "romaji": "Kōhei mushi na hantei ga kankyaku no shinrai wo eru",
+            "translation_tm": "Adalatly çözgüt tomaşaçylaryň ynamyny gazanýar.",
+            "audio_text": "こうへいむしなはんていがかんきゃくのしんらいをえる"
+          },
+          {
+            "id": "twister_491",
+            "difficulty": "hard",
+            "level": "N1",
+            "japanese": "摘発された不正取引の背後に潜む巨大な利権組織",
+            "hiragana": "てきはつ された ふせい とりひきの はいごに ひそむ きょだいな りけん そしき",
+            "romaji": "Tekihatsu sareta fusei torihiki no haigo ni hisomu kyodai na riken soshiki",
+            "translation_tm": "Üsti açylan bikanun söwdanyň aňyrsynda uly bähbitli guramanyň bolmagy.",
+            "audio_text": "てきはつされたふせいとりひきのはいごにひそむきょだいなりけんそしき"
+          },
+          {
+            "id": "twister_492",
+            "difficulty": "hard",
+            "level": "N1",
+            "japanese": "虚妄の言説を喧伝し社会の混乱を助長する",
+            "hiragana": "きょもうの げんせつを けんでんし しゃかいの こんらんを じょちょうする",
+            "romaji": "Kyomō no gensetsu wo kenden shi shakai no konran wo jochō suru",
+            "translation_tm": "Ýalan sözleri ýaýradyp jemgyýetçilik bulam-bujarlygyny artdyrmak.",
+            "audio_text": "きょもうのげんせつをけんでんししゃかいのこんらんをじょちょうする"
+          },
+          {
+            "id": "twister_493",
+            "difficulty": "hard",
+            "level": "N1",
+            "japanese": "神田鍛冶町の角の乾物屋の勘兵衛さんが勝栗買ったら固くて咬めない",
+            "hiragana": "かんだ かじまちの かどの かんぶつやの かんべえさんが かちぐり かったら かたくて かめない",
+            "romaji": "Kanda kajimachi no kado no kanbutsuya no Kanbee-san ga kachiguri kattara katakute kamenai",
+            "translation_tm": "Kanda Kajimachi burçundaky guradylan harytlar dükanynyň Kanbei kaştan alanda, gaty bolup çeýneýip bilmedi.",
+            "audio_text": "かんだかじまちのかどのかんぶつやのかんべえさんがかちぐりかったらかたくてかめない"
+          },
+          {
+            "id": "twister_494",
+            "difficulty": "hard",
+            "level": "N1",
+            "japanese": "過酷な試練を乗り越え不屈の精神を実証する",
+            "hiragana": "かこくな しれんを のりこえ ふくつの せいしんを じっしょうする",
+            "romaji": "Kakoku na shiren wo norikoe fukutsu no seishin wo jisshō suru",
+            "translation_tm": "Agyr synaglary ýeňip geçip dynjy almazlyk ruhuny subut etmek.",
+            "audio_text": "かこくなしれんをのりこえふくつのせいしんをじっしょうする"
+          },
+          {
+            "id": "twister_495",
+            "difficulty": "hard",
+            "level": "N1",
+            "japanese": "急激な情勢の変化に伴い迅速な判断が求められる",
+            "hiragana": "きゅうげきな じょうせいの へんかに ともない じんそくな はんだんが もとめられる",
+            "romaji": "Kyūgeki na jōsei no henka ni tomonai jinsoku na handan ga motomeraru",
+            "translation_tm": "Ýagdaýyň tiz üýtgemegi sebäpli tiz karar bermek talap edilýär.",
+            "audio_text": "きゅうげきなじょうせいのへんかにともないじんそくなはんだんがもとめられる"
+          },
+          {
+            "id": "twister_496",
+            "difficulty": "hard",
+            "level": "N1",
+            "japanese": "画期的なイノベーションが産業構造を根底から変革する",
+            "hiragana": "かっきてきな いのべーしょんが さんぎょう こうぞうを こんていから へんかくする",
+            "romaji": "Kakkiteki na inobēshon ga sangyō kōzō wo kontei kara henkaku suru",
+            "translation_tm": "Täze innowasion açyş senagat gurluşyny düýbünden üýtgedýär.",
+            "audio_text": "かっきてきないのべーしょんがさんぎょうこうぞうをこんていからへんかくする"
+          },
+          {
+            "id": "twister_497",
+            "difficulty": "hard",
+            "level": "N1",
+            "japanese": "錯綜する利益関係を調整し破綻を回避する",
+            "hiragana": "さくそうする りえき かんけいを ちょうせいし はたんを かいひする",
+            "romaji": "Sakusō suru rieki kankei wo chōsei shi hatan wo kaihi suru",
+            "translation_tm": "Çylşyrymly bähbit gatnaşyklaryny sazlaşdyryp bankrotlygyň öňüni almak.",
+            "audio_text": "さくそうするりえきかんけいをちょうせいしはたんをかいひする"
+          },
+          {
+            "id": "twister_498",
+            "difficulty": "hard",
+            "level": "N1",
+            "japanese": "不条理な規制の撤廃に向けて超党派で連携する",
+            "hiragana": "ふじょうりな きせいの てっぱい に むけて ちょうとうはで れんけいする",
+            "romaji": "Fujōri na kisei no teppai ni mukete chōtōha de renkei suru",
+            "translation_tm": "Adalatsyz çäklendirmeleri aýyrmak üçin dürli partiýalar birleşip işleýär.",
+            "audio_text": "ふじょうりなきせいのてっぱいにむけてちょうとうはでれんけいする"
+          },
+          {
+            "id": "twister_499",
+            "difficulty": "hard",
+            "level": "N1",
+            "japanese": "著しい成果を収めた研究者に対し名誉教授の称号が授与される",
+            "hiragana": "いちじるしい せいかを おさめた けんきゅうしゃに たいし めいよ きょうじゅの しょうごうが じゅよ される",
+            "romaji": "Ichijirushii seika wo osameta kenkyūsha ni taishi meiyo kyōju no shōgō ga juyo sareru",
+            "translation_tm": "Örän uly zähmet çeken alyma Hormatly Professor ady berilýär.",
+            "audio_text": "いちじるしいせいかをおさめたけんきゅうしゃにたいしめいよきょうじゅのしょうごうがじゅよされる"
+          },
+          {
+            "id": "twister_500",
+            "difficulty": "hard",
+            "level": "N1",
+            "japanese": "ヘリコプターから折り畳み椅子を折りたたまずに降り立ったシャア少佐の調査団団長、東京特許許可局局長許可の新設診察室写真撮影試写を社員に示唆し差し戻す指図",
+            "hiragana": "へりこぷたーから おりたたみいすを おりたたまずに おりたった しゃあしょうさの ちょうさだんだんちょう とうきょう とっきょ きょかきょくきょくちょう きょかの しんせつ しんさつしつ しゃしん さつえい ししゃを しゃいんに しさし さしもどす さしず",
+            "romaji": "Herikoptā kara oritatamiisu wo oritatamazu ni oritatta Shaa shōsa no chōsadan danchō, Tōkyō tokkyo kyokakyoku kyokuchō kyoka no shinsetsu shinsatsushitsu shashin satsuei shisha wo shain ni shisa shi sashimodosu sashizu",
+            "translation_tm": "Ortasyndan eplenýän oturgyjy eplemän düşen maýor Şa-nyň derňew toparynyň başlygy, Tokio patent rugsat býurosynyň başlygynyň rugsat beren täze barlag otagynyň fotosurat çekiliş synagyny işgärlere maslahat berip yza gaýtarmak barada görkezme berdi.",
+            "audio_text": "へりこぷたーからおりたたみいすをおりたたまずにおりたったしゃあしょうさのちょうさだんだんちょうとうきょうとっきょきょかきょくきょくちょうきょかのしんせつしんさつしつしゃしんさつえいししゃをしゃいんにしさしさしもどすさしず"
+          }
+        
+      
+  
+]
