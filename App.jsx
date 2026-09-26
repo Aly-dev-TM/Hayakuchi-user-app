@@ -10,9 +10,12 @@ import {
   Alert,
   StatusBar,
   ScrollView,
+  Linking,
+  Platform,
 } from 'react-native';
 import { SafeAreaProvider, SafeAreaView } from 'react-native-safe-area-context';
 import * as Speech from 'expo-speech';
+import * as IntentLauncher from 'expo-intent-launcher';
 import {
   Ionicons,
   MaterialCommunityIcons,
@@ -22,6 +25,7 @@ import {
 import AsyncStorage from '@react-native-async-storage/async-storage';
 
 const FAVORITES_KEY = '@hayakuchi_favorites';
+const THEME_KEY = '@hayakuchi_theme'; // Tema üçin açar
 
 // Local dataset import with fallback
 let localTwistersData = [];
@@ -219,9 +223,7 @@ export default function App() {
   const [favorites, setFavorites] = useState([]);
   const [currentPlayingId, setCurrentPlayingId] = useState(null);
   
-  // Kesgitli san bahaly ses tizligi state-i
   const [speechSpeed, setSpeechSpeed] = useState(1.25); 
-  // Speech tizligini React state-den garaşsyz hem dessine okamak üçin ref
   const speechSpeedRef = useRef(1.25);
   const speechSessionRef = useRef(0);
   
@@ -234,22 +236,39 @@ export default function App() {
   const styles = useMemo(() => getDynamicStyles(themeColors), [themeColors]);
 
   useEffect(() => {
-    const loadFavorites = async () => {
+    const loadAppData = async () => {
       try {
+        // Halanlary ýüklemek
         const storedFavorites = await AsyncStorage.getItem(FAVORITES_KEY);
         if (storedFavorites !== null) {
           setFavorites(JSON.parse(storedFavorites));
         }
+
+        // Temany ýüklemek
+        const storedTheme = await AsyncStorage.getItem(THEME_KEY);
+        if (storedTheme !== null) {
+          setIsDarkMode(JSON.parse(storedTheme));
+        }
       } catch (error) {
-        console.error("Halanlarym ýüklenende ýalňyşlyk:", error);
+        console.error("Maglumatlar ýüklenende ýalňyşlyk:", error);
       }
     };
-    loadFavorites();
+    loadAppData();
 
     return () => {
       speechSessionRef.current += 1;
       Speech.stop();
     };
+  }, []);
+
+  // Temany üýtgetmek we ýatda saklamak üçin funksiýa
+  const handleToggleTheme = useCallback(() => {
+    setIsDarkMode((prevMode) => {
+      const newMode = !prevMode;
+      AsyncStorage.setItem(THEME_KEY, JSON.stringify(newMode))
+        .catch(err => console.error("Tema saklamakda säwlik:", err));
+      return newMode;
+    });
   }, []);
 
   const handleStopAudio = useCallback(async () => {
@@ -265,16 +284,37 @@ export default function App() {
   }, []);
 
   const handleSpeechSpeedChange = useCallback((speed) => {
-    // State-i hem, ref-i hem şol bir wagtda täzeleýäris.
-    // Şeýlelikde täze saýlanan tizlik indiki speak() üçin köne closure-da galmaýar.
     speechSpeedRef.current = speed;
     setSpeechSpeed(speed);
 
-    // Häzirki speech täze tizlik bilen garyşmaz ýaly duruzýarys.
     speechSessionRef.current += 1;
     Speech.stop().catch(() => {});
     setCurrentPlayingId(null);
   }, []);
+
+  const openTTSSettings = useCallback(() => {
+    if (Platform.OS === 'android') {
+      IntentLauncher.startActivityAsync('com.android.settings.TTS_SETTINGS').catch(() => {
+        Linking.openSettings();
+      });
+    } else {
+      Linking.openURL('App-Prefs:ACCESSIBILITY');
+    }
+  }, []);
+
+  const showTTSMissingAlert = useCallback(() => {
+    Alert.alert(
+      'Ýapon Dili Ses Paketi Tapylmady / 日本語音声が必要です',
+      'Telefonyňyzda Ýapon dili (Japanese TTS) ses paketi gurnalmadyk. Sazlamalara geçip Ýapon dilini internet arkaly mugt göçürip alyň.',
+      [
+        { text: 'Ýatyr / Cancel', style: 'cancel' },
+        {
+          text: 'Sazlamalara Geç / 設定へ',
+          onPress: openTTSSettings,
+        },
+      ]
+    );
+  }, [openTTSSettings]);
 
   const handlePlayAudio = useCallback(
     async (item) => {
@@ -283,14 +323,20 @@ export default function App() {
       const textToSpeak = item.audio_text || item.hiragana || item.japanese;
 
       try {
-        // Öňki native speech session-y doly ýatyr.
         await Speech.stop();
 
-        // Android/iOS native TTS köne utterance-y queue-dan aýyrýança
-        // gysga garaşma täze rate-iň öňki rate bilen garyşmagynyň öňüni alýar.
+        const availableVoices = await Speech.getAvailableVoicesAsync();
+        const hasJapaneseVoice = availableVoices.some(
+          (voice) => voice.language.includes('ja') || voice.language.includes('JA')
+        );
+
+        if (availableVoices.length > 0 && !hasJapaneseVoice) {
+          showTTSMissingAlert();
+          return;
+        }
+
         await new Promise((resolve) => setTimeout(resolve, 80));
 
-        // Bu aralykda başga speech başlanan bolsa, köne request-i goýber.
         if (sessionId !== speechSessionRef.current) return;
 
         setCurrentPlayingId(item.id);
@@ -307,6 +353,7 @@ export default function App() {
           onError: () => {
             if (sessionId === speechSessionRef.current) {
               setCurrentPlayingId(null);
+              showTTSMissingAlert();
             }
           },
           onStopped: () => {
@@ -319,14 +366,13 @@ export default function App() {
         Speech.speak(textToSpeak, options);
       } catch (err) {
         if (sessionId === speechSessionRef.current) {
-          Alert.alert('Nätanyş säwlik', 'Sesi diňletmekde säwlik ýüze çykdy.');
           setCurrentPlayingId(null);
+          showTTSMissingAlert();
         }
       }
     },
-    []
+    [showTTSMissingAlert]
   );
-
 
   const handleToggleFavorite = useCallback((id) => {
     setFavorites((prev) => {
@@ -359,9 +405,11 @@ export default function App() {
     setSelectedLevel('ÄHLISI');
     speechSpeedRef.current = 1.25;
     setSpeechSpeed(1.25);
+    setIsDarkMode(true);
     
     try {
       await AsyncStorage.removeItem(FAVORITES_KEY);
+      await AsyncStorage.removeItem(THEME_KEY);
     } catch (e) {
       console.error(e);
     }
@@ -563,7 +611,6 @@ export default function App() {
               </View>
 
               <ScrollView showsVerticalScrollIndicator={false}>
-                {/* Speech Speed Settings - Professional UI with Exact Numbers */}
                 <Text style={styles.settingLabel}>
                   AI Sesiň Tizligi / 音声速度
                 </Text>
@@ -605,12 +652,28 @@ export default function App() {
                     />
                     <Text style={styles.settingBoxTitle}>Ulgam Sazlamalary / システム</Text>
                   </View>
-                  
-                  {/* Dark/Light Mode Toggle */}
+
+                  {/* Manual TTS Settings Access */}
                   <TouchableOpacity
                     activeOpacity={0.8}
                     style={styles.actionButton}
-                    onPress={() => setIsDarkMode(!isDarkMode)}
+                    onPress={openTTSSettings}
+                  >
+                    <Ionicons
+                      name="mic-outline"
+                      size={20}
+                      color={themeColors.textPrimary}
+                    />
+                    <Text style={styles.actionButtonText}>
+                      TTS Ses Sazlamalary / 音声設定
+                    </Text>
+                  </TouchableOpacity>
+                  
+                  {/* Dark/Light Mode Toggle - Ýatda saklanýar */}
+                  <TouchableOpacity
+                    activeOpacity={0.8}
+                    style={styles.actionButton}
+                    onPress={handleToggleTheme}
                   >
                     <Ionicons
                       name={isDarkMode ? "sunny-outline" : "moon-outline"}
@@ -1027,7 +1090,7 @@ const getDynamicStyles = (COLORS) => StyleSheet.create({
   },
   speedButtonText: {
     color: COLORS.textSubtext,
-    fontSize: 12,
+    fontSize: 11,
     fontWeight: 'bold',
     textAlign: 'center',
   },
@@ -1067,6 +1130,8 @@ const getDynamicStyles = (COLORS) => StyleSheet.create({
     fontSize: 13,
     fontWeight: 'bold',
     marginLeft: 10,
+    flex: 1,            // DÜZEDILDI: Tekstiň konteýneri doldurmagyny üpjün edýär
+    flexWrap: 'wrap',   // DÜZEDILDI: Eger sözlem uzyn bolsa, aşaky setire geçirýär
   },
   appVersionContainer: {
     alignItems: 'center',
